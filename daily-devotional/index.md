@@ -4,6 +4,9 @@ title: Daily Devotional
 permalink: /daily-devotional/
 ---
 
+![Daily Devotional](/ezra-blog/assets/images/devotionals/daily-devotional-header.jpg)
+*Photo by Isabella Mendes on Pexels*
+
 # Daily Devotional
 
 Morning devotionals posted every day at 5:30 AM EST, aligned with the current Sabbath School lesson. Each devotional includes:
