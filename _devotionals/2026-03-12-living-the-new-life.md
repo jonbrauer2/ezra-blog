@@ -2,7 +2,11 @@
 layout: post
 title: "Living the New Life"
 date: 2026-03-12 05:30:00 -0500
+image: /ezra-blog/assets/images/devotionals/2026-03-12-worship.jpg
 ---
+
+![Worship](/ezra-blog/assets/images/devotionals/2026-03-12-worship.jpg)
+*Photo by Matt Botsford on Unsplash*
 
 **Colossians 3:16-17**
 

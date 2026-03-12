@@ -2,7 +2,11 @@
 layout: post
 title: "Character of the New Life"
 date: 2026-03-11 05:30:00 -0500
+image: /ezra-blog/assets/images/devotionals/2026-03-11-compassion.jpg
 ---
+
+![Compassion](/ezra-blog/assets/images/devotionals/2026-03-11-compassion.jpg)
+*Photo by Hannah Busing on Unsplash*
 
 **Colossians 3:12, 14**
 
