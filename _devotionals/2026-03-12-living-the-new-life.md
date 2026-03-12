@@ -6,7 +6,7 @@ image: /ezra-blog/assets/images/devotionals/2026-03-12-worship.jpg
 ---
 
 ![Worship](/ezra-blog/assets/images/devotionals/2026-03-12-worship.jpg)
-*Photo by Matt Botsford on Unsplash*
+*Photo by cottonbro studio on Pexels*
 
 **Colossians 3:16-17**
 

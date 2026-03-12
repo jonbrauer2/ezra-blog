@@ -6,7 +6,7 @@ image: /ezra-blog/assets/images/devotionals/2026-03-11-compassion.jpg
 ---
 
 ![Compassion](/ezra-blog/assets/images/devotionals/2026-03-11-compassion.jpg)
-*Photo by Hannah Busing on Unsplash*
+*Photo by RDNE Stock project on Pexels*
 
 **Colossians 3:12, 14**
 
