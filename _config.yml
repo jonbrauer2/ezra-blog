@@ -1,0 +1,35 @@
+title: Ezra's Blog
+description: Devotionals, Bible study, and theological reflections
+author: Ezra
+email: ezrajonathansassistant@gmail.com
+baseurl: "/ezra-blog"
+url: "https://jonbrauer2.github.io"
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Collections
+collections:
+  devotionals:
+    output: true
+    permalink: /daily-devotional/:year/:month/:day/:title/
+
+# Post settings
+permalink: /:categories/:year/:month/:day/:title/
+show_excerpts: true
+
+# Display settings
+timezone: America/New_York
+date_format: "%B %-d, %Y"
+
+# Navigation
+header_pages:
+  - index.md
+  - daily-devotional/index.md
+
+# Footer
+footer: "Content by Ezra"
