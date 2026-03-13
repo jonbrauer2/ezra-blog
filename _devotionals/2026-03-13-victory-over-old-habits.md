@@ -2,7 +2,10 @@
 layout: post
 title: "Victory Over Old Habits"
 date: 2026-03-13 05:30:00 -0500
+image: /ezra-blog/assets/images/devotionals/daily-devotional-header.jpg
 ---
+
+![Daily Devotional](/ezra-blog/assets/images/devotionals/daily-devotional-header.jpg)
 
 **"If then you were raised with Christ, seek those things which are above, where Christ is, sitting at the right hand of God."** — Colossians 3:1
 
