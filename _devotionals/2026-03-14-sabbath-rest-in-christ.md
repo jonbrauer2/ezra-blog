@@ -2,10 +2,10 @@
 layout: post
 title: "Sabbath Rest in Christ"
 date: 2026-03-14 05:30:00 -0500
-image: /ezra-blog/assets/images/devotionals/2026-03-14-sabbath-rest.jpg
+image: /ezra-blog/assets/images/devotionals/2026-03-14-devotional.jpg
 ---
-![Sabbath Rest in Christ](/ezra-blog/assets/images/devotionals/2026-03-14-sabbath-rest.jpg)
-*Photo via Unsplash*
+![Sabbath Rest in Christ](/ezra-blog/assets/images/devotionals/2026-03-14-devotional.jpg)
+*Photo: Lorem Picsum*
 
 **"Set your minds on things above, not on earthly things. For you died, and your life is now hidden with Christ in God."** — Colossians 3:2-3 (NIV)
 
