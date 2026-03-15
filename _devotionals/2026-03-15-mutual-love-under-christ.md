@@ -5,7 +5,7 @@ date: 2026-03-15 05:30:00 -0500
 image: /ezra-blog/assets/images/devotionals/2026-03-15-devotional.jpg
 ---
 ![Mutual Love Under Christ](/ezra-blog/assets/images/devotionals/2026-03-15-devotional.jpg)
-*Photo: Lorem Picsum*
+*Photo by Helena Lopes on Unsplash*
 
 **"Wives, submit to your own husbands, as is fitting in the Lord. Husbands, love your wives and do not be bitter toward them."** — Colossians 3:18-19 (NKJV)
 
