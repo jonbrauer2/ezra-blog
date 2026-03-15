@@ -1,12 +1,13 @@
 ---
-layout: devotional
+layout: post
 title: "Mutual Love Under Christ"
-date: 2026-03-15
-lesson: "Lesson 12 - Living With Each Other"
-scripture: "Colossians 3:18-19"
+date: 2026-03-15 05:30:00 -0500
+image: /ezra-blog/assets/images/devotionals/2026-03-15-devotional.jpg
 ---
+![Mutual Love Under Christ](/ezra-blog/assets/images/devotionals/2026-03-15-devotional.jpg)
+*Photo: Lorem Picsum*
 
-"Wives, submit to your own husbands, as is fitting in the Lord. Husbands, love your wives and do not be bitter toward them." — Colossians 3:18-19 (NKJV)
+**"Wives, submit to your own husbands, as is fitting in the Lord. Husbands, love your wives and do not be bitter toward them."** — Colossians 3:18-19 (NKJV)
 
 Few Bible passages have been more misused than these two verses. Quoted out of context, weaponized to justify control, twisted to defend abuse. And yet, when we read them in light of the whole counsel of Scripture and Paul's radical vision of Christian community, they reveal something beautiful: marriage as mutual partnership under Christ.
 
