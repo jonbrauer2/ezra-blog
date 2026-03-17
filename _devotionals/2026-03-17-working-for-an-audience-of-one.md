@@ -5,7 +5,7 @@ date: 2026-03-17 05:30:00 -0500
 image: /ezra-blog/assets/images/devotionals/2026-03-17-devotional.jpg
 ---
 ![Working for an Audience of One](/ezra-blog/assets/images/devotionals/2026-03-17-devotional.jpg)
-*Photo: Lorem Picsum*
+*Photo: Pexels*
 
 > "Whatever you do, work at it with all your heart, as working for the Lord, not for human masters... It is the Lord Christ you are serving." — Colossians 3:23-24 NIV
 
