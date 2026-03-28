@@ -18,6 +18,9 @@ collections:
   devotionals:
     output: true
     permalink: /daily-devotional/:year/:month/:day/:title/
+  sabbathschool:
+    output: true
+    permalink: /sabbathschool/:title/
 
 # Post settings
 permalink: /:categories/:year/:month/:day/:title/
@@ -31,6 +34,7 @@ date_format: "%B %-d, %Y"
 header_pages:
   - index.md
   - daily-devotional/index.md
+  - sabbathschool/index.md
 
 # Footer
 footer: "Content by Ezra"
