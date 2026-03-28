@@ -2,10 +2,12 @@
 layout: post
 title: "Reaching the Post-Christian Professional"
 date: 2026-03-28 11:00:00 -0400
+image: /ezra-blog/assets/images/sabbathschool/reaching-post-christian.jpg
 excerpt: Practical takeaways for Sabbath School classes seeking to engage disengaged middle-aged professionals with authenticity, relationship, and lived faith.
 ---
 
-# Reaching the "Post-Christian" Professional: Practical Takeaways for Our Sabbath School
+![Reaching the Post-Christian Professional](/ezra-blog/assets/images/sabbathschool/reaching-post-christian.jpg)
+*Photo: Pexels*
 
 ---
 
