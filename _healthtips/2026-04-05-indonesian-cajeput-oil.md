@@ -57,31 +57,42 @@ Cajeput oil has been traditionally used for:
 
 ---
 
-## How to Use Cajeput Oil Safely
+## How to Use Indonesian Cajeput Oil
 
-### ⚠️ **Important Safety Guidelines**
+### 📌 **Important: Traditional vs. Pure Essential Oil**
 
-**NEVER apply undiluted essential oil directly to skin!** Always dilute in a carrier oil first.
+**Traditional Indonesian formulations** (like Cap Lang, Eagle Brand) are **ready-to-use** and applied directly to skin—no dilution needed. These products have been safely used for generations, including on babies after bathing.
 
-**Dilution ratio:** Start with 3-6 drops per ounce of carrier oil (coconut, jojoba, or sweet almond oil). For non-sensitive skin, you can gradually increase to 15 drops per ounce.
+**Pure 100% essential oils** (Western aromatherapy grade) are more concentrated and typically require dilution.
 
-### 🧴 **Topical Application**
+*The product linked below is a traditional Indonesian formulation designed for direct application.*
 
-1. **For minor wounds/skin issues:** Mix with carrier oil and apply directly to affected area
-2. **For muscle/joint pain:** Dilute and massage into sore areas
-3. **For body care:** Add a few drops to body lotion
+---
+
+### 🧴 **Traditional Indonesian Uses**
+
+**Rub directly onto skin** for:
+
+1. **Stomach ache & digestive discomfort** - Massage onto abdomen
+2. **Muscle and joint pain** - Apply to sore areas and massage gently
+3. **Insect bites** - Dab onto affected area
+4. **Colds and congestion** - Rub on chest, back, and temples
+5. **After bathing** - Light application for warmth and comfort (traditional practice for children)
+6. **Minor cuts & scrapes** - Apply to clean wound for antiseptic protection
+
+**Application tip:** Rub into affected areas evenly until you feel warmth and comfort.
+
+### 💨 **Inhalation for Respiratory Relief**
+
+- **Steam inhalation:** Add several drops to a bowl of warm water and inhale the vapors
+- **Direct inhalation:** Pour a few drops on a cloth or tissue and breathe in
+- **Diffuser:** Use in an aromatherapy diffuser for ambient relief
 
 ### 💇 **For Hair & Scalp**
 
-- Add several drops to your shampoo before washing
-- Dilute in carrier oil and massage into scalp
-- May support scalp health (though research on hair loss is limited)
-
-### 🌬️ **Aromatherapy**
-
-- Use in a diffuser (do NOT inhale directly from the bottle)
-- May provide temporary relief from congestion and headaches
-- Use caution around children, pregnant individuals, and pets
+- Add a small amount to shampoo before washing
+- Massage directly onto scalp for scalp health
+- May support healthy hair (though clinical research is limited)
 
 ---
 
@@ -114,27 +125,41 @@ When purchasing cajeput oil, look for:
 
 ---
 
-## Precautions & Side Effects
+## Precautions & Safety Notes
 
-Cajeput oil is generally safe when used properly, but be aware of:
+Traditional Indonesian cajeput oil formulations are generally safe for most people, but keep these guidelines in mind:
 
-- **Possible side effects:** Coughing, nose/throat irritation, shortness of breath (especially if inhaled directly)
-- **Drug interactions:** May interact with prescription medications—consult your doctor first
-- **Sensitive populations:** Use extreme caution or avoid around pregnant women, children, and pets
-- **Patch test:** Always test diluted oil on a small skin area before broader application
+### ✅ **Generally Safe For:**
+- Adults and children (traditional use includes babies)
+- Direct skin application (no dilution needed for commercial products)
+- Daily use for common ailments
+
+### ⚠️ **Use With Caution:**
+- **First-time users:** Do a patch test on a small area of skin first
+- **Sensitive skin:** Start with small amounts and monitor for irritation
+- **Inhalation:** Avoid excessive direct inhalation if you have asthma or respiratory sensitivities
+- **Pregnancy:** Consult your healthcare provider first
+- **Medications:** Check with your doctor if you take prescription medications
+
+### 🚫 **Do Not:**
+- Ingest orally (external use only)
+- Apply to broken or severely irritated skin without testing first
+- Use near eyes or mucous membranes
 
 ---
 
 ## The Bottom Line
 
-Indonesian Cajeput Oil (Minyak Kayu Putih) is a versatile essential oil with centuries of traditional use and emerging scientific support. Its antiseptic, anti-inflammatory, and respiratory benefits make it a valuable addition to natural health protocols.
+Indonesian Cajeput Oil (Minyak Kayu Putih) is a time-tested traditional remedy with centuries of safe use across Southeast Asia. Its antiseptic, anti-inflammatory, and respiratory benefits make it a valuable addition to natural health protocols.
 
 **Key Takeaways:**
-- ✅ Powerful natural antiseptic
-- ✅ Supports respiratory health
-- ✅ May help with minor wounds, muscle pain, and inflammation
-- ⚠️ MUST be diluted before skin application
-- ⚠️ Consult healthcare provider before use, especially if taking medications
+- ✅ Powerful natural antiseptic with research-backed antibacterial properties
+- ✅ Supports respiratory health and relieves congestion
+- ✅ Traditional use for muscle pain, stomach ache, insect bites, and minor wounds
+- ✅ **Traditional Indonesian formulations are ready-to-use** (no dilution needed)
+- ✅ Safe for all ages when used as directed (including traditional baby care)
+- ⚠️ Do a patch test if you have sensitive skin or are a first-time user
+- ⚠️ Consult healthcare provider if pregnant or taking medications
 
 ---
 
