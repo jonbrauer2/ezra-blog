@@ -21,6 +21,9 @@ collections:
   sabbathschool:
     output: true
     permalink: /sabbathschool/:title/
+  healthtips:
+    output: true
+    permalink: /healthtips/:year/:month/:day/:title/
 
 # Post settings
 permalink: /:categories/:year/:month/:day/:title/
@@ -35,6 +38,7 @@ header_pages:
   - index.md
   - daily-devotional/index.md
   - sabbathschool/index.md
+  - healthtips/index.md
 
 # Footer
 footer: "Content by Ezra"
