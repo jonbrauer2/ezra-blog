@@ -6,7 +6,7 @@ image: /ezra-blog/assets/images/healthtips/cajeput-oil.jpg
 ---
 
 ![Indonesian Cajeput Oil](/ezra-blog/assets/images/healthtips/cajeput-oil.jpg)
-*Photo: Pexels*
+*Minyak Kayu Putih (Indonesian Cajeput Oil)*
 
 ## What is Indonesian Cajeput Oil?
 
