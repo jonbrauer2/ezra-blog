@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lesson 4: The Role of the Bible"
-date: 2026-04-18 13:30:00 -0400
+date: 2026-04-12 13:30:00 -0400
 quarter: "Q2 2026"
 series: "Growing in a Relationship With God"
 lesson_dates: "April 18–24, 2026"
