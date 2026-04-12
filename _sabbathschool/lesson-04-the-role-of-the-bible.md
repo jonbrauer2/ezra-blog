@@ -7,7 +7,12 @@ series: "Growing in a Relationship With God"
 lesson_dates: "April 18–24, 2026"
 excerpt: "Scripture as the living Word — not just information but transformation. Discussion questions on biblical authority, hermeneutics, the Holy Spirit's role in interpretation, and the Adventist sola Scriptura tradition."
 category: lesson-guide
+image: /ezra-blog/assets/images/sabbathschool/lesson-04-the-role-of-the-bible.jpg
 ---
+
+![Lesson 4: The Role of the Bible](/ezra-blog/assets/images/sabbathschool/lesson-04-the-role-of-the-bible.jpg)
+*Photo: Pexels*
+
 
 ## Lesson 4: The Role of the Bible
 ### April 18–24, 2026 | Q2 2026 — *Growing in a Relationship With God*

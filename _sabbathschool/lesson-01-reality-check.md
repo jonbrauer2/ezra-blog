@@ -7,7 +7,12 @@ series: "Growing in a Relationship With God"
 lesson_dates: "March 28 – April 3, 2026"
 excerpt: "Christ's diagnosis of Laodicea — lukewarm and self-deceived — and His remedy through genuine abiding in Him. Deep discussion questions on self-examination, the Holy Spirit, and authentic spiritual vitality."
 category: lesson-guide
+image: /ezra-blog/assets/images/sabbathschool/lesson-01-reality-check.jpg
 ---
+
+![Lesson 1: Reality Check](/ezra-blog/assets/images/sabbathschool/lesson-01-reality-check.jpg)
+*Photo: Pexels*
+
 
 **Q2 2026 - Growing in a Relationship With God**  
 **March 28 - April 3, 2026**

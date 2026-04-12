@@ -7,7 +7,12 @@ series: "Growing in a Relationship With God"
 lesson_dates: "April 11–17, 2026"
 excerpt: "Pride is the primal sin — originating with Lucifer and present in every human heart. From the Pharisee and tax collector to the kenosis of Christ, this guide wrestles with the deepest barriers to relationship with God."
 category: lesson-guide
+image: /ezra-blog/assets/images/sabbathschool/lesson-03-pride-vs-humility.jpg
 ---
+
+![Lesson 3: Pride Versus Humility](/ezra-blog/assets/images/sabbathschool/lesson-03-pride-vs-humility.jpg)
+*Photo: Pexels*
+
 
 **Q2 2026 - Growing in a Relationship With God**
 **April 11–17, 2026**

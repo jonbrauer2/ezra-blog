@@ -7,7 +7,12 @@ series: "Growing in a Relationship With God"
 lesson_dates: "April 4–10, 2026"
 excerpt: "What does it actually mean to know God — not about Him, but genuinely know Him? Discussion questions on experiential vs. propositional knowledge, the character of God, and growing intimacy with Christ."
 category: lesson-guide
+image: /ezra-blog/assets/images/sabbathschool/lesson-02-to-know-god.jpg
 ---
+
+![Lesson 2: To Know God](/ezra-blog/assets/images/sabbathschool/lesson-02-to-know-god.jpg)
+*Photo: Pexels*
+
 
 **Q2 2026 - Growing in a Relationship With God**  
 **Study for Sabbath: April 11, 2026**
