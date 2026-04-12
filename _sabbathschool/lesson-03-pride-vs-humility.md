@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lesson 3: Pride Versus Humility"
-date: 2026-04-11 13:30:00 -0400
+date: 2026-04-12 13:30:00 -0400
 quarter: "Q2 2026"
 series: "Growing in a Relationship With God"
 lesson_dates: "April 11–17, 2026"
