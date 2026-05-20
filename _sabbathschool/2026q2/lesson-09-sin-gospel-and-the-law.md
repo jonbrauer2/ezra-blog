@@ -7,10 +7,10 @@ series: "Growing in a Relationship With God"
 lesson_dates: "May 23–29, 2026"
 excerpt: "Sin, the gospel, and the law are not competing doctrines but a unified relational grammar: sin disrupts the relationship with God we are called to grow in, the gospel restores it through Christ's substitutionary work, and the law describes what love looks like in that restored relationship. This week uses Samson and Laodicea as case studies in spiritual self-deception — and Galatians 3 and Matthew 7 as the path forward."
 category: lesson-guide
-image: /ezra-blog/assets/images/sabbathschool/lesson-09-sin-gospel-and-the-law.jpg
+image: /ezra-blog/assets/images/sabbathschool/2026q2/lesson-09-sin-gospel-and-the-law.jpg
 ---
 
-![Lesson 9: Sin, the Gospel, and the Law](/ezra-blog/assets/images/sabbathschool/lesson-09-sin-gospel-and-the-law.jpg)
+![Lesson 9: Sin, the Gospel, and the Law](/ezra-blog/assets/images/sabbathschool/2026q2/lesson-09-sin-gospel-and-the-law.jpg)
 *Photo: Pexels*
 
 # Sabbath School Study Notes

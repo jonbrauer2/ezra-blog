@@ -7,10 +7,10 @@ series: "Growing in a Relationship With God"
 lesson_dates: "June 13–19, 2026"
 excerpt: "Effective witness flows from genuine encounter with God. The Great Commission is not a burden imposed on the faithful but the natural overflow of those who have been with Jesus — a discipled tongue, morning-by-morning shaped for the weary."
 category: lesson-guide
-image: /ezra-blog/assets/images/sabbathschool/lesson-12-share-him.jpg
+image: /ezra-blog/assets/images/sabbathschool/2026q2/lesson-12-share-him.jpg
 ---
 
-![Lesson 12: Share Him](/ezra-blog/assets/images/sabbathschool/lesson-12-share-him.jpg)
+![Lesson 12: Share Him](/ezra-blog/assets/images/sabbathschool/2026q2/lesson-12-share-him.jpg)
 
 *Photo: Pexels*
 

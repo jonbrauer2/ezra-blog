@@ -7,10 +7,10 @@ series: "Growing in a Relationship With God"
 lesson_dates: "May 2–8, 2026"
 excerpt: "Prayer as the breath of a soul walking with God — not technique but relationship. Discussion questions on Daniel's consistency, Enoch's walk with God, intercessory prayer, and persistent faith."
 category: lesson-guide
-image: /ezra-blog/assets/images/sabbathschool/lesson-06-prayer-warriors.jpg
+image: /ezra-blog/assets/images/sabbathschool/2026q2/lesson-06-prayer-warriors.jpg
 ---
 
-![Lesson 6: Prayer Warriors](/ezra-blog/assets/images/sabbathschool/lesson-06-prayer-warriors.jpg)
+![Lesson 6: Prayer Warriors](/ezra-blog/assets/images/sabbathschool/2026q2/lesson-06-prayer-warriors.jpg)
 *Photo: Pexels*
 
 

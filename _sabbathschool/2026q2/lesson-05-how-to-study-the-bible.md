@@ -7,10 +7,10 @@ series: "Growing in a Relationship With God"
 lesson_dates: "April 25 – May 1, 2026"
 excerpt: "Studying the Bible as a living conversation with God — not information retrieval but relational engagement. Discussion questions on the Berean approach, meditation, abiding in Christ, and the role of delight in Scripture."
 category: lesson-guide
-image: /ezra-blog/assets/images/sabbathschool/lesson-05-how-to-study-the-bible.jpg
+image: /ezra-blog/assets/images/sabbathschool/2026q2/lesson-05-how-to-study-the-bible.jpg
 ---
 
-![Lesson 5: How to Study the Bible](/ezra-blog/assets/images/sabbathschool/lesson-05-how-to-study-the-bible.jpg)
+![Lesson 5: How to Study the Bible](/ezra-blog/assets/images/sabbathschool/2026q2/lesson-05-how-to-study-the-bible.jpg)
 *Photo: Pexels*
 
 

@@ -7,10 +7,10 @@ series: "Growing in a Relationship With God"
 lesson_dates: "May 9–15, 2026"
 excerpt: "Prayer as honest intimacy with God — pouring out the heart in crisis, boldness in petition, secret devotion, and thanksgiving. Discussion questions on Elijah's desperation, the Lord's Prayer, persistent faith, and the Spirit's help in weakness."
 category: lesson-guide
-image: /ezra-blog/assets/images/sabbathschool/lesson-07-practical-prayer.jpg
+image: /ezra-blog/assets/images/sabbathschool/2026q2/lesson-07-practical-prayer.jpg
 ---
 
-![Lesson 7: Practical Prayer](/ezra-blog/assets/images/sabbathschool/lesson-07-practical-prayer.jpg)
+![Lesson 7: Practical Prayer](/ezra-blog/assets/images/sabbathschool/2026q2/lesson-07-practical-prayer.jpg)
 *Photo: Pexels*
 
 

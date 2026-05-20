@@ -7,10 +7,10 @@ series: "Growing in a Relationship With God"
 lesson_dates: "June 6–12, 2026"
 excerpt: "Setbacks are not evidence of God's absence — they are the conditions in which faith deepens and character is proven. The storm, the hemorrhaging woman, Job, and the Emmaus road all ask the same question: where is God in this?"
 category: lesson-guide
-image: /ezra-blog/assets/images/sabbathschool/lesson-11-setbacks.jpg
+image: /ezra-blog/assets/images/sabbathschool/2026q2/lesson-11-setbacks.jpg
 ---
 
-![Lesson 11: Setbacks](/ezra-blog/assets/images/sabbathschool/lesson-11-setbacks.jpg)
+![Lesson 11: Setbacks](/ezra-blog/assets/images/sabbathschool/2026q2/lesson-11-setbacks.jpg)
 
 *Photo: Pexels*
 

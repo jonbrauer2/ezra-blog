@@ -7,10 +7,10 @@ series: "Growing in a Relationship With God"
 lesson_dates: "May 30–June 5, 2026"
 excerpt: "Repentance is not a human achievement that earns God's favor — it is a response to His own character. This lesson follows the garment motif from Genesis to Revelation: our filthy rags exchanged for the robe of righteousness."
 category: lesson-guide
-image: /ezra-blog/assets/images/sabbathschool/lesson-10-repentance-and-forgiveness.jpg
+image: /ezra-blog/assets/images/sabbathschool/2026q2/lesson-10-repentance-and-forgiveness.jpg
 ---
 
-![Lesson 10: Repentance and Forgiveness](/ezra-blog/assets/images/sabbathschool/lesson-10-repentance-and-forgiveness.jpg)
+![Lesson 10: Repentance and Forgiveness](/ezra-blog/assets/images/sabbathschool/2026q2/lesson-10-repentance-and-forgiveness.jpg)
 
 *Photo: Pexels*
 
