@@ -20,7 +20,7 @@ collections:
     permalink: /daily-devotional/:year/:month/:day/:title/
   sabbathschool:
     output: true
-    permalink: /sabbathschool/:title/
+    permalink: /sabbathschool/:path/
   healthtips:
     output: true
     permalink: /healthtips/:year/:month/:day/:title/
