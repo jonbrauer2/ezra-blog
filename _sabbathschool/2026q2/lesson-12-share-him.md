@@ -47,7 +47,7 @@ This lesson completes the quarter's arc: we have spent eleven weeks *growing in 
 ## 📚 Key Passages — Exegetical Notes
 
 ### [Isaiah 50:4](https://ref.ly/logosref/Bible.Isa50.4) (Memory Text)
-- **Limmud (לִמּוּד):** "Learned" — but more precisely, *discipled*, *one who has been taught*. The same root as *talmid* (student/disciple). This is not self-acquired learning; it is received instruction. The servant's effective speech depends entirely on his receptive posture before God.
+- ***Limmud* (the discipled one):** "Learned" — but more precisely, one who has been *taught*, shaped by a teacher. This is not self-acquired knowledge; it is received instruction. The servant's effective speech flows entirely from his receptive posture before God.
 - **"Morning by morning, He awakens my ear":** The pattern is *daily* and *initiated by God*. God wakes the ear — the servant does not summon the message. This counters the performance-anxiety model of witness: you are not generating the message, you are receiving it.
 - **"A word in season to him who is weary":** The Hebrew word means exhausted, faint — the person running on empty. The discipled tongue is calibrated for the depleted person, not the comfortable one. Effective witness is pastoral: reading the person, not just delivering content.
 - **Context:** [Isaiah 50](https://ref.ly/logosref/Bible.Isa50) is the third "Servant Song." The servant's effectiveness is grounded in his own experience of suffering and non-retaliation (vv.5–9) — he can speak to the weary because he himself has been through the fire.
