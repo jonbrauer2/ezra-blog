@@ -29,8 +29,8 @@ image: /ezra-blog/assets/images/sabbathschool/2026q3/lesson-03-unity-in-christ.j
 |-----|-------|-------------|
 | Sabbath Intro | The Problem of Quarrels | [1 Cor. 1](https://ref.ly/logosref/Bible.1Cor1)–4 |
 | Sunday July 12 | The Problem of Cliques in the Church | [1 Cor. 1:12–17](https://ref.ly/logosref/Bible.1Cor1.12); [Rom. 1:29](https://ref.ly/logosref/Bible.Rom1.29) |
-| Monday July 13 | Centered on Jesus | [1 Cor. 1:10](https://ref.ly/logosref/Bible.1Cor1.10); 3:1–4 |
-| Tuesday July 14 | Wisdom and Maturity | [1 Cor. 3:1–4](https://ref.ly/logosref/Bible.1Cor3.1); 2:6–14; [Heb. 5:12–14](https://ref.ly/logosref/Bible.Heb5.12) |
+| Monday July 13 | Centered on Jesus | [1 Cor. 1:10](https://ref.ly/logosref/Bible.1Cor1.10); [3:1–4](https://ref.ly/logosref/Bible.1Cor3.1) |
+| Tuesday July 14 | Wisdom and Maturity | [1 Cor. 3:1–4](https://ref.ly/logosref/Bible.1Cor3.1); [2:6–14](https://ref.ly/logosref/Bible.1Cor2.6); [Heb. 5:12–14](https://ref.ly/logosref/Bible.Heb5.12) |
 | Wednesday July 15 | Christlike Servanthood | [Phil. 2:5–8](https://ref.ly/logosref/Bible.Phil2.5); [1 Cor. 4:1–2](https://ref.ly/logosref/Bible.1Cor4.1) |
 | Thursday July 16 | A Lifestyle That Reflects the Cross | [2 Cor. 11:23–28](https://ref.ly/logosref/Bible.2Cor11.23); [Col. 1:24](https://ref.ly/logosref/Bible.Col1.24) |
 | Friday July 17 | Further Thought | Acts of the Apostles, pp. 17–24 |

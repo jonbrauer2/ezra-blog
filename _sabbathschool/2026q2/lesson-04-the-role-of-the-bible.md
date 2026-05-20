@@ -62,7 +62,7 @@ The underlying question of the lesson: *What kind of posture do we bring to Scri
 
 ### [John 17:17](https://ref.ly/logosref/Bible.Jn17.17) (Tuesday — Bible Truth)
 - **Context:** Jesus' high priestly prayer on the eve of the cross. He is not debating epistemology; He is praying for His disciples' protection and sanctification.
-- **"Sanctify them in the truth; your word is truth":** Three things collapse into one: sanctification, truth, and the Word. To be set apart (*hagiazō*) requires truth, and truth is not an abstract concept — it is identified with *the Word*. This is a Christological statement as much as a bibliological one (cf. [John 1:1](https://ref.ly/logosref/Bible.Jn1.1); 14:6).
+- **"Sanctify them in the truth; your word is truth":** Three things collapse into one: sanctification, truth, and the Word. To be set apart (*hagiazō*) requires truth, and truth is not an abstract concept — it is identified with *the Word*. This is a Christological statement as much as a bibliological one (cf. [John 1:1](https://ref.ly/logosref/Bible.Jn1.1); [14:6](https://ref.ly/logosref/Bible.Jn14.6)).
 - **Significance for today:** When culture says "your truth" vs. "my truth," Scripture answers: truth has a source, a nature, and an address — it comes from the Father and is entrusted to the Word.
 
 ### [Psalm 119:11](https://ref.ly/logosref/Bible.Ps119.11) (Wednesday)

@@ -28,7 +28,7 @@ image: /ezra-blog/assets/images/sabbathschool/2026q2/lesson-02-to-know-god.jpg
 
 This lesson explores the **foundational importance of knowing God's character** as the basis for a deepening relationship with Him. The lesson presents three critical attributes—**holiness, love, and immanence**—as revealed through Scripture and supremely manifested in Jesus Christ. Understanding who God truly is becomes the antidote to Satan's ancient strategy of misrepresenting God's character, which began in Eden and continues today.
 
-The lesson moves from the **transcendent God of [Genesis 1](https://ref.ly/logosref/Bible.Gen1)** (Elohim, the almighty Creator) to the **immanent God of [Genesis 2](https://ref.ly/logosref/Bible.Gen2)** (Yahweh, who breathes life into Adam), culminating in **Immanuel—God with us** ([Matthew 1:23](https://ref.ly/logosref/Bible.Matt1.23); 28:20). This progression reveals that knowing God is not merely intellectual assent but relational encounter that transforms how we live.
+The lesson moves from the **transcendent God of [Genesis 1](https://ref.ly/logosref/Bible.Gen1)** (Elohim, the almighty Creator) to the **immanent God of [Genesis 2](https://ref.ly/logosref/Bible.Gen2)** (Yahweh, who breathes life into Adam), culminating in **Immanuel—God with us** ([Matthew 1:23](https://ref.ly/logosref/Bible.Matt1.23); [28:20](https://ref.ly/logosref/Bible.Matt28.20)). This progression reveals that knowing God is not merely intellectual assent but relational encounter that transforms how we live.
 
 ---
 
@@ -39,7 +39,7 @@ The lesson moves from the **transcendent God of [Genesis 1](https://ref.ly/logos
 - **[Leviticus 20:26](https://ref.ly/logosref/Bible.Lev20.26); [1 Samuel 2:2](https://ref.ly/logosref/Bible.1Sam2.2); [Isaiah 57:15](https://ref.ly/logosref/Bible.Isa57.15)** — God's holiness
 - **[1 John 4:7-19](https://ref.ly/logosref/Bible.1Jn4.7)** — God is love
 - **[Genesis 1:1](https://ref.ly/logosref/Bible.Gen1.1) & 2:7** — God's transcendence and immanence
-- **[Matthew 1:23](https://ref.ly/logosref/Bible.Matt1.23); 28:20; [John 14:9](https://ref.ly/logosref/Bible.Jn14.9)** — Jesus reveals God
+- **[Matthew 1:23](https://ref.ly/logosref/Bible.Matt1.23); [28:20](https://ref.ly/logosref/Bible.Matt28.20); [John 14:9](https://ref.ly/logosref/Bible.Jn14.9)** — Jesus reveals God
 
 ### Supporting Texts
 - [Job 36:24–39](https://ref.ly/logosref/Bible.Job36.24):30 — Elihu and God's declaration of omnipotence

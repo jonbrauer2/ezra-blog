@@ -24,7 +24,7 @@ image: /ezra-blog/assets/images/sabbathschool/2026q3/lesson-13-grace-love-and-fe
 | Day | Topic | Key Passage |
 |-----|-------|-------------|
 | Sabbath | Introduction | [2 Cor. 13:11–14](https://ref.ly/logosref/Bible.2Cor13.11) |
-| Sunday | The Grace of Jesus | [2 Cor. 8:9](https://ref.ly/logosref/Bible.2Cor8.9); 13:14 |
+| Sunday | The Grace of Jesus | [2 Cor. 8:9](https://ref.ly/logosref/Bible.2Cor8.9); [13:14](https://ref.ly/logosref/Bible.2Cor13.14) |
 | Monday | The Love of God | [1 John 4:8–11](https://ref.ly/logosref/Bible.1Jn4.8); [Rom. 5:8](https://ref.ly/logosref/Bible.Rom5.8) |
 | Tuesday | The God of Love | [2 Cor. 13:11](https://ref.ly/logosref/Bible.2Cor13.11) |
 | Wednesday | The Fellowship of the Holy Spirit | [Phil. 2:1, 2](https://ref.ly/logosref/Bible.Phil2.1); [1 Cor. 3:16](https://ref.ly/logosref/Bible.1Cor3.16) |
@@ -43,7 +43,7 @@ This is not a formula. It is a summary of everything the letter has argued. From
 
 ## 📚 Key Passages — Exegetical Notes
 
-### [2 Corinthians 8:9](https://ref.ly/logosref/Bible.2Cor8.9); 13:14 — The Grace That Bookends the Letter
+### [2 Corinthians 8:9](https://ref.ly/logosref/Bible.2Cor8.9); [13:14](https://ref.ly/logosref/Bible.2Cor13.14) — The Grace That Bookends the Letter
 
 Paul opens 2 Corinthians with "Grace to you" (1:2) and closes it with "The grace of the Lord Jesus Christ... be with you all" (13:14). He cannot begin or end without naming grace. It is not simply one of his theological themes — it is the atmosphere in which everything else happens. The word *charis* carries all its weight from [2 Corinthians 8:9](https://ref.ly/logosref/Bible.2Cor8.9): Jesus was rich and became poor so that we, through his poverty, might become rich. Grace is not a discount on sin's consequences; it is the infinite wealth of God transferred into human hands at the cost of infinite sacrifice. Any right understanding of Christian life begins here.
 
@@ -67,7 +67,7 @@ Paul narrates the entire plan of salvation in three verses of [Galatians 4](http
 
 ## 💡 Deep Discussion Questions
 
-**On the Grace of Jesus ([2 Cor. 8:9](https://ref.ly/logosref/Bible.2Cor8.9); 13:14)**
+**On the Grace of Jesus ([2 Cor. 8:9](https://ref.ly/logosref/Bible.2Cor8.9); [13:14](https://ref.ly/logosref/Bible.2Cor13.14))**
 
 1. Paul cannot begin or end a letter without naming grace. How central is grace in your own spiritual vocabulary and experience? Is it primarily a doctrinal category for you, or something you actually feel and return to daily?
 

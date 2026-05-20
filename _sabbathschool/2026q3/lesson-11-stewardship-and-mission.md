@@ -25,8 +25,8 @@ image: /ezra-blog/assets/images/sabbathschool/2026q3/lesson-11-stewardship-and-m
 |-----|-------|-------------|
 | Sabbath | Introduction | [2 Cor. 8](https://ref.ly/logosref/Bible.2Cor8)–9 |
 | Sunday | The Example of Jesus | [2 Cor. 8:9](https://ref.ly/logosref/Bible.2Cor8.9) |
-| Monday | Motivation for Giving | [2 Cor. 8:1, 5](https://ref.ly/logosref/Bible.2Cor8.1); 9:7–15 |
-| Tuesday | Planning | [2 Cor. 9:7](https://ref.ly/logosref/Bible.2Cor9.7); 8:11–12 |
+| Monday | Motivation for Giving | [2 Cor. 8:1, 5](https://ref.ly/logosref/Bible.2Cor8.1); [9:7–15](https://ref.ly/logosref/Bible.2Cor9.7) |
+| Tuesday | Planning | [2 Cor. 9:7](https://ref.ly/logosref/Bible.2Cor9.7); [8:11–12](https://ref.ly/logosref/Bible.2Cor8.11) |
 | Wednesday | Attitude | [2 Cor. 8:1–5](https://ref.ly/logosref/Bible.2Cor8.1) |
 | Thursday | Unity | [2 Cor. 8:13–24](https://ref.ly/logosref/Bible.2Cor8.13) |
 | Friday | Further Thought | *The Acts of the Apostles*, pp. 335–345 |
@@ -71,7 +71,7 @@ There is a geopolitical dimension to this offering that Paul cares about deeply.
 
 3. When you think about what Jesus gave up to become human, and then what he gave up in death, what is the honest response that wells up in you? Is it gratitude, awe, obligation, or something else? What does it mean when the expected response to the cross is generosity?
 
-**On Motivation ([2 Cor. 8:1](https://ref.ly/logosref/Bible.2Cor8.1); 9:7–15)**
+**On Motivation ([2 Cor. 8:1](https://ref.ly/logosref/Bible.2Cor8.1); [9:7–15](https://ref.ly/logosref/Bible.2Cor9.7))**
 
 4. Paul identifies four motivations for giving: gratitude for grace, following Jesus' example, sharing God's blessings, and sincere love. Which of these resonates most with you as a genuine motivator — not what you think *should* motivate you, but what actually does?
 
@@ -79,7 +79,7 @@ There is a geopolitical dimension to this offering that Paul cares about deeply.
 
 6. Paul says God loves a *cheerful* giver — and the Greek word is related to "hilarious." Have you ever experienced that kind of joy in giving? What made it different from obligatory giving? What conditions produced it?
 
-**On Planning and Proportionality ([2 Cor. 9:7](https://ref.ly/logosref/Bible.2Cor9.7); 8:11–12)**
+**On Planning and Proportionality ([2 Cor. 9:7](https://ref.ly/logosref/Bible.2Cor9.7); [8:11–12](https://ref.ly/logosref/Bible.2Cor8.11))**
 
 7. The *proaireō* principle — deciding beforehand, in your heart — suggests that spontaneous giving in the moment is not the ideal model. Paul envisions deliberate, pre-committed generosity. How do you actually plan your giving? Is it thoughtful and proportional, or more reactive?
 

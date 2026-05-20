@@ -68,12 +68,12 @@ Three movements structure this week:
 - **"As he did aforetime" (*ka'asher asah lephanim*):** Continuity is key. The crisis does not change Daniel; Daniel's character changes the crisis response.
 
 ### [Genesis 5:22-24](https://ref.ly/logosref/Bible.Gen5.22) (Tuesday — Walking with God)
-- **"Enoch walked with God" (*hanoch hithalech im 'elohim*):** The verb *halakh* (walk) is used of covenant relationship ([Gen 17:1](https://ref.ly/logosref/Bible.Gen17.1); 24:40; 48:15). It implies journeying together, shared life, companionship. Enoch did not have visions or write scripture; he *walked*.
+- **"Enoch walked with God" (*hanoch hithalech im 'elohim*):** The verb *halakh* (walk) is used of covenant relationship ([Gen 17:1](https://ref.ly/logosref/Bible.Gen17.1); [24:40](https://ref.ly/logosref/Bible.Gen24.40); [48:15](https://ref.ly/logosref/Bible.Gen48.15)). It implies journeying together, shared life, companionship. Enoch did not have visions or write scripture; he *walked*.
 - **"After he begat Methuselah three hundred years" (*achar holid et methushelah*):** Enoch's walk with God did not begin in old age after raising his family, but *in the middle of life*. The walk encompassed parenting, work, and ordinary days.
 - **"And he was not; for God took him" (*we'eynenu ki-lakach oto elohim*):** The only person in the pre-flood genealogy who does not die (*muth*). God "took" (*laqach*) him — the same word used for taking Enoch's ancestors ([Gen 5:24](https://ref.ly/logosref/Bible.Gen5.24), MT reading). The meaning: God ended his earthly sojourn by direct translation (cf. [2 Kings 2:11](https://ref.ly/logosref/Bible.2Kgs2.11); [Heb 11:5](https://ref.ly/logosref/Bible.Heb11.5)).
 - **Significance:** Enoch demonstrates that prayer is not primarily verbal but relational. Walking with God is a posture of life, not just a daily discipline.
 
-### [Exodus 32:31-32](https://ref.ly/logosref/Bible.Ex32.31); 33:15-23 (Wednesday — Intercessory prayer)
+### [Exodus 32:31-32](https://ref.ly/logosref/Bible.Ex32.31); [33:15-23](https://ref.ly/logosref/Bible.Ex33.15) (Wednesday — Intercessory prayer)
 - **Context:** The golden calf crisis ([Exod 32](https://ref.ly/logosref/Bible.Ex32)). Moses has just broken the tablets, confronted Aaron, and ordered the Levites to execute the idolaters ([Exod 32:20-28](https://ref.ly/logosref/Bible.Ex32.20)). Now he returns to God.
 - **"Blot me, I pray thee, out of thy book" (*meheni na misifrecha*):** Moses offers substitutionary atonement. This is not martyrdom complex but identification with his people. He refuses to be saved without them (cf. [Rom 9:1-3](https://ref.ly/logosref/Bible.Rom9.1)).
 - **"If thy presence go not with me, carry us not up hence" (*im-eyn panecha elekh al tit' osenu*):** Moses' greatest fear is not the wilderness, not the Canaanites, but God's absence. Presence (*panim*, literally "face") is the defining reality of the journey.

@@ -28,7 +28,7 @@ image: /ezra-blog/assets/images/sabbathschool/2026q3/lesson-12-dealing-with-fals
 | Monday | Boasting in the Lord | [2 Cor. 10:13–17](https://ref.ly/logosref/Bible.2Cor10.13) |
 | Tuesday | False Teachers Identified | [2 Cor. 11:1–15](https://ref.ly/logosref/Bible.2Cor11.1) |
 | Wednesday | Sufferings for the Gospel | [2 Cor. 11:22–28](https://ref.ly/logosref/Bible.2Cor11.22) |
-| Thursday | Appeal to the Unrepentant | [2 Cor. 12:20–21](https://ref.ly/logosref/Bible.2Cor12.20); 13:5 |
+| Thursday | Appeal to the Unrepentant | [2 Cor. 12:20–21](https://ref.ly/logosref/Bible.2Cor12.20); [13:5](https://ref.ly/logosref/Bible.2Cor13.5) |
 | Friday | Further Thought | EGW, *Counsels to Writers and Editors*, pp. 36–37 |
 
 ---
@@ -111,7 +111,7 @@ His "thorn in the flesh" (12:7) adds a final, pointed irony: God gave him a weak
 
 15. Paul reaches a paradox: "When I am weak, then I am strong." Have you actually experienced that — a moment where your inadequacy was precisely the condition for God's power to be visible? What happened?
 
-**On Self-Examination and Discipline ([2 Cor. 12:20–21](https://ref.ly/logosref/Bible.2Cor12.20); 13:5)**
+**On Self-Examination and Discipline ([2 Cor. 12:20–21](https://ref.ly/logosref/Bible.2Cor12.20); [13:5](https://ref.ly/logosref/Bible.2Cor13.5))**
 
 16. "Examine yourselves, to see whether you are in the faith." When did you last genuinely do this — not a formal doctrinal inventory, but a real look at whether your actual life is oriented around the Jesus Paul preached? What do you find when you look?
 

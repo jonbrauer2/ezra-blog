@@ -29,8 +29,8 @@ image: /ezra-blog/assets/images/sabbathschool/2026q3/lesson-01-pauls-ministry-in
 |-----|-------|-------------|
 | Sabbath Intro | The Essence of Christian Life and Witness | [1 Cor. 2:2](https://ref.ly/logosref/Bible.1Cor2.2) |
 | Sunday June 28 | Paul, a God-called Apostle of Jesus | [1 Cor. 1:1](https://ref.ly/logosref/Bible.1Cor1.1); [Gal. 1:1](https://ref.ly/logosref/Bible.Gal1.1) |
-| Monday June 29 | From Athens to Corinth | [Acts 17:16–34](https://ref.ly/logosref/Bible.Acts17.16); 18:1–11 |
-| Tuesday June 30 | The City of Corinth | [Acts 18:1–3](https://ref.ly/logosref/Bible.Acts18.1); [1 Cor. 5:9–11](https://ref.ly/logosref/Bible.1Cor5.9); 8:4 |
+| Monday June 29 | From Athens to Corinth | [Acts 17:16–34](https://ref.ly/logosref/Bible.Acts17.16); [18:1–11](https://ref.ly/logosref/Bible.Acts18.1) |
+| Tuesday June 30 | The City of Corinth | [Acts 18:1–3](https://ref.ly/logosref/Bible.Acts18.1); [1 Cor. 5:9–11](https://ref.ly/logosref/Bible.1Cor5.9); [8:4](https://ref.ly/logosref/Bible.1Cor8.4) |
 | Wednesday July 1 | "Many in This City" | [Acts 18:4–10](https://ref.ly/logosref/Bible.Acts18.4) |
 | Thursday July 2 | Paul's Letters to the Corinthians | [1 Cor. 1:11–13](https://ref.ly/logosref/Bible.1Cor1.11); [2 Cor. 2:4](https://ref.ly/logosref/Bible.2Cor2.4) |
 | Friday July 3 | Further Thought | Acts of the Apostles, pp. 243–254 |

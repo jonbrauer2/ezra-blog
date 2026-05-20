@@ -59,7 +59,7 @@ This week the lesson moves us from the abstract (love's characteristics in [1 Co
 - **"That we might not trust in ourselves but in God who raises the dead" (v.9):** This is the purpose Paul finds in the near-death experience — not a lesson in resilience, but a lesson in dependence. The extremity of the crisis stripped away every resource except God.
 - **"You also helping together in prayer for us" (v.11):** Paul closes by naming the Corinthians as participants in his deliverance through prayer — a generous move that credits a church that has been difficult to him with being part of his survival.
 
-### [2 Corinthians 1:12–14](https://ref.ly/logosref/Bible.2Cor1.12); 2:17; 4:2 (Monday — Simplicity and Sincerity)
+### [2 Corinthians 1:12–14](https://ref.ly/logosref/Bible.2Cor1.12); [2:17](https://ref.ly/logosref/Bible.2Cor2.17); [4:2](https://ref.ly/logosref/Bible.2Cor4.2) (Monday — Simplicity and Sincerity)
 
 - **Context:** Paul's integrity as an apostle has been called into question. Some in Corinth accused him of being erratic and insincere — preaching one message while living another.
 - **"Simplicity and godly sincerity" (1:12):** These two qualities describe the absence of a hidden agenda. Paul is not performing ministry for self-advancement. What you see is what you are getting. He stakes his credibility not on impressiveness but on transparency.
@@ -72,7 +72,7 @@ This week the lesson moves us from the abstract (love's characteristics in [1 Co
 - **"For all the promises of God in Him are Yes" (1:20):** Paul pivots from his personal reliability to God's. His travel plans may change; the faithfulness of the God he serves does not. His own integrity is grounded in and patterned after a God who keeps his word absolutely.
 - **"I wrote to you not to come to you again in grief" (2:1–4):** The painful letter was a pastoral choice. He chose the slower, harder path of writing so that the words could be received without the heat of a face-to-face confrontation. Love sometimes means choosing the approach that gives the other person the best chance to hear well.
 
-### [2 Corinthians 2:5–11](https://ref.ly/logosref/Bible.2Cor2.5); 7:5–13 (Wednesday — Forgiveness and Reaffirmation)
+### [2 Corinthians 2:5–11](https://ref.ly/logosref/Bible.2Cor2.5); [7:5–13](https://ref.ly/logosref/Bible.2Cor7.5) (Wednesday — Forgiveness and Reaffirmation)
 
 - **Context:** The "severe letter" had produced results — the offender was disciplined. Now Paul urges them to forgive and reaffirm their love for the offender. The discipline has done its work; restoration is now the goal.
 - **"Reaffirm your love to him" (2:8):** This is not a vague encouragement to "be nice." Paul calls for a deliberate, public act of re-acceptance — as formal as the discipline was.
