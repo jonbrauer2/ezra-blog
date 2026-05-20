@@ -28,9 +28,14 @@ Resources and discussion guides for adult Sabbath School leaders and participant
 {% if current_lesson_found %}
 <div style="background:#f0f4f0;border-left:4px solid #4a7c59;padding:1em 1.25em;margin-bottom:2em;border-radius:0 4px 4px 0;">
   <p style="margin:0 0 0.25em;font-size:0.8em;text-transform:uppercase;letter-spacing:0.05em;color:#4a7c59;font-weight:bold;">Current Lesson</p>
-  <h3 style="margin:0 0 0.2em;"><a href="{{ current_lesson.url | relative_url }}">{{ current_lesson.title }}</a></h3>
-  {% if current_lesson.lesson_dates %}<p style="margin:0 0 0.4em;font-size:0.9em;color:#555;">{{ current_lesson.lesson_dates }}{% if current_lesson.series %} &mdash; <em>{{ current_lesson.series }}</em>{% endif %}</p>{% endif %}
-  {% if current_lesson.excerpt %}<p style="margin:0;font-size:0.95em;">{{ current_lesson.excerpt }}</p>{% endif %}
+  <div style="display:flex;gap:1em;align-items:flex-start;">
+    {% if current_lesson.image %}<a href="{{ current_lesson.url | relative_url }}" style="flex-shrink:0;"><img src="{{ current_lesson.image }}" alt="{{ current_lesson.title }}" style="width:120px;height:80px;object-fit:cover;border-radius:4px;"></a>{% endif %}
+    <div>
+      <h3 style="margin:0 0 0.2em;"><a href="{{ current_lesson.url | relative_url }}">{{ current_lesson.title }}</a></h3>
+      {% if current_lesson.lesson_dates %}<p style="margin:0 0 0.3em;font-size:0.9em;color:#555;">{{ current_lesson.lesson_dates }}{% if current_lesson.series %} &mdash; <em>{{ current_lesson.series }}</em>{% endif %}</p>{% endif %}
+      {% if current_lesson.excerpt %}<p style="margin:0;font-size:0.95em;">{{ current_lesson.excerpt }}</p>{% endif %}
+    </div>
+  </div>
 </div>
 {% endif %}
 
@@ -52,9 +57,13 @@ Resources and discussion guides for adult Sabbath School leaders and participant
 {% if quarter_posts.first.series %}<p style="color:#555;margin-top:-0.5em;font-style:italic;">{{ quarter_posts.first.series }}</p>{% endif %}
 
     {% for qpost in quarter_posts %}
-<article style="margin-bottom:1.1em;{% if qpost.url == current_lesson.url %}padding-left:0.75em;border-left:3px solid #4a7c59;{% endif %}">
-  <h4 style="margin-bottom:0.1em;"><a href="{{ qpost.url | relative_url }}">{{ qpost.title }}</a></h4>
-  {% if qpost.lesson_dates %}<p style="margin:0;font-size:0.85em;color:#666;">{{ qpost.lesson_dates }}</p>{% endif %}
+<article style="display:flex;gap:1em;align-items:flex-start;margin-bottom:1.5em;{% if qpost.url == current_lesson.url %}padding-left:0.75em;border-left:3px solid #4a7c59;{% endif %}">
+  {% if qpost.image %}<a href="{{ qpost.url | relative_url }}" style="flex-shrink:0;"><img src="{{ qpost.image }}" alt="{{ qpost.title }}" style="width:100px;height:67px;object-fit:cover;border-radius:3px;"></a>{% endif %}
+  <div>
+    <h4 style="margin:0 0 0.1em;"><a href="{{ qpost.url | relative_url }}">{{ qpost.title }}</a></h4>
+    {% if qpost.lesson_dates %}<p style="margin:0;font-size:0.85em;color:#666;">{{ qpost.lesson_dates }}</p>{% endif %}
+    {% if qpost.excerpt %}<p style="margin-top:0.3em;font-size:0.9em;">{{ qpost.excerpt }}</p>{% endif %}
+  </div>
 </article>
     {% endfor %}
 
@@ -64,9 +73,13 @@ Resources and discussion guides for adult Sabbath School leaders and participant
 <summary style="cursor:pointer;font-size:1.1em;font-weight:bold;padding:0.4em 0;">{{ q }}{% if quarter_posts.first.series %} &mdash; <span style="font-weight:normal;font-style:italic;">{{ quarter_posts.first.series }}</span>{% endif %} <span style="font-size:0.8em;font-weight:normal;color:#888;">({{ quarter_posts.size }} lessons)</span></summary>
 <div style="padding:0.5em 0 0 0.5em;">
     {% for qpost in quarter_posts %}
-<article style="margin-bottom:0.9em;">
-  <h4 style="margin-bottom:0.1em;"><a href="{{ qpost.url | relative_url }}">{{ qpost.title }}</a></h4>
-  {% if qpost.lesson_dates %}<p style="margin:0;font-size:0.85em;color:#666;">{{ qpost.lesson_dates }}</p>{% endif %}
+<article style="display:flex;gap:1em;align-items:flex-start;margin-bottom:1.25em;">
+  {% if qpost.image %}<a href="{{ qpost.url | relative_url }}" style="flex-shrink:0;"><img src="{{ qpost.image }}" alt="{{ qpost.title }}" style="width:80px;height:54px;object-fit:cover;border-radius:3px;opacity:0.85;"></a>{% endif %}
+  <div>
+    <h4 style="margin:0 0 0.1em;"><a href="{{ qpost.url | relative_url }}">{{ qpost.title }}</a></h4>
+    {% if qpost.lesson_dates %}<p style="margin:0;font-size:0.85em;color:#666;">{{ qpost.lesson_dates }}</p>{% endif %}
+    {% if qpost.excerpt %}<p style="margin-top:0.25em;font-size:0.88em;color:#444;">{{ qpost.excerpt }}</p>{% endif %}
+  </div>
 </article>
     {% endfor %}
 </div>
