@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lesson 10: Repentance and Forgiveness"
-date: 2026-05-20 12:00:00 -0500
+date: 2026-05-30 13:30:00 -0400
 quarter: "Q2 2026"
 series: "Growing in a Relationship With God"
 lesson_dates: "May 30–June 5, 2026"
