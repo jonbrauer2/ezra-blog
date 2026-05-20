@@ -7,10 +7,10 @@ series: "Growing in a Relationship With God"
 lesson_dates: "May 16–22, 2026"
 excerpt: "Faith is not a feeling or a religious technique — it is a God-initiated relational response. This week's lesson explores the anatomy of faith through the great faith chapter (Hebrews 11), the Canaanite woman's persistent trust, and Jesus's own Gethsemane surrender as the ultimate model."
 category: lesson-guide
-image: /assets/images/sabbathschool/lesson-08-having-faith.jpg
+image: /ezra-blog/assets/images/sabbathschool/lesson-08-having-faith.jpg
 ---
 
-![Lesson 8: Having Faith](/assets/images/sabbathschool/lesson-08-having-faith.jpg)
+![Lesson 8: Having Faith](/ezra-blog/assets/images/sabbathschool/lesson-08-having-faith.jpg)
 *Photo: Pexels*
 
 # Sabbath School Study Notes
