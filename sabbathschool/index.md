@@ -8,16 +8,18 @@ Resources and discussion guides for adult Sabbath School leaders and participant
 
 ---
 
-{% assign guides = site.sabbathschool | where: "category", "lesson-guide" | sort: "date" | reverse %}
+{% assign guides = site.sabbathschool | where: "category", "lesson-guide" | sort: "date" %}
 
-{% comment %}Current lesson: most recent post whose date is not in the future{% endcomment %}
+{% comment %}Find the current lesson: most recent one that isn't in the future{% endcomment %}
 {% assign current_lesson_found = false %}
-{% for post in guides %}
+{% assign guides_reversed = guides | reverse %}
+{% for post in guides_reversed %}
   {% unless current_lesson_found %}
-    {% assign post_date = post.date | date: "%s" | plus: 0 %}
-    {% assign now = site.time | date: "%s" | plus: 0 %}
-    {% if post_date <= now %}
+    {% assign post_ts = post.date | date: "%s" | plus: 0 %}
+    {% assign now_ts = site.time | date: "%s" | plus: 0 %}
+    {% if post_ts <= now_ts %}
       {% assign current_lesson = post %}
+      {% assign current_quarter = post.quarter %}
       {% assign current_lesson_found = true %}
     {% endif %}
   {% endunless %}
@@ -32,29 +34,49 @@ Resources and discussion guides for adult Sabbath School leaders and participant
 </div>
 {% endif %}
 
-{% comment %}Group by quarter using a seen-quarters approach{% endcomment %}
+---
+
+{% comment %}Build ascending list of unique quarters{% endcomment %}
 {% assign seen_quarters = "" %}
 {% for post in guides %}
   {% assign q = post.quarter %}
   {% unless seen_quarters contains q %}
     {% assign seen_quarters = seen_quarters | append: q | append: "|" %}
-
-<h2>{{ q }}</h2>
-{% if post.series %}<p style="color:#555;margin-top:-0.5em;"><em>{{ post.series }}</em></p>{% endif %}
-
     {% assign quarter_posts = guides | where: "quarter", q %}
+    {% assign is_current = false %}
+    {% if q == current_quarter %}{% assign is_current = true %}{% endif %}
+
+    {% if is_current %}
+
+## {{ q }}
+{% if quarter_posts.first.series %}<p style="color:#555;margin-top:-0.5em;font-style:italic;">{{ quarter_posts.first.series }}</p>{% endif %}
+
     {% for qpost in quarter_posts %}
-<article style="margin-bottom:1.25em;">
-  <h4 style="margin-bottom:0.15em;"><a href="{{ qpost.url | relative_url }}">{{ qpost.title }}</a></h4>
+<article style="margin-bottom:1.1em;{% if qpost.url == current_lesson.url %}padding-left:0.75em;border-left:3px solid #4a7c59;{% endif %}">
+  <h4 style="margin-bottom:0.1em;"><a href="{{ qpost.url | relative_url }}">{{ qpost.title }}</a></h4>
   {% if qpost.lesson_dates %}<p style="margin:0;font-size:0.85em;color:#666;">{{ qpost.lesson_dates }}</p>{% endif %}
-  {% if qpost.excerpt %}<p style="margin-top:0.3em;font-size:0.95em;">{{ qpost.excerpt }}</p>{% endif %}
 </article>
     {% endfor %}
 
----
+    {% else %}
 
+<details style="margin-bottom:1em;">
+<summary style="cursor:pointer;font-size:1.1em;font-weight:bold;padding:0.4em 0;">{{ q }}{% if quarter_posts.first.series %} &mdash; <span style="font-weight:normal;font-style:italic;">{{ quarter_posts.first.series }}</span>{% endif %} <span style="font-size:0.8em;font-weight:normal;color:#888;">({{ quarter_posts.size }} lessons)</span></summary>
+<div style="padding:0.5em 0 0 0.5em;">
+    {% for qpost in quarter_posts %}
+<article style="margin-bottom:0.9em;">
+  <h4 style="margin-bottom:0.1em;"><a href="{{ qpost.url | relative_url }}">{{ qpost.title }}</a></h4>
+  {% if qpost.lesson_dates %}<p style="margin:0;font-size:0.85em;color:#666;">{{ qpost.lesson_dates }}</p>{% endif %}
+</article>
+    {% endfor %}
+</div>
+</details>
+
+    {% endif %}
   {% endunless %}
 {% endfor %}
+
+---
 
 ## Reference & Background
 
