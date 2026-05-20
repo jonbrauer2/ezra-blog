@@ -19,7 +19,7 @@ image: /ezra-blog/assets/images/sabbathschool/2026q3/lesson-05-all-to-the-glory-
 ## 📖 Memory Text
 
 > *"Therefore, whether you eat or drink, or whatever you do, do all to the glory of God."*
-> — **1 Corinthians 10:31, NKJV**
+> — **[1 Corinthians 10:31](https://ref.ly/logosref/Bible.1Cor10.31), NKJV**
 
 ---
 
@@ -27,52 +27,52 @@ image: /ezra-blog/assets/images/sabbathschool/2026q3/lesson-05-all-to-the-glory-
 
 | Day | Topic | Key Passage |
 |-----|-------|-------------|
-| Sabbath Intro | Idolatry and Sexual Immorality as Twin Sins | 1 Cor. 8–10 |
-| Sunday July 26 | Knowledge Versus Love | 1 Cor. 8:1–13 |
-| Monday July 27 | Selfless Love | 1 Cor. 9:1–6 |
-| Tuesday July 28 | Learning From the Past | 1 Cor. 10:5–22 |
-| Wednesday July 29 | Warning Against Idolatry | 1 Cor. 10:5–22; Deut. 6:4–5 |
-| Thursday July 30 | Overcoming Idolatry | Mark 12:28–31; 1 Cor. 10:23–11:1 |
+| Sabbath Intro | Idolatry and Sexual Immorality as Twin Sins | [1 Cor. 8](https://ref.ly/logosref/Bible.1Cor8)–10 |
+| Sunday July 26 | Knowledge Versus Love | [1 Cor. 8:1–13](https://ref.ly/logosref/Bible.1Cor8.1) |
+| Monday July 27 | Selfless Love | [1 Cor. 9:1–6](https://ref.ly/logosref/Bible.1Cor9.1) |
+| Tuesday July 28 | Learning From the Past | [1 Cor. 10:5–22](https://ref.ly/logosref/Bible.1Cor10.5) |
+| Wednesday July 29 | Warning Against Idolatry | [1 Cor. 10:5–22](https://ref.ly/logosref/Bible.1Cor10.5); [Deut. 6:4–5](https://ref.ly/logosref/Bible.Deut6.4) |
+| Thursday July 30 | Overcoming Idolatry | [Mark 12:28–31](https://ref.ly/logosref/Bible.Mark12.28); [1 Cor. 10:23–11](https://ref.ly/logosref/Bible.1Cor10.23):1 |
 | Friday July 31 | Further Thought | — |
 
 ---
 
 ## 🔑 Central Theme
 
-Idolatry and sexual immorality are repeatedly linked in the New Testament (Acts 15:20, 29; Col. 3:5; Rev. 21:8) — not because they always appear together behaviorally, but because they share the same root: the displacement of God from the center of one's allegiance and worship. This lesson's governing question is: **What does it mean to do "all to the glory of God," and how does that comprehensive orientation protect against every form of idolatry?**
+Idolatry and sexual immorality are repeatedly linked in the New Testament ([Acts 15:20, 29](https://ref.ly/logosref/Bible.Acts15.20); [Col. 3:5](https://ref.ly/logosref/Bible.Col3.5); [Rev. 21:8](https://ref.ly/logosref/Bible.Rev21.8)) — not because they always appear together behaviorally, but because they share the same root: the displacement of God from the center of one's allegiance and worship. This lesson's governing question is: **What does it mean to do "all to the glory of God," and how does that comprehensive orientation protect against every form of idolatry?**
 
-Paul's approach to the idol-food controversy is not primarily about diet — it is about the two great commandments. Love for God above all eliminates idolatry; love for others as oneself prevents the misuse of knowledge and freedom. The synthesis is 1 Corinthians 10:31: *everything* — eating, drinking, every decision about lawful but not-always-expedient actions — is either an act of worship toward God or a form of idolatry. There is no neutral territory.
+Paul's approach to the idol-food controversy is not primarily about diet — it is about the two great commandments. Love for God above all eliminates idolatry; love for others as oneself prevents the misuse of knowledge and freedom. The synthesis is [1 Corinthians 10:31](https://ref.ly/logosref/Bible.1Cor10.31): *everything* — eating, drinking, every decision about lawful but not-always-expedient actions — is either an act of worship toward God or a form of idolatry. There is no neutral territory.
 
 ---
 
 ## 📚 Key Passages — Exegetical Notes
 
-### 1 Corinthians 8:1–3 — Knowledge That "Puffs Up" vs. Love That "Builds Up"
+### [1 Corinthians 8:1–3](https://ref.ly/logosref/Bible.1Cor8.1) — Knowledge That "Puffs Up" vs. Love That "Builds Up"
 
-- **"Knowledge puffs up (*physioi*), but love builds up (*oikodomeō*)":** *Physioi* — to inflate, to make arrogant (same root as the factionalists of ch. 4 and the scandal-tolerators of ch. 5). *Oikodomeō* — to build up, edify; the architectural metaphor for the church as a building (cf. 1 Cor. 3:9, 16). The contrast is deliberate: pride is centrifugal (scatters), love is centripetal (gathers).
+- **"Knowledge puffs up (*physioi*), but love builds up (*oikodomeō*)":** *Physioi* — to inflate, to make arrogant (same root as the factionalists of ch. 4 and the scandal-tolerators of ch. 5). *Oikodomeō* — to build up, edify; the architectural metaphor for the church as a building (cf. [1 Cor. 3:9, 16](https://ref.ly/logosref/Bible.1Cor3.9)). The contrast is deliberate: pride is centrifugal (scatters), love is centripetal (gathers).
 - **"If anyone thinks he knows something, he does not yet know as he ought to know" (v. 2):** Not anti-intellectualism but an epistemological correction. Knowledge abstracted from relationship — from love for God and others — is not genuine knowledge. True knowledge is always relational and moral.
 - **"If anyone loves God, he is known by God" (v. 3):** The passive voice is striking — genuine knowledge involves being *known* by God, not merely knowing things *about* God. The direction of the knowing relationship matters: the primary move is God's toward us.
-- **Connection to Deuteronomy 6:4–5 (*Shema*):** Paul grounds monotheism (*there is only one God*) and the first great commandment (*love the LORD with all your heart*) in the same passage. The Hebrew *shema* — "hear, O Israel" — is not merely an intellectual proposition but a relational summons: the God who is one demands a wholehearted, undivided response.
+- **Connection to [Deuteronomy 6:4–5](https://ref.ly/logosref/Bible.Deut6.4) (*Shema*):** Paul grounds monotheism (*there is only one God*) and the first great commandment (*love the LORD with all your heart*) in the same passage. The Hebrew *shema* — "hear, O Israel" — is not merely an intellectual proposition but a relational summons: the God who is one demands a wholehearted, undivided response.
 
-### 1 Corinthians 9:19–23 — Freedom for the Sake of the Gospel
+### [1 Corinthians 9:19–23](https://ref.ly/logosref/Bible.1Cor9.19) — Freedom for the Sake of the Gospel
 
 - **"I have become all things to all people, that by all means I might save some":** The principle of *contextualization without compromise* — Paul adapts his approach to different audiences (Jew, Gentile, weak, strong) without compromising the message of the Cross.
 - **The three rights Paul relinquishes (9:4–6):** Financial support (*esthiein kai pinein* — to eat and drink, representing material wages), the companionship of a spouse at the church's expense, and freedom from tentmaking labor. Each is a genuinely lawful right. Paul relinquishes them not because they are wrong but because they might obstruct the gospel's advance — cruciform methodology applied to ministry logistics.
 
-### 1 Corinthians 10:1–13 — Israel as Warning and Paradigm
+### [1 Corinthians 10:1–13](https://ref.ly/logosref/Bible.1Cor10.1) — Israel as Warning and Paradigm
 
 - **"All were baptized into Moses in the cloud and in the sea" (v. 2):** Paul draws typological parallels: cloud and sea = baptism; manna and water from the rock = Lord's Supper; the Rock = Christ (*typos* of the preexistent Christ present in the wilderness). The same sacramental realities Christians experience were present with Israel — yet "God was not pleased with most of them" (v. 5).
 - **"These things took place as examples (*typoi*) for us" (v. 6):** The Greek *typos* — a type, a pattern, literally "a stamp or impression." Israel's wilderness failure is not merely historical but typologically prescriptive for the church. Spiritual privilege does not guarantee spiritual perseverance.
 - **"Let him who thinks he stands take heed lest he fall" (v. 12):** The warning targets the "strong" who believe their theological sophistication makes them immune to idolatry's pull. Overconfidence in one's knowledge is itself a form of pride that precedes the very fall it dismisses.
 - **"God is faithful, and he will not let you be tempted beyond your ability, but with the temptation he will also provide the way of escape" (v. 13):** A promise routinely quoted in isolation. Its context is crucial: this is not a promise that temptation will be painless, but that it will not be irresistible. The "way of escape" (*ekbasin*) is not automatic — it requires watchfulness.
 
-### 1 Corinthians 10:14–22 — The Communion Logic of Idolatry
+### [1 Corinthians 10:14–22](https://ref.ly/logosref/Bible.1Cor10.14) — The Communion Logic of Idolatry
 
 - **"The cup of blessing that we bless, is it not a participation (*koinōnia*) in the blood of Christ?" (v. 16):** *Koinōnia* — fellowship, participation, communion. This is the most explicit Pauline statement about the Lord's Supper's meaning: it creates a bond of allegiance to Christ's body and blood.
 - **"You cannot drink the cup of the Lord and the cup of demons" (v. 21):** The logic is absolute — participatory acts create bonds of allegiance. Eating at a pagan temple feast is not merely a dietary decision; it is a participation in the spiritual reality behind the idol. The theological claim that "idols are nothing" (8:4) is correct but does not negate the spiritual dynamics of ritual participation.
-- **Isaiah 42:8 echo:** "My glory I will not give to another" — God's refusal to share worship is not jealousy in a petty sense but the ontological claim that only He is worthy of absolute allegiance. Idolatry is thus not merely sin; it is a category error about the nature of reality.
+- **[Isaiah 42:8](https://ref.ly/logosref/Bible.Isa42.8) echo:** "My glory I will not give to another" — God's refusal to share worship is not jealousy in a petty sense but the ontological claim that only He is worthy of absolute allegiance. Idolatry is thus not merely sin; it is a category error about the nature of reality.
 
-### 1 Corinthians 10:23–31 — "All to the Glory of God"
+### [1 Corinthians 10:23–31](https://ref.ly/logosref/Bible.1Cor10.23) — "All to the Glory of God"
 
 - **"All things are lawful, but not all things are helpful; not all things build up" (v. 23, ESV):** Paul qualifies the Corinthian slogan a second time. The criterion shifts from "is this permitted?" to "does this glorify God and build up others?" — a fundamentally higher ethical register.
 - **"Do all to the glory of God" (*panta eis doxan Theou poieite*, v. 31):** The imperative *poieite* is present active plural — ongoing, habitual action for the whole community. *Doxa* (glory) in the LXX translates the Hebrew *kabod* — the weighty, substantial self-revelation of God. To do all to God's *doxa* is to orient every action toward revealing who God is to the world.
@@ -90,7 +90,7 @@ Paul's approach to the idol-food controversy is not primarily about diet — it 
 
 3. **"If anyone loves God, he is known by God" (8:3). The direction of the knowing relationship is reversed — the primary move is God's knowing of us, not our knowing of Him. This reframes assurance entirely: it rests not on the firmness of my grip but on the firmness of God's.** How does this change how you talk about spiritual assurance with someone who feels like their faith is wavering?
 
-4. **Paul ties monotheism (Deut. 6:4) directly to the first great commandment (Deut. 6:5) — knowing that God is one must produce love for God, not merely intellectual acknowledgment. Where in your own experience have you held correct theology as a proposition without it producing the affective love the *Shema* demands?** What is the difference between believing God is one and loving God with all your heart?
+4. **Paul ties monotheism ([Deut. 6:4](https://ref.ly/logosref/Bible.Deut6.4)) directly to the first great commandment ([Deut. 6:5](https://ref.ly/logosref/Bible.Deut6.5)) — knowing that God is one must produce love for God, not merely intellectual acknowledgment. Where in your own experience have you held correct theology as a proposition without it producing the affective love the *Shema* demands?** What is the difference between believing God is one and loving God with all your heart?
 
 ### On Self-Denial and Gospel Contextualization
 
@@ -128,7 +128,7 @@ Paul's approach to the idol-food controversy is not primarily about diet — it 
 
 17. **Paul's typological reading of Israel's wilderness experience (cloud and sea = baptism; manna = Lord's Supper; Rock = Christ) is a form of retrospective Christology — reading Christ back into the narrative before the Incarnation. What are the exegetical constraints on typological reading?** When does typology illuminate what Scripture already intends, and when does it impose a reading the text cannot support?
 
-18. **The rich young ruler (Mark 10:17–22) is Paul's implicit paradigm for the idolater: he valued possessions above God and above the poor. His idolatry was not recognizable as idolatry — it looked like responsible wealth management. What makes a good thing become an idol? Is it the amount of attention it receives, the anxiety it generates when threatened, or the choices made in its favor at the expense of God and others?** Apply your answer to one specific area of your own life.
+18. **The rich young ruler ([Mark 10:17–22](https://ref.ly/logosref/Bible.Mark10.17)) is Paul's implicit paradigm for the idolater: he valued possessions above God and above the poor. His idolatry was not recognizable as idolatry — it looked like responsible wealth management. What makes a good thing become an idol? Is it the amount of attention it receives, the anxiety it generates when threatened, or the choices made in its favor at the expense of God and others?** Apply your answer to one specific area of your own life.
 
 ---
 
@@ -161,7 +161,7 @@ Paul's approach to the idol-food controversy is not primarily about diet — it 
 > *"If you see that by doing certain things which you have a perfect right to do, you hinder the advancement of God's work, refrain from doing those things. Do nothing that will close the minds of others against the truth. . . . All things may be lawful, but all things are not expedient."*
 > — **Ellen G. White**, *Testimonies for the Church*, vol. 9, p. 215
 
-**Context:** EGW applies 1 Corinthians 10:23 directly to the question of Adventist lifestyle practices — not as a list of rules but as a gospel-driven principle: the criterion is not what is allowed but what advances the truth.
+**Context:** EGW applies [1 Corinthians 10:23](https://ref.ly/logosref/Bible.1Cor10.23) directly to the question of Adventist lifestyle practices — not as a list of rules but as a gospel-driven principle: the criterion is not what is allowed but what advances the truth.
 
 **Discussion prompt:** Is there something you currently do that is genuinely lawful — scripturally permitted, morally defensible — that you suspect closes the minds of people around you to the gospel? What would it cost you to relinquish it for the sake of their hearing?
 
@@ -179,7 +179,7 @@ Paul's approach to the idol-food controversy is not primarily about diet — it 
 
 - **The "strong and weak" exercise:** Divide the class into those who identify more naturally as "strong" (theologically confident, comfortable with freedom) and "weak" (cautious, sensitive to conscience). Have each group name one thing the other group's approach gets right and one thing it gets dangerously wrong. Then read 10:31 together and ask: what would doing *this* to God's glory require of each group?
 - **Contemporary idol-mapping:** Have class members name five things Adventists in your community are most likely to quietly organize their lives around — not obviously sinful things, but things that subtly compete for the center. Rank them by how much anxiety their loss would generate. Discuss: what does the ranking reveal about allegiance?
-- **Paul's typological method:** Read 1 Corinthians 10:1–6 together and identify the Old Testament parallels Paul draws. Ask: if Paul were writing to your church today, which modern "wilderness experiences" would he reach for? What contemporary event functions as a *typos* — a pattern for warning — for your community?
+- **Paul's typological method:** Read [1 Corinthians 10:1–6](https://ref.ly/logosref/Bible.1Cor10.1) together and identify the Old Testament parallels Paul draws. Ask: if Paul were writing to your church today, which modern "wilderness experiences" would he reach for? What contemporary event functions as a *typos* — a pattern for warning — for your community?
 
 ### Intellectual Challenge
 
@@ -190,9 +190,9 @@ Paul's approach to the idol-food controversy is not primarily about diet — it 
 
 ## 🧵 Theological Threads
 
-- **The two great commandments as the antidote to idolatry:** Love for God (Deut. 6:4–5) prevents idolatry; love for neighbor (Lev. 19:18) prevents the misuse of freedom. Paul applies both commandments to the idol-food controversy — the *Shema* as the anti-idolatry structure.
+- **The two great commandments as the antidote to idolatry:** Love for God ([Deut. 6:4–5](https://ref.ly/logosref/Bible.Deut6.4)) prevents idolatry; love for neighbor ([Lev. 19:18](https://ref.ly/logosref/Bible.Lev19.18)) prevents the misuse of freedom. Paul applies both commandments to the idol-food controversy — the *Shema* as the anti-idolatry structure.
 - **Knowledge without love as a form of pride:** The "strong" in Corinth had correct theology but used it to build themselves up rather than to build others up. Theological sophistication as a status marker is its own form of the factionalism Paul has been combating since chapter 1.
-- **The Lord's Supper as defining communion:** 1 Cor. 10:16 defines the Supper as *koinōnia* — participation in Christ's body and blood. This makes it the paradigm of exclusive allegiance: simultaneously holding communion with Christ and with alternative spiritual powers is not a matter of degree but of categorical impossibility.
+- **The Lord's Supper as defining communion:** [1 Cor. 10:16](https://ref.ly/logosref/Bible.1Cor10.16) defines the Supper as *koinōnia* — participation in Christ's body and blood. This makes it the paradigm of exclusive allegiance: simultaneously holding communion with Christ and with alternative spiritual powers is not a matter of degree but of categorical impossibility.
 - **Typology as hermeneutic:** Paul's reading of Israel's wilderness experience as *typos* for the church establishes the principle that Old Testament narrative is prescriptive, not merely descriptive. The story of Israel is the church's story in a different register.
 - **The glory principle as comprehensive ethics:** "Do all to the glory of God" (10:31) is not a pious tag appended to decisions already made — it is the supreme criterion that shapes which decisions are available. It elevates Christian ethics from rule-compliance to theological orientation.
 - **Idolatry as a category error:** Anything that receives the absolute allegiance that belongs only to God is worshiped whether or not it is recognized as worship. The heart's orientation — not the label on the activity — is what constitutes idolatry or its absence.
@@ -203,14 +203,14 @@ Paul's approach to the idol-food controversy is not primarily about diet — it 
 
 | Theme | Key Text | Core Insight |
 |-------|----------|--------------|
-| Knowledge vs. love | 1 Cor. 8:1–3 | Correct theology used without love builds the self, not the church |
-| Being known by God | 1 Cor. 8:3 | Assurance rests on God's knowing of us, not our grip on God |
-| The *Shema* applied | Deut. 6:4–5 | Monotheism demands affective love, not merely intellectual assent |
-| Rights relinquished | 1 Cor. 9:4–6 | Self-denial for the gospel is cruciform methodology, not asceticism |
-| Israel's warning | 1 Cor. 10:5–6 | Sacramental privilege does not guarantee perseverance |
-| Typology | 1 Cor. 10:6 | Israel's failures are *typoi* — patterns prescribed for the church |
-| The strong and overconfidence | 1 Cor. 10:12 | Theological sophistication creates its own blind spots |
-| Way of escape | 1 Cor. 10:13 | God's faithfulness provides an exit, but watchfulness is required |
-| Communion logic | 1 Cor. 10:16, 21 | Participatory acts create bonds of allegiance — no neutrality |
-| The glory principle | 1 Cor. 10:31 | Every act reveals something about God — or displaces His glory |
+| Knowledge vs. love | [1 Cor. 8:1–3](https://ref.ly/logosref/Bible.1Cor8.1) | Correct theology used without love builds the self, not the church |
+| Being known by God | [1 Cor. 8:3](https://ref.ly/logosref/Bible.1Cor8.3) | Assurance rests on God's knowing of us, not our grip on God |
+| The *Shema* applied | [Deut. 6:4–5](https://ref.ly/logosref/Bible.Deut6.4) | Monotheism demands affective love, not merely intellectual assent |
+| Rights relinquished | [1 Cor. 9:4–6](https://ref.ly/logosref/Bible.1Cor9.4) | Self-denial for the gospel is cruciform methodology, not asceticism |
+| Israel's warning | [1 Cor. 10:5–6](https://ref.ly/logosref/Bible.1Cor10.5) | Sacramental privilege does not guarantee perseverance |
+| Typology | [1 Cor. 10:6](https://ref.ly/logosref/Bible.1Cor10.6) | Israel's failures are *typoi* — patterns prescribed for the church |
+| The strong and overconfidence | [1 Cor. 10:12](https://ref.ly/logosref/Bible.1Cor10.12) | Theological sophistication creates its own blind spots |
+| Way of escape | [1 Cor. 10:13](https://ref.ly/logosref/Bible.1Cor10.13) | God's faithfulness provides an exit, but watchfulness is required |
+| Communion logic | [1 Cor. 10:16, 21](https://ref.ly/logosref/Bible.1Cor10.16) | Participatory acts create bonds of allegiance — no neutrality |
+| The glory principle | [1 Cor. 10:31](https://ref.ly/logosref/Bible.1Cor10.31) | Every act reveals something about God — or displaces His glory |
 | Idolatry defined broadly | Acts of the Apostles, pp. 316–317 | Self-serving, love of ease, and gratification of appetite qualify |

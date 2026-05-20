@@ -15,7 +15,7 @@ image: /ezra-blog/assets/images/sabbathschool/2026q3/lesson-10-authentic-christi
 ## 📖 Memory Text
 
 > "We are afflicted in every way, but not crushed; perplexed, but not driven to despair; persecuted, but not forsaken; struck down, but not destroyed; always carrying in the body the death of Jesus, so that the life of Jesus may also be manifested in our bodies."
-> — 2 Corinthians 4:8–10, ESV
+> — [2 Corinthians 4:8–10](https://ref.ly/logosref/Bible.2Cor4.8), ESV
 
 ---
 
@@ -23,19 +23,19 @@ image: /ezra-blog/assets/images/sabbathschool/2026q3/lesson-10-authentic-christi
 
 | Day | Topic | Key Passage |
 |-----|-------|-------------|
-| Sabbath | Introduction | 2 Cor. 3–7 |
-| Sunday | Fruits of an Authentic Ministry | 2 Cor. 3:1–9 |
-| Monday | Suffering and Glory | 2 Cor. 4:7–18 |
-| Tuesday | Ministry of Reconciliation | 2 Cor. 5:11–21 |
-| Wednesday | Call to Holiness | 2 Cor. 6:11–7:1 |
-| Thursday | Comfort and Joy | 2 Cor. 7 |
+| Sabbath | Introduction | [2 Cor. 3](https://ref.ly/logosref/Bible.2Cor3)–7 |
+| Sunday | Fruits of an Authentic Ministry | [2 Cor. 3:1–9](https://ref.ly/logosref/Bible.2Cor3.1) |
+| Monday | Suffering and Glory | [2 Cor. 4:7–18](https://ref.ly/logosref/Bible.2Cor4.7) |
+| Tuesday | Ministry of Reconciliation | [2 Cor. 5:11–21](https://ref.ly/logosref/Bible.2Cor5.11) |
+| Wednesday | Call to Holiness | [2 Cor. 6:11–7](https://ref.ly/logosref/Bible.2Cor6.11):1 |
+| Thursday | Comfort and Joy | [2 Cor. 7](https://ref.ly/logosref/Bible.2Cor7) |
 | Friday | Further Thought | *The Acts of the Apostles*, pp. 323–334 |
 
 ---
 
 ## 🔑 Central Theme
 
-The most dangerous form of inauthenticity in ministry is not fraud or incompetence — it is self-promotion dressed up as servant-leadership. In 2 Corinthians 3–7, Paul offers the counter-testimony: a ministry authenticated not by credentials or success metrics, but by transformed lives and transparent suffering. The letter is Paul's theology of weakness as the vessel for God's glory. Jars of clay don't pretend to be the treasure. And that, Paul insists, is precisely the point.
+The most dangerous form of inauthenticity in ministry is not fraud or incompetence — it is self-promotion dressed up as servant-leadership. In [2 Corinthians 3](https://ref.ly/logosref/Bible.2Cor3)–7, Paul offers the counter-testimony: a ministry authenticated not by credentials or success metrics, but by transformed lives and transparent suffering. The letter is Paul's theology of weakness as the vessel for God's glory. Jars of clay don't pretend to be the treasure. And that, Paul insists, is precisely the point.
 
 The same passage holds together three things that are difficult to keep together: an unflinching acknowledgment of suffering, an unshakeable hope in resurrection, and an urgent call to reconciliation. Authentic ministry holds all three. Strip any one out and you lose the shape of the gospel itself.
 
@@ -43,23 +43,23 @@ The same passage holds together three things that are difficult to keep together
 
 ## 📚 Key Passages — Exegetical Notes
 
-### 2 Corinthians 3:1–9 — Letters Not Written in Ink
+### [2 Corinthians 3:1–9](https://ref.ly/logosref/Bible.2Cor3.1) — Letters Not Written in Ink
 
-Paul's opponents carried recommendation letters. Paul's credential was the transformed church at Corinth — "written not with ink but with the Spirit of the living God, not on tablets of stone but on tablets of human hearts" (v. 3). The contrast he draws between old and new covenant is not a dismissal of Moses but a contrast between two orientations: one that relies on human effort to fulfill God's demands (which always ends in condemnation, because no one can) and one that relies on the Spirit's power to do in us what we cannot do for ourselves. The old covenant was "the gospel in advance" (Gal. 3:8) — but received with a veil over the heart, it became a ministry of death. Received through faith, the same promises lead to life. The difference is not the covenant; it is the response of the heart.
+Paul's opponents carried recommendation letters. Paul's credential was the transformed church at Corinth — "written not with ink but with the Spirit of the living God, not on tablets of stone but on tablets of human hearts" (v. 3). The contrast he draws between old and new covenant is not a dismissal of Moses but a contrast between two orientations: one that relies on human effort to fulfill God's demands (which always ends in condemnation, because no one can) and one that relies on the Spirit's power to do in us what we cannot do for ourselves. The old covenant was "the gospel in advance" ([Gal. 3:8](https://ref.ly/logosref/Bible.Gal3.8)) — but received with a veil over the heart, it became a ministry of death. Received through faith, the same promises lead to life. The difference is not the covenant; it is the response of the heart.
 
-### 2 Corinthians 4:7–18 — Treasure in Jars of Clay
+### [2 Corinthians 4:7–18](https://ref.ly/logosref/Bible.2Cor4.7) — Treasure in Jars of Clay
 
 The image Paul chooses for himself and every minister — a common clay pot, fragile, ordinary, disposable — is deliberate. The treasure (the gospel) is disproportionately great compared to the vessel. That disproportion is the argument: "to show that the surpassing power belongs to God and not to us" (v. 7). The four paradoxes of verses 8–9 (afflicted but not crushed; perplexed but not despairing; persecuted but not forsaken; struck down but not destroyed) are not inspirational slogans — they are Paul's autobiographical diary. The life of Jesus was visible precisely in the moments when Paul should have been finished. And his anchor through all of it is verse 17: "this light momentary affliction is preparing for us an eternal weight of glory beyond all comparison."
 
-### 2 Corinthians 5:11–21 — Ambassadors for Christ
+### [2 Corinthians 5:11–21](https://ref.ly/logosref/Bible.2Cor5.11) — Ambassadors for Christ
 
 Paul's phrase "the fear of the Lord" (v. 11) in this context is not terror but reverence — the awareness that he will stand before Christ and give account of his ministry. That accountability shapes everything. What drives him, though, is not fear but love: "the love of Christ compels us" (v. 14, NKJV). The reconciliation Paul describes in 5:18–21 is one of the most theologically dense passages in his letters. The word "reconcile" (*katallassō*) in the Greek world was used for the ending of enmity — the restoration of relationship after estrangement. God initiated it. Christ absorbed the cost of it. And the church has been given the ministry of announcing it. "We are ambassadors for Christ, as though God were pleading through us" — the voice of a pleading God through fragile human mouths. That is the vocation.
 
-### 2 Corinthians 6:11–7:1 — Holiness as Response
+### [2 Corinthians 6:11–7](https://ref.ly/logosref/Bible.2Cor6.11):1 — Holiness as Response
 
-Paul's appeal in 6:14–7:1 has often been read primarily as a command — but notice the structure: four promises in verse 16 ("I will dwell in them... I will be their God... they shall be my people") precede and ground the three imperatives in verse 17 ("come out... be separate... do not touch"). Holiness is not the condition for God's presence; it is the appropriate response to it. The "unequal yoking" Paul warns against is not primarily about marriage (though it applies) — the deeper concern is entanglement in systems that compromise the church's witness and contaminate its worship. The image of the temple in 6:16 carries the same logic as 1 Corinthians 3 and 6: the church is God's dwelling place, and that identity carries both dignity and demand.
+Paul's appeal in 6:14–7:1 has often been read primarily as a command — but notice the structure: four promises in verse 16 ("I will dwell in them... I will be their God... they shall be my people") precede and ground the three imperatives in verse 17 ("come out... be separate... do not touch"). Holiness is not the condition for God's presence; it is the appropriate response to it. The "unequal yoking" Paul warns against is not primarily about marriage (though it applies) — the deeper concern is entanglement in systems that compromise the church's witness and contaminate its worship. The image of the temple in 6:16 carries the same logic as [1 Corinthians 3](https://ref.ly/logosref/Bible.1Cor3) and 6: the church is God's dwelling place, and that identity carries both dignity and demand.
 
-### 2 Corinthians 7 — Godly Sorrow vs. Worldly Sorrow
+### [2 Corinthians 7](https://ref.ly/logosref/Bible.2Cor7) — Godly Sorrow vs. Worldly Sorrow
 
 The distinction Paul draws in 7:10 is precise and pastorally important: worldly sorrow produces death; godly sorrow produces repentance leading to salvation. Worldly sorrow is sorrow over consequences — over being caught, over what was lost, over damaged reputation. Godly sorrow is sorrow over the thing itself — the rupture of relationship with God and others that sin creates. The Corinthians' response to Paul's severe letter was godly sorrow: it led to action ("what indignation, what eagerness to clear yourselves, what fear," v. 11). That distinction between wallowing in guilt and moving in repentance is one of the most practically useful tools in the pastor's kit — and Paul names it here.
 
@@ -67,7 +67,7 @@ The distinction Paul draws in 7:10 is precise and pastorally important: worldly 
 
 ## 💡 Deep Discussion Questions
 
-**On Authentic Ministry (2 Cor. 3:1–9)**
+**On Authentic Ministry ([2 Cor. 3:1–9](https://ref.ly/logosref/Bible.2Cor3.1))**
 
 1. Paul's credentials were not a letter but a transformed church. What does it mean for a ministry — or a life — to be its own letter of recommendation? What do the people around you "read" about you?
 
@@ -75,7 +75,7 @@ The distinction Paul draws in 7:10 is precise and pastorally important: worldly 
 
 3. Paul distinguishes between a legalistic response to God's covenant (self-effort) and a grace-based response (reliance on the Spirit). Where do you find yourself defaulting toward self-effort, even while confessing grace? What does that feel like from the inside?
 
-**On Weakness and Glory (2 Cor. 4:7–18)**
+**On Weakness and Glory ([2 Cor. 4:7–18](https://ref.ly/logosref/Bible.2Cor4.7))**
 
 4. "Jars of clay" — Paul chooses the most ordinary, fragile, breakable thing he can think of to describe the vessels God uses. Does that image comfort you, challenge you, or both? Why?
 
@@ -85,7 +85,7 @@ The distinction Paul draws in 7:10 is precise and pastorally important: worldly 
 
 7. Paul describes carrying "in the body the death of Jesus, so that the life of Jesus may be manifested." What does it look like in ordinary life for the life of Jesus to be made visible through someone's weakness, rather than their strength?
 
-**On Reconciliation (2 Cor. 5:11–21)**
+**On Reconciliation ([2 Cor. 5:11–21](https://ref.ly/logosref/Bible.2Cor5.11))**
 
 8. "The fear of the Lord" drives Paul to persuade people. "The love of Christ" compels him. How do reverence and love work together in your own motivation for ministry and witness? Which one tends to dominate, and what difference does that make?
 
@@ -95,7 +95,7 @@ The distinction Paul draws in 7:10 is precise and pastorally important: worldly 
 
 11. Paul says whoever is in Christ is a "new creation" — the old has gone, the new has come. Where in your life do you feel most like a new creation? Where do you feel most haunted by the old? What do you do with that gap?
 
-**On Holiness (2 Cor. 6:11–7:1)**
+**On Holiness ([2 Cor. 6:11–7](https://ref.ly/logosref/Bible.2Cor6.11):1)**
 
 12. Paul's seven promises precede his imperatives for holiness: God's presence grounds the call to purity. In your own life, do you approach holiness primarily as an obligation or as a response to the God who already dwells in you? What difference does that make in practice?
 
@@ -103,7 +103,7 @@ The distinction Paul draws in 7:10 is precise and pastorally important: worldly 
 
 14. "Let us cleanse ourselves from every defilement of body and spirit" — Paul includes both. Are there ways you tend to focus on one dimension of holiness (inward or outward) while quietly neglecting the other?
 
-**On Godly Sorrow (2 Cor. 7)**
+**On Godly Sorrow ([2 Cor. 7](https://ref.ly/logosref/Bible.2Cor7))**
 
 15. Paul distinguishes godly sorrow from worldly sorrow. Looking back at a time when you genuinely repented of something, was your sorrow closer to godly or worldly? What markers helped you tell the difference?
 
@@ -134,7 +134,7 @@ Reconciliation is not only a personal transaction between the soul and God. It i
 > "As a church, we have received great light. This light the Lord has entrusted to us for the benefit and blessing of the world. To us has been given the ministry of reconciliation. With power from on high we are to beseech men to be reconciled to God."
 > — *Letter 32, 1903*
 
-Ellen White connects the Adventist calling directly to Paul's language in 2 Corinthians 5. The ministry of reconciliation is not the pastor's job description. It is the church's.
+Ellen White connects the Adventist calling directly to Paul's language in [2 Corinthians 5](https://ref.ly/logosref/Bible.2Cor5). The ministry of reconciliation is not the pastor's job description. It is the church's.
 
 ---
 
@@ -156,7 +156,7 @@ Ellen White connects the Adventist calling directly to Paul's language in 2 Cori
 
 **Inaugurated Eschatology.** The "new creation" of 5:17 is already-and-not-yet. The believer is genuinely new — the old has passed. But the full renewal awaits resurrection. Paul holds this tension throughout: we groan in our mortal bodies (5:2), we live by faith not sight (5:7), and yet we are already reconciled, already a new creation, already ambassadors. The Christian life is lived in the overlap between what has happened and what is coming.
 
-**Holiness as Indwelling, Not Achievement.** The seven divine promises in 6:16–18 ground holiness not in human effort but in divine presence. Because God dwells in us, we become the appropriate dwelling place of God — and we should live accordingly. The imperatives follow the indicatives. Grace precedes the call to holiness. This is the same theological logic as Romans 6 and Ephesians 4.
+**Holiness as Indwelling, Not Achievement.** The seven divine promises in 6:16–18 ground holiness not in human effort but in divine presence. Because God dwells in us, we become the appropriate dwelling place of God — and we should live accordingly. The imperatives follow the indicatives. Grace precedes the call to holiness. This is the same theological logic as [Romans 6](https://ref.ly/logosref/Bible.Rom6) and [Ephesians 4](https://ref.ly/logosref/Bible.Eph4).
 
 ---
 

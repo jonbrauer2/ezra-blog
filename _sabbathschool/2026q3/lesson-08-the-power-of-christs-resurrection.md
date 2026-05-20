@@ -22,7 +22,7 @@ image: /ezra-blog/assets/images/sabbathschool/2026q3/lesson-08-the-power-of-chri
 ## 📖 Memory Text
 
 > *"And if Christ is not risen, then our preaching is empty and your faith is also empty. . . . And if Christ is not risen, your faith is futile; you are still in your sins!"*
-> — **1 Corinthians 15:14, 17, NKJV**
+> — **[1 Corinthians 15:14, 17](https://ref.ly/logosref/Bible.1Cor15.14), NKJV**
 
 ---
 
@@ -30,12 +30,12 @@ image: /ezra-blog/assets/images/sabbathschool/2026q3/lesson-08-the-power-of-chri
 
 | Day | Topic | Key Passage |
 |-----|-------|-------------|
-| Sabbath Intro | The Resurrection as Gospel | 1 Cor. 15:1–4; Luke 24:44–47 |
-| Sunday Aug 16 | Proclaiming the Resurrection | 1 Cor. 15:1–11; Rom. 1:1–4 |
-| Monday Aug 17 | Our Only Hope | 1 Cor. 15:9–19 |
-| Tuesday Aug 18 | Christ the Firstfruits | 1 Cor. 15:20–34; Rev. 20:5–6 |
-| Wednesday Aug 19 | The Resurrected Body | 1 Cor. 15:35–49; Phil. 3:21 |
-| Thursday Aug 20 | Final Victory Over Death | 1 Cor. 15:50–57; 1 Thess. 4:13–17 |
+| Sabbath Intro | The Resurrection as Gospel | [1 Cor. 15:1–4](https://ref.ly/logosref/Bible.1Cor15.1); [Luke 24:44–47](https://ref.ly/logosref/Bible.Luke24.44) |
+| Sunday Aug 16 | Proclaiming the Resurrection | [1 Cor. 15:1–11](https://ref.ly/logosref/Bible.1Cor15.1); [Rom. 1:1–4](https://ref.ly/logosref/Bible.Rom1.1) |
+| Monday Aug 17 | Our Only Hope | [1 Cor. 15:9–19](https://ref.ly/logosref/Bible.1Cor15.9) |
+| Tuesday Aug 18 | Christ the Firstfruits | [1 Cor. 15:20–34](https://ref.ly/logosref/Bible.1Cor15.20); [Rev. 20:5–6](https://ref.ly/logosref/Bible.Rev20.5) |
+| Wednesday Aug 19 | The Resurrected Body | [1 Cor. 15:35–49](https://ref.ly/logosref/Bible.1Cor15.35); [Phil. 3:21](https://ref.ly/logosref/Bible.Phil3.21) |
+| Thursday Aug 20 | Final Victory Over Death | [1 Cor. 15:50–57](https://ref.ly/logosref/Bible.1Cor15.50); [1 Thess. 4:13–17](https://ref.ly/logosref/Bible.1Thess4.13) |
 | Friday Aug 21 | Further Thought | The Great Controversy, pp. 635–652 |
 
 ---
@@ -52,37 +52,37 @@ But Paul doesn't stop at establishing the fact. He goes on to describe what resu
 
 ## 📚 Key Passages — Exegetical Notes
 
-### 1 Corinthians 15:1–11 (Sunday — The Resurrection as Historical Testimony)
+### [1 Corinthians 15:1–11](https://ref.ly/logosref/Bible.1Cor15.1) (Sunday — The Resurrection as Historical Testimony)
 
 - **Context:** Paul opens chapter 15 by returning to basics. He summarizes the gospel he had preached to the Corinthians and reminds them that their standing before God depends on holding fast to it. He then lists witnesses to the risen Christ — Peter, the Twelve, five hundred people at once, James, all the apostles, and finally Paul himself.
 - **"According to the Scriptures" (vv. 3–4):** This phrase appears twice — Christ died for our sins *according to the Scriptures*, and was raised on the third day *according to the Scriptures*. Paul is not citing specific proof texts; he is claiming that the whole arc of the Old Testament pointed toward this. The death and resurrection of Jesus is not a correction to God's plan — it is its fulfillment.
 - **The witness list (vv. 5–8):** Paul names witnesses, including five hundred people many of whom were still alive — effectively inviting the Corinthians to go ask them. This is an appeal to verifiable historical testimony, not mythology.
 - **"Last of all, as to one untimely born, he appeared also to me" (v.8):** Paul was the last and least likely witness — on the road to Damascus, actively persecuting the church. If anything, he was the most unlikely witness, which makes his testimony more striking, not less.
 
-### 1 Corinthians 15:12–19 (Monday — The Consequences of Denying the Resurrection)
+### [1 Corinthians 15:12–19](https://ref.ly/logosref/Bible.1Cor15.12) (Monday — The Consequences of Denying the Resurrection)
 
 - **Context:** Having established the historical testimony, Paul turns to the logical consequences of disbelief. He works through a chain of seven devastating conclusions that follow if the resurrection is not real — each one more catastrophic than the last.
 - **The sevenfold chain:** If there is no resurrection: (1) Christ has not been raised; (2) our preaching is empty; (3) our faith is empty; (4) we are false witnesses about God; (5) our faith is futile; (6) we are still in our sins; (7) those who have died in Christ have perished.
 - **"Empty" and "futile" (vv. 14, 17):** "Empty" points to content — preaching and faith would be hollow, without substance or truth. "Futile" points to result — faith would be fruitless, a delusion. It is not just that resurrection-less Christianity would be *untrue*, it would also be *useless*.
 - **"You are still in your sins" (v.17):** The resurrection is not a postscript to the cross — it is the Father's declaration that the Son's sacrifice was accepted. A dead Jesus means unpaid sin. A risen Jesus means justification.
 
-### 1 Corinthians 15:20–28 (Tuesday — Firstfruits and the Order of Resurrection)
+### [1 Corinthians 15:20–28](https://ref.ly/logosref/Bible.1Cor15.20) (Tuesday — Firstfruits and the Order of Resurrection)
 
 - **"But in fact Christ has been raised" (v.20):** After the hypothetical chain of catastrophe, Paul pivots sharply with this declaration. The "but in fact" is one of the most important phrases in the New Testament.
 - **"Firstfruits" (v.20):** From Israel's harvest festivals. The firstfruits were the guarantee and preview of the full harvest. Christ's resurrection is not a one-off miracle; it is the beginning of the resurrection harvest that will include every believer. Because he was raised, our raising is assured.
 - **Adam and Christ (vv. 21–22):** Through one man (Adam) death came; through one man (Christ) resurrection comes. Adam failed to submit to God and brought death; Christ, as the "last Adam," submits fully to the Father and brings life. Resurrection is not a rescue patch on a broken plan — it is the goal of the redemptive story from the beginning.
 
-### 1 Corinthians 15:35–49 (Wednesday — The Nature of the Resurrected Body)
+### [1 Corinthians 15:35–49](https://ref.ly/logosref/Bible.1Cor15.35) (Wednesday — The Nature of the Resurrected Body)
 
 - **"Fool! What you sow does not come to life unless it dies" (v.36):** Seeds die in the ground and come up as something utterly transformed. The seed and the plant are continuous (same life) and discontinuous (radically different form).
 - **Continuity and discontinuity:** Paul uses the same word — *body* — for both the buried person and the resurrected person. There is real continuity: the same person who died is the same person who rises. But the resurrection body will be imperishable, powerful, and suited for life in the age to come.
-- **"Spiritual body" does not mean no body:** Paul explicitly says that Jesus "will transform our lowly body to be like his glorious body" (Phil. 3:21). The disciples touched Jesus. He ate with them. The whole person sleeps and the whole person wakes — the body is not an obstacle to salvation; it is the object of it.
+- **"Spiritual body" does not mean no body:** Paul explicitly says that Jesus "will transform our lowly body to be like his glorious body" ([Phil. 3:21](https://ref.ly/logosref/Bible.Phil3.21)). The disciples touched Jesus. He ate with them. The whole person sleeps and the whole person wakes — the body is not an obstacle to salvation; it is the object of it.
 
-### 1 Corinthians 15:50–57 (Thursday — The Victory Hymn)
+### [1 Corinthians 15:50–57](https://ref.ly/logosref/Bible.1Cor15.50) (Thursday — The Victory Hymn)
 
 - **"Flesh and blood cannot inherit the kingdom of God" (v.50):** This is sometimes misread as Paul arguing for an immaterial afterlife. But "flesh and blood" here refers to our mortal, fallen condition — not to physicality itself. We cannot enter the new creation in our current decaying state. Transformation is necessary.
 - **"In a moment, in the twinkling of an eye" (v.52):** For those who have died, there is no experience of waiting — their next conscious moment is the trumpet call. The "delay" of the Second Coming is a delay only for the living.
-- **The taunt (vv. 55–57):** "O Death, where is your sting?" Paul quotes Hosea 13:14 as a victory taunt to a defeated enemy. The victory has already been won in Christ's resurrection. What remains is the public unveiling of that victory at the last trumpet.
+- **The taunt (vv. 55–57):** "O Death, where is your sting?" Paul quotes [Hosea 13:14](https://ref.ly/logosref/Bible.Hos13.14) as a victory taunt to a defeated enemy. The victory has already been won in Christ's resurrection. What remains is the public unveiling of that victory at the last trumpet.
 
 ---
 
@@ -90,7 +90,7 @@ But Paul doesn't stop at establishing the fact. He goes on to describe what resu
 
 ### On the Resurrection as Historical Event
 
-1. **Paul's witness list in 1 Corinthians 15:5–8 includes five hundred people many of whom were still alive — essentially saying "go ask them."** What does it mean that the Christian faith is grounded in publicly verifiable testimony rather than private religious experience? How does that affect the way you hold your own belief?
+1. **Paul's witness list in [1 Corinthians 15:5–8](https://ref.ly/logosref/Bible.1Cor15.5) includes five hundred people many of whom were still alive — essentially saying "go ask them."** What does it mean that the Christian faith is grounded in publicly verifiable testimony rather than private religious experience? How does that affect the way you hold your own belief?
 
 2. **The lesson notes that denying resurrection was not unusual in the ancient world — people saw what death did to bodies.** In what ways is resurrection just as implausible to modern people? Has the modern worldview made the case for resurrection *harder* or *easier* to hear?
 
@@ -104,7 +104,7 @@ But Paul doesn't stop at establishing the fact. He goes on to describe what resu
 
 6. **"If in Christ we have hope in this life only, we are of all people most to be pitied" (v.19).** Paul is willing to say that if the resurrection is not real, Christianity is not just wrong but pathetic. How does this intellectual honesty about the stakes of the faith affect the way you hold it?
 
-7. **How does 1 Corinthians 15 make sense if the saved go immediately to heaven at death?** If the soul is already in heaven, what exactly is being resurrected? And what does that do to the personal continuity between who you are now and who will be raised?
+7. **How does [1 Corinthians 15](https://ref.ly/logosref/Bible.1Cor15) make sense if the saved go immediately to heaven at death?** If the soul is already in heaven, what exactly is being resurrected? And what does that do to the personal continuity between who you are now and who will be raised?
 
 ### On the Firstfruits and What Resurrection Means
 
@@ -128,11 +128,11 @@ But Paul doesn't stop at establishing the fact. He goes on to describe what resu
 
 15. **Paul ends with a victory taunt: "O Death, where is your sting?"** Do you experience the Christian life with this kind of defiance toward death, or does death still feel like it has the upper hand? What would need to shift for the resurrection to feel like the victory it already is?
 
-16. **Paul says in 2 Timothy 1:12, "I know whom I have believed."** Notice he says *whom* — not *what*. His confidence is personal and relational, not merely doctrinal. How much of your own assurance about resurrection is relational (trust in a Person) versus doctrinal (belief in a fact)?
+16. **Paul says in [2 Timothy 1:12](https://ref.ly/logosref/Bible.2Tim1.12), "I know whom I have believed."** Notice he says *whom* — not *what*. His confidence is personal and relational, not merely doctrinal. How much of your own assurance about resurrection is relational (trust in a Person) versus doctrinal (belief in a fact)?
 
 ### Synthesis and Personal Application
 
-17. **When someone you love dies in Christ, how does 1 Corinthians 15 change what that death means?** In your actual experience of grief, does the resurrection hope feel real? When has it been most real? When has it felt most distant?
+17. **When someone you love dies in Christ, how does [1 Corinthians 15](https://ref.ly/logosref/Bible.1Cor15) change what that death means?** In your actual experience of grief, does the resurrection hope feel real? When has it been most real? When has it felt most distant?
 
 18. **Paul closes chapter 15 with a practical exhortation: "Be steadfast, immovable, always abounding in the work of the Lord, knowing that your labor is not in vain."** How does the certainty of resurrection make you more steadfast in your present daily work?
 
@@ -181,8 +181,8 @@ But Paul doesn't stop at establishing the fact. He goes on to describe what resu
 
 ### Individual
 
-1. **Read 1 Corinthians 15:58 slowly:** "Be steadfast, immovable, always abounding in the work of the Lord, knowing that your labor is not in vain." Identify one area where you have been tempted to give up — in ministry, a relationship, spiritual discipline. Write down how the resurrection makes that effort not in vain.
-2. **Think about someone you love who has died in faith.** Let the resurrection be personal. Read 1 Thessalonians 4:13–17 aloud with that person in mind. What does it stir in you? Bring that emotion to God in prayer rather than setting it aside.
+1. **Read [1 Corinthians 15:58](https://ref.ly/logosref/Bible.1Cor15.58) slowly:** "Be steadfast, immovable, always abounding in the work of the Lord, knowing that your labor is not in vain." Identify one area where you have been tempted to give up — in ministry, a relationship, spiritual discipline. Write down how the resurrection makes that effort not in vain.
+2. **Think about someone you love who has died in faith.** Let the resurrection be personal. Read [1 Thessalonians 4:13–17](https://ref.ly/logosref/Bible.1Thess4.13) aloud with that person in mind. What does it stir in you? Bring that emotion to God in prayer rather than setting it aside.
 3. **For one week, begin each morning with the simple statement:** "Because he was raised, I will be raised." Notice whether that changes anything about how you face the day's challenges.
 
 ### Sabbath School Class
@@ -199,7 +199,7 @@ But Paul doesn't stop at establishing the fact. He goes on to describe what resu
 
 ## 🧵 Theological Threads
 
-- **Resurrection and the gospel:** Paul defines the gospel in 1 Corinthians 15:1–4 as Christ's death, burial, and resurrection. The resurrection is not a footnote to the atonement — it is an integral part of the saving event. The cross is incomplete without the empty tomb.
+- **Resurrection and the gospel:** Paul defines the gospel in [1 Corinthians 15:1–4](https://ref.ly/logosref/Bible.1Cor15.1) as Christ's death, burial, and resurrection. The resurrection is not a footnote to the atonement — it is an integral part of the saving event. The cross is incomplete without the empty tomb.
 - **Resurrection and the state of the dead:** The dead sleep unconsciously until resurrection. This makes resurrection *the* moment of salvation's completion — not a reunion with a soul already in heaven, but the raising of the whole person. The body is not an obstacle to salvation; it is the object of it.
 - **Resurrection and eschatology:** The resurrection is not a private event at death but a corporate event at Christ's return. Christians do not grieve as isolated individuals — we are waiting together, and we will be raised together.
 - **Resurrection and ethics:** Paul ends chapter 15 not with theology but with a command: be steadfast, immovable, abounding in the Lord's work. The resurrection is the foundation for present engagement, not future escapism. Because our labor is not in vain, we invest in it fully.
@@ -211,14 +211,14 @@ But Paul doesn't stop at establishing the fact. He goes on to describe what resu
 
 | Theme | Key Text | Core Insight |
 |-------|----------|--------------|
-| The resurrection is the gospel | 1 Cor. 15:1–4 | Christ's death and resurrection fulfill all of Scripture |
-| Historical testimony | 1 Cor. 15:5–8 | Five hundred witnesses, many still alive — go ask them |
-| If no resurrection | 1 Cor. 15:14–17 | Preaching empty, faith futile, sins unforgiven |
-| But in fact | 1 Cor. 15:20 | The decisive turn: he has been raised |
-| Firstfruits | 1 Cor. 15:20–23 | His resurrection guarantees ours — the harvest has begun |
-| Adam and Christ | 1 Cor. 15:21–22 | Death came through one; resurrection comes through one |
-| The resurrected body | 1 Cor. 15:42–44 | Same person, radically transformed — imperishable, powerful |
-| Flesh and blood | 1 Cor. 15:50 | Our fallen condition cannot inherit the kingdom — transformation is needed |
-| The twinkling of an eye | 1 Cor. 15:52 | For the dead, there is no waiting — their next moment is resurrection morning |
-| The victory taunt | 1 Cor. 15:55–57 | Death is a defeated enemy — the taunt is already warranted |
-| Therefore | 1 Cor. 15:58 | Resurrection grounds present steadfastness, not future escapism |
+| The resurrection is the gospel | [1 Cor. 15:1–4](https://ref.ly/logosref/Bible.1Cor15.1) | Christ's death and resurrection fulfill all of Scripture |
+| Historical testimony | [1 Cor. 15:5–8](https://ref.ly/logosref/Bible.1Cor15.5) | Five hundred witnesses, many still alive — go ask them |
+| If no resurrection | [1 Cor. 15:14–17](https://ref.ly/logosref/Bible.1Cor15.14) | Preaching empty, faith futile, sins unforgiven |
+| But in fact | [1 Cor. 15:20](https://ref.ly/logosref/Bible.1Cor15.20) | The decisive turn: he has been raised |
+| Firstfruits | [1 Cor. 15:20–23](https://ref.ly/logosref/Bible.1Cor15.20) | His resurrection guarantees ours — the harvest has begun |
+| Adam and Christ | [1 Cor. 15:21–22](https://ref.ly/logosref/Bible.1Cor15.21) | Death came through one; resurrection comes through one |
+| The resurrected body | [1 Cor. 15:42–44](https://ref.ly/logosref/Bible.1Cor15.42) | Same person, radically transformed — imperishable, powerful |
+| Flesh and blood | [1 Cor. 15:50](https://ref.ly/logosref/Bible.1Cor15.50) | Our fallen condition cannot inherit the kingdom — transformation is needed |
+| The twinkling of an eye | [1 Cor. 15:52](https://ref.ly/logosref/Bible.1Cor15.52) | For the dead, there is no waiting — their next moment is resurrection morning |
+| The victory taunt | [1 Cor. 15:55–57](https://ref.ly/logosref/Bible.1Cor15.55) | Death is a defeated enemy — the taunt is already warranted |
+| Therefore | [1 Cor. 15:58](https://ref.ly/logosref/Bible.1Cor15.58) | Resurrection grounds present steadfastness, not future escapism |

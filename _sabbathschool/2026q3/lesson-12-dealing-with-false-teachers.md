@@ -15,7 +15,7 @@ image: /ezra-blog/assets/images/sabbathschool/2026q3/lesson-12-dealing-with-fals
 ## 📖 Memory Text
 
 > "For the weapons of our warfare are not of the flesh but have divine power to destroy strongholds."
-> — 2 Corinthians 10:4, ESV
+> — [2 Corinthians 10:4](https://ref.ly/logosref/Bible.2Cor10.4), ESV
 
 ---
 
@@ -23,12 +23,12 @@ image: /ezra-blog/assets/images/sabbathschool/2026q3/lesson-12-dealing-with-fals
 
 | Day | Topic | Key Passage |
 |-----|-------|-------------|
-| Sabbath | Introduction | 2 Cor. 10–13 |
-| Sunday | Spiritual War | 2 Cor. 10:1–11 |
-| Monday | Boasting in the Lord | 2 Cor. 10:13–17 |
-| Tuesday | False Teachers Identified | 2 Cor. 11:1–15 |
-| Wednesday | Sufferings for the Gospel | 2 Cor. 11:22–28 |
-| Thursday | Appeal to the Unrepentant | 2 Cor. 12:20–21; 13:5 |
+| Sabbath | Introduction | [2 Cor. 10](https://ref.ly/logosref/Bible.2Cor10)–13 |
+| Sunday | Spiritual War | [2 Cor. 10:1–11](https://ref.ly/logosref/Bible.2Cor10.1) |
+| Monday | Boasting in the Lord | [2 Cor. 10:13–17](https://ref.ly/logosref/Bible.2Cor10.13) |
+| Tuesday | False Teachers Identified | [2 Cor. 11:1–15](https://ref.ly/logosref/Bible.2Cor11.1) |
+| Wednesday | Sufferings for the Gospel | [2 Cor. 11:22–28](https://ref.ly/logosref/Bible.2Cor11.22) |
+| Thursday | Appeal to the Unrepentant | [2 Cor. 12:20–21](https://ref.ly/logosref/Bible.2Cor12.20); 13:5 |
 | Friday | Further Thought | EGW, *Counsels to Writers and Editors*, pp. 36–37 |
 
 ---
@@ -43,29 +43,29 @@ What Paul models in chapters 10–13 is a difficult combination that the church 
 
 ## 📚 Key Passages — Exegetical Notes
 
-### 2 Corinthians 10:1–11 — Meekness Is Not Weakness
+### [2 Corinthians 10:1–11](https://ref.ly/logosref/Bible.2Cor10.1) — Meekness Is Not Weakness
 
-Paul's opponents had read his pastoral gentleness as spinelessness: "his letters are weighty and strong, but his bodily presence is weak" (v. 10). Paul's response is to reframe meekness not as timidity but as Christlike strength under control. Jesus himself was "gentle and lowly in heart" (Matt. 11:29) — and the same Jesus overturned money tables and called the Pharisees whitewashed tombs to their faces. Gentleness and courage are not opposites; they are the two hands of faithful leadership.
+Paul's opponents had read his pastoral gentleness as spinelessness: "his letters are weighty and strong, but his bodily presence is weak" (v. 10). Paul's response is to reframe meekness not as timidity but as Christlike strength under control. Jesus himself was "gentle and lowly in heart" ([Matt. 11:29](https://ref.ly/logosref/Bible.Matt11.29)) — and the same Jesus overturned money tables and called the Pharisees whitewashed tombs to their faces. Gentleness and courage are not opposites; they are the two hands of faithful leadership.
 
 The warfare language Paul reaches for in verses 3–6 is deliberate and precise. The "strongholds" he aims to demolish are not people but arguments — intellectual and spiritual systems that hold minds captive to falsehood. The goal of the spiritual battle is not the defeat of opponents but the release of those held captive: "taking every thought captive to obey Christ" (v. 5). The weapons are divine — not rhetoric, not social pressure, not political maneuvering, but the power of God working through the proclaimed word.
 
-### 2 Corinthians 10:13–17 — Boasting in the Lord
+### [2 Corinthians 10:13–17](https://ref.ly/logosref/Bible.2Cor10.13) — Boasting in the Lord
 
-Paul's opponents engaged in competitive self-comparison, measuring themselves against each other to inflate their apparent status. Paul calls this "foolishness" (v. 12) — not just bad form but a category error. The only legitimate boast, he insists, is the boast of Jeremiah 9:24: "Let him who boasts boast in this, that he understands and knows me, that I am the LORD who practices steadfast love, justice, and righteousness in the earth." To boast in the Lord is not to shout about what God has done through you; it is to direct all attention back to God's character — his steadfast love, his justice, his faithfulness. Competitive self-promotion among Christian leaders is not a different style of ministry; it is a different gospel.
+Paul's opponents engaged in competitive self-comparison, measuring themselves against each other to inflate their apparent status. Paul calls this "foolishness" (v. 12) — not just bad form but a category error. The only legitimate boast, he insists, is the boast of [Jeremiah 9:24](https://ref.ly/logosref/Bible.Jer9.24): "Let him who boasts boast in this, that he understands and knows me, that I am the LORD who practices steadfast love, justice, and righteousness in the earth." To boast in the Lord is not to shout about what God has done through you; it is to direct all attention back to God's character — his steadfast love, his justice, his faithfulness. Competitive self-promotion among Christian leaders is not a different style of ministry; it is a different gospel.
 
-### 2 Corinthians 11:1–15 — When Servants Serve the Wrong Master
+### [2 Corinthians 11:1–15](https://ref.ly/logosref/Bible.2Cor11.1) — When Servants Serve the Wrong Master
 
 Paul's most alarming warning in the letter: the false teachers are not simply wrong in their theology. They are agents of the same power that deceived Eve — and they don't look like it. "Satan disguises himself as an angel of light. So it is no surprise if his servants, also, disguise themselves as servants of righteousness" (vv. 14–15). The most dangerous theological error is not the one that arrives looking like a wolf. It is the one that arrives looking like a shepherd, carrying a Bible, invoking Jesus by name, and preaching "a different Jesus." Paul's concern was not abstract. The Corinthians had a tender faith, newly formed. What was being offered to them sounded good — and was deadly.
 
 The image of the church as bride and Paul as the father of the bride (v. 2) is one of Paul's most tender moments in the letter. His defense of his ministry is not self-serving; it is paternal. He is preparing a daughter for her marriage, and someone has entered the house to corrupt her. His urgency makes complete sense.
 
-### 2 Corinthians 11:22–28 — The Credential That Cannot Be Faked
+### [2 Corinthians 11:22–28](https://ref.ly/logosref/Bible.2Cor11.22) — The Credential That Cannot Be Faked
 
 Paul enters the "fool's speech" reluctantly but deliberately. His Jewish credentials match the false teachers' exactly (v. 22). His difference, he says, is what he has suffered. The list is staggering: five beatings of 39 stripes, three times beaten with rods, once stoned, three shipwrecks, a night and a day in the open sea, constant travel through danger, imprisonment, exhaustion, sleeplessness, hunger, cold, nakedness — and on top of all that, "the daily pressure on me of my anxiety for all the churches" (v. 28). No imposter endures this. The suffering is not Paul's credential of superiority; it is his evidence of authenticity. He suffered these things because he was actually following the suffering Servant, actually preaching the actual gospel in actual hostile territory.
 
 His "thorn in the flesh" (12:7) adds a final, pointed irony: God gave him a weakness specifically to prevent pride, because the power Paul carried was entirely God's and needed to stay that way. "When I am weak, then I am strong" (12:10) is the theological core of the entire letter.
 
-### 2 Corinthians 13:5 — Self-Examination as the First Line of Defense
+### [2 Corinthians 13:5](https://ref.ly/logosref/Bible.2Cor13.5) — Self-Examination as the First Line of Defense
 
 "Examine yourselves, to see whether you are in the faith." Before Paul pronounces on the false teachers, he turns the lens inward — on his readers and, by extension, on every reader. The call to self-examination is not an expression of doubt about their salvation. It is an invitation to intentional, honest self-reflection: is the Christ I say I trust actually the Christ of the apostolic gospel? Is my faith shaped by the Jesus who gave himself for sinners, or by some other Jesus I have assembled from personal preference and cultural convenience?
 
@@ -73,7 +73,7 @@ His "thorn in the flesh" (12:7) adds a final, pointed irony: God gave him a weak
 
 ## 💡 Deep Discussion Questions
 
-**On Spiritual War (2 Cor. 10:1–11)**
+**On Spiritual War ([2 Cor. 10:1–11](https://ref.ly/logosref/Bible.2Cor10.1))**
 
 1. Paul's opponents read his meekness as weakness. Have you ever had your gentleness mistaken for passivity or lack of conviction? How did you — or how should one — respond without losing either the gentleness or the conviction?
 
@@ -83,7 +83,7 @@ His "thorn in the flesh" (12:7) adds a final, pointed irony: God gave him a weak
 
 4. Paul's authority, he says, is given by Christ and "aimed at building up, not tearing down" (v. 8). How do you distinguish between someone using spiritual authority to protect the flock versus someone using it to protect their own position?
 
-**On Boasting in the Lord (2 Cor. 10:13–17)**
+**On Boasting in the Lord ([2 Cor. 10:13–17](https://ref.ly/logosref/Bible.2Cor10.13))**
 
 5. Paul's opponents compared themselves to each other and inflated their status through competitive measurement. Where do you see that same impulse in contemporary church culture — and in your own heart?
 
@@ -91,7 +91,7 @@ His "thorn in the flesh" (12:7) adds a final, pointed irony: God gave him a weak
 
 7. Paul's entire ministry is focused on preaching the gospel, not defending his reputation. Have you ever found yourself more concerned with being vindicated than with people actually hearing about Jesus? What does it take to redirect from self-defense to proclamation?
 
-**On False Teachers (2 Cor. 11:1–15)**
+**On False Teachers ([2 Cor. 11:1–15](https://ref.ly/logosref/Bible.2Cor11.1))**
 
 8. Paul warns that false teachers "disguise themselves as servants of righteousness" — they don't announce themselves as false. What are the marks Paul himself demonstrates that distinguish an authentic minister from a deceptive one?
 
@@ -101,7 +101,7 @@ His "thorn in the flesh" (12:7) adds a final, pointed irony: God gave him a weak
 
 11. The false teachers preached "a different Jesus" who was apparently more appealing than Paul's Jesus. In what ways can a culturally comfortable version of Jesus subtly replace the biblical Jesus in our own thinking? How do you guard against that?
 
-**On Suffering as Credential (2 Cor. 11:22–28)**
+**On Suffering as Credential ([2 Cor. 11:22–28](https://ref.ly/logosref/Bible.2Cor11.22))**
 
 12. Paul's list of sufferings — the beatings, imprisonments, shipwrecks, hunger — is his evidence that his ministry is authentic. How should we think about suffering in our own lives? Does it have any of the same authenticating function Paul describes?
 
@@ -111,7 +111,7 @@ His "thorn in the flesh" (12:7) adds a final, pointed irony: God gave him a weak
 
 15. Paul reaches a paradox: "When I am weak, then I am strong." Have you actually experienced that — a moment where your inadequacy was precisely the condition for God's power to be visible? What happened?
 
-**On Self-Examination and Discipline (2 Cor. 12:20–21; 13:5)**
+**On Self-Examination and Discipline ([2 Cor. 12:20–21](https://ref.ly/logosref/Bible.2Cor12.20); 13:5)**
 
 16. "Examine yourselves, to see whether you are in the faith." When did you last genuinely do this — not a formal doctrinal inventory, but a real look at whether your actual life is oriented around the Jesus Paul preached? What do you find when you look?
 
@@ -121,7 +121,7 @@ His "thorn in the flesh" (12:7) adds a final, pointed irony: God gave him a weak
 
 19. Ellen White warns that many who "claim to believe the truth have settled down at their ease, saying, 'I am rich, and increased with goods, and have need of nothing.'" Where in your spiritual life might complacency have settled in — even surrounded by correct doctrine?
 
-20. Paul writes 2 Corinthians 10–13 reluctantly — he hates having to defend himself, hates the competitive atmosphere the false teachers have created. But he does it because people's souls are at stake. Is there something you have been avoiding — a difficult conversation, a necessary confrontation — because it feels like you'd be "making it about yourself"? What would faithfulness look like?
+20. Paul writes [2 Corinthians 10](https://ref.ly/logosref/Bible.2Cor10)–13 reluctantly — he hates having to defend himself, hates the competitive atmosphere the false teachers have created. But he does it because people's souls are at stake. Is there something you have been avoiding — a difficult conversation, a necessary confrontation — because it feels like you'd be "making it about yourself"? What would faithfulness look like?
 
 ---
 
@@ -130,12 +130,12 @@ His "thorn in the flesh" (12:7) adds a final, pointed irony: God gave him a weak
 > "The Lord is guarding his people against a repetition of the errors and mistakes of the past. There have always abounded false teachers who, advocating erroneous doctrines and unholy practices, and working upon false principles in a most specious, covered, deceptive manner, have endeavored to deceive, if possible, the very elect."
 > — *Advent Review and Sabbath Herald*, January 7, 1904
 
-Paul's warning in 2 Corinthians 11 is not a historical curiosity — it describes a permanent feature of the church's situation. The deception is always "specious, covered," not obvious. Discernment is always needed.
+Paul's warning in [2 Corinthians 11](https://ref.ly/logosref/Bible.2Cor11) is not a historical curiosity — it describes a permanent feature of the church's situation. The deception is always "specious, covered," not obvious. Discernment is always needed.
 
 > "Men entertain errors, when the truth is clearly marked out; and if they would but bring their doctrines to the word of God, and not read the word of God in the light of their doctrines, to prove their ideas right, they would not walk in darkness and blindness, or cherish error."
 > — *Counsels to Writers and Editors*, pp. 36–37
 
-The error Ellen White identifies is the reversal of authority: using Scripture to confirm what you already believe rather than letting Scripture correct what you believe. The stronghold Paul describes in 2 Corinthians 10 often begins here.
+The error Ellen White identifies is the reversal of authority: using Scripture to confirm what you already believe rather than letting Scripture correct what you believe. The stronghold Paul describes in [2 Corinthians 10](https://ref.ly/logosref/Bible.2Cor10) often begins here.
 
 > "The Lord designs that our opinions shall be put to the test, that we may see the necessity of closely examining the living oracles to see whether or not we are in the faith."
 > — *Counsels to Writers and Editors*, p. 36
@@ -148,9 +148,9 @@ Self-examination — "see whether you are in the faith" — is not just Paul's p
 
 **The stronghold audit.** Paul says the weapons of our warfare pull down arguments and "lofty opinions raised against the knowledge of God." This week, identify one argument in your own thinking — one narrative, one assumption — that you have noticed quietly contradicts or diminishes what the gospel says. Name it. Bring it to Scripture. What does God actually say about it?
 
-**Boast inventory.** For the next week, notice when you are tempted to compare your spiritual performance to someone else's — in conversation, in your mind, on social media. Each time you catch it, redirect: what can you say about God's character instead of your own? Practice the Jeremiah 9:24 redirect.
+**Boast inventory.** For the next week, notice when you are tempted to compare your spiritual performance to someone else's — in conversation, in your mind, on social media. Each time you catch it, redirect: what can you say about God's character instead of your own? Practice the [Jeremiah 9:24](https://ref.ly/logosref/Bible.Jer9.24) redirect.
 
-**The examination.** Set aside twenty minutes this week for 2 Corinthians 13:5 in practice. Sit with the question: *Is the Jesus I am trusting the Jesus Paul preaches — the one who died for sins, rose bodily, and is coming again?* Not the culturally familiar Jesus, but the actual one. What holds up? What needs reorientation?
+**The examination.** Set aside twenty minutes this week for [2 Corinthians 13:5](https://ref.ly/logosref/Bible.2Cor13.5) in practice. Sit with the question: *Is the Jesus I am trusting the Jesus Paul preaches — the one who died for sins, rose bodily, and is coming again?* Not the culturally familiar Jesus, but the actual one. What holds up? What needs reorientation?
 
 ---
 

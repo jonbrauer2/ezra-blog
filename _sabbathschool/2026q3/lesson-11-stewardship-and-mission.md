@@ -15,7 +15,7 @@ image: /ezra-blog/assets/images/sabbathschool/2026q3/lesson-11-stewardship-and-m
 ## 📖 Memory Text
 
 > "For you know the grace of our Lord Jesus Christ, that though He was rich, yet for your sakes He became poor, that you through His poverty might become rich."
-> — 2 Corinthians 8:9, NKJV
+> — [2 Corinthians 8:9](https://ref.ly/logosref/Bible.2Cor8.9), NKJV
 
 ---
 
@@ -23,19 +23,19 @@ image: /ezra-blog/assets/images/sabbathschool/2026q3/lesson-11-stewardship-and-m
 
 | Day | Topic | Key Passage |
 |-----|-------|-------------|
-| Sabbath | Introduction | 2 Cor. 8–9 |
-| Sunday | The Example of Jesus | 2 Cor. 8:9 |
-| Monday | Motivation for Giving | 2 Cor. 8:1, 5; 9:7–15 |
-| Tuesday | Planning | 2 Cor. 9:7; 8:11–12 |
-| Wednesday | Attitude | 2 Cor. 8:1–5 |
-| Thursday | Unity | 2 Cor. 8:13–24 |
+| Sabbath | Introduction | [2 Cor. 8](https://ref.ly/logosref/Bible.2Cor8)–9 |
+| Sunday | The Example of Jesus | [2 Cor. 8:9](https://ref.ly/logosref/Bible.2Cor8.9) |
+| Monday | Motivation for Giving | [2 Cor. 8:1, 5](https://ref.ly/logosref/Bible.2Cor8.1); 9:7–15 |
+| Tuesday | Planning | [2 Cor. 9:7](https://ref.ly/logosref/Bible.2Cor9.7); 8:11–12 |
+| Wednesday | Attitude | [2 Cor. 8:1–5](https://ref.ly/logosref/Bible.2Cor8.1) |
+| Thursday | Unity | [2 Cor. 8:13–24](https://ref.ly/logosref/Bible.2Cor8.13) |
 | Friday | Further Thought | *The Acts of the Apostles*, pp. 335–345 |
 
 ---
 
 ## 🔑 Central Theme
 
-Paul is trying to get the Corinthians to finish a fundraiser they started and then let stall — a collection for the impoverished churches in Judea. But the way he makes his case is remarkable. He doesn't argue from guilt, obligation, or community pressure. He argues from incarnation. Before asking them to give money, he holds before them a man who gave a universe. The theological logic of 2 Corinthians 8–9 is this: once you understand what Jesus actually did in becoming poor for your sake, generosity stops being a religious duty and becomes a natural language — the native tongue of people who have been loved that extravagantly.
+Paul is trying to get the Corinthians to finish a fundraiser they started and then let stall — a collection for the impoverished churches in Judea. But the way he makes his case is remarkable. He doesn't argue from guilt, obligation, or community pressure. He argues from incarnation. Before asking them to give money, he holds before them a man who gave a universe. The theological logic of [2 Corinthians 8](https://ref.ly/logosref/Bible.2Cor8)–9 is this: once you understand what Jesus actually did in becoming poor for your sake, generosity stops being a religious duty and becomes a natural language — the native tongue of people who have been loved that extravagantly.
 
 Stewardship and mission are not two separate categories for Paul. They are the same movement: the love of God flowing through us outward into the world. Giving is the proof that the love of Christ has actually landed.
 
@@ -43,19 +43,19 @@ Stewardship and mission are not two separate categories for Paul. They are the s
 
 ## 📚 Key Passages — Exegetical Notes
 
-### 2 Corinthians 8:9 — The Incarnation in One Verse
+### [2 Corinthians 8:9](https://ref.ly/logosref/Bible.2Cor8.9) — The Incarnation in One Verse
 
-Paul distills the entire story of the incarnation into the language of wealth and poverty — not because money is what it was about, but because that vocabulary captures the staggering distance traveled. "Rich" points to Christ's pre-existence in the full glory of the Father (John 17:5). "Poor" points to the kenosis of Philippians 2 — he "emptied himself, taking the form of a servant" — and to the literal material poverty of Jesus' life (Luke 9:58: "the Son of Man has nowhere to lay his head"). The purpose clause is the hinge: "that you through his poverty might become rich." The poverty was not the point; your enrichment was. He absorbed the cost so you could receive the benefit. This is why Paul uses incarnation theology to motivate financial generosity — the gift of self is the pattern that all other giving is meant to echo.
+Paul distills the entire story of the incarnation into the language of wealth and poverty — not because money is what it was about, but because that vocabulary captures the staggering distance traveled. "Rich" points to Christ's pre-existence in the full glory of the Father ([John 17:5](https://ref.ly/logosref/Bible.Jn17.5)). "Poor" points to the kenosis of [Philippians 2](https://ref.ly/logosref/Bible.Phil2) — he "emptied himself, taking the form of a servant" — and to the literal material poverty of Jesus' life ([Luke 9:58](https://ref.ly/logosref/Bible.Luke9.58): "the Son of Man has nowhere to lay his head"). The purpose clause is the hinge: "that you through his poverty might become rich." The poverty was not the point; your enrichment was. He absorbed the cost so you could receive the benefit. This is why Paul uses incarnation theology to motivate financial generosity — the gift of self is the pattern that all other giving is meant to echo.
 
-### 2 Corinthians 8:1–5 — The Macedonian Surprise
+### [2 Corinthians 8:1–5](https://ref.ly/logosref/Bible.2Cor8.1) — The Macedonian Surprise
 
 Paul's first appeal is not to doctrine but to example. The Macedonians — already impoverished, already suffering — gave with such overflowing generosity that Paul calls it a grace of God (v. 1). They did not give out of surplus; they gave out of their poverty. And they gave in five increasingly astonishing ways: with joy (v. 2), generously (v. 2), voluntarily and without pressure (v. 3), begging for the privilege of participating (v. 4), and — most surprising — "they gave themselves first to the Lord and then by the will of God to us" (v. 5). The giving of money was the overflow of a prior and more total gift. The sequence matters: self first, then substance.
 
-### 2 Corinthians 9:7 — Decided Beforehand
+### [2 Corinthians 9:7](https://ref.ly/logosref/Bible.2Cor9.7) — Decided Beforehand
 
 Paul's instruction that "each of you should give what you have decided in your heart" reaches for a specific Greek word — *proaireō* — a compound meaning "to decide beforehand." The decision is to be made deliberately, prayerfully, in advance — not reactively, not under social pressure, not in the moment. Two principles emerge: first, proportionality (you give according to what you have, not what you don't have — 8:12); and second, cheerfulness. The Greek word for "cheerful" (*hilaros*) appears only this once in the New Testament — from it we get the English word "hilarious." The giver Paul envisions is not the reluctant obligee. He is someone for whom giving is actually fun — because they have understood what they themselves have received.
 
-### 2 Corinthians 8:13–24 — Unity as the Deeper Purpose
+### [2 Corinthians 8:13–24](https://ref.ly/logosref/Bible.2Cor8.13) — Unity as the Deeper Purpose
 
 There is a geopolitical dimension to this offering that Paul cares about deeply. Gentile believers in Corinth and Macedon giving money to impoverished Jewish believers in Jerusalem is not merely humanitarian aid — it is a visible sign that the dividing wall between Jew and Gentile has genuinely come down. The offering is ecclesiological testimony. Paul frames it in terms of "equality" (v. 14) — your abundance meets their need now; someday their abundance may meet yours. This reciprocal vulnerability is what real unity looks like. He also takes pains to ensure proper financial accountability: Titus and two other trusted brothers are the stewards, chosen "by the churches" (vv. 19, 23) so that no one can accuse Paul of mishandling funds (v. 20). Integrity in stewardship protects the mission.
 
@@ -63,7 +63,7 @@ There is a geopolitical dimension to this offering that Paul cares about deeply.
 
 ## 💡 Deep Discussion Questions
 
-**On the Example of Jesus (2 Cor. 8:9)**
+**On the Example of Jesus ([2 Cor. 8:9](https://ref.ly/logosref/Bible.2Cor8.9))**
 
 1. Paul compresses the entire incarnation into financial language — "rich... poor... you might become rich." Why do you think Paul chose economic vocabulary to describe what Jesus did? What does that framing capture that other framings might miss?
 
@@ -71,7 +71,7 @@ There is a geopolitical dimension to this offering that Paul cares about deeply.
 
 3. When you think about what Jesus gave up to become human, and then what he gave up in death, what is the honest response that wells up in you? Is it gratitude, awe, obligation, or something else? What does it mean when the expected response to the cross is generosity?
 
-**On Motivation (2 Cor. 8:1; 9:7–15)**
+**On Motivation ([2 Cor. 8:1](https://ref.ly/logosref/Bible.2Cor8.1); 9:7–15)**
 
 4. Paul identifies four motivations for giving: gratitude for grace, following Jesus' example, sharing God's blessings, and sincere love. Which of these resonates most with you as a genuine motivator — not what you think *should* motivate you, but what actually does?
 
@@ -79,7 +79,7 @@ There is a geopolitical dimension to this offering that Paul cares about deeply.
 
 6. Paul says God loves a *cheerful* giver — and the Greek word is related to "hilarious." Have you ever experienced that kind of joy in giving? What made it different from obligatory giving? What conditions produced it?
 
-**On Planning and Proportionality (2 Cor. 9:7; 8:11–12)**
+**On Planning and Proportionality ([2 Cor. 9:7](https://ref.ly/logosref/Bible.2Cor9.7); 8:11–12)**
 
 7. The *proaireō* principle — deciding beforehand, in your heart — suggests that spontaneous giving in the moment is not the ideal model. Paul envisions deliberate, pre-committed generosity. How do you actually plan your giving? Is it thoughtful and proportional, or more reactive?
 
@@ -87,7 +87,7 @@ There is a geopolitical dimension to this offering that Paul cares about deeply.
 
 9. The lesson distinguishes between tithe (defined proportionally at 10%) and offerings (each person's prayerful decision). How do you approach that distinction? Is the tithe a floor or a ceiling in your mind?
 
-**On Attitude (2 Cor. 8:1–5)**
+**On Attitude ([2 Cor. 8:1–5](https://ref.ly/logosref/Bible.2Cor8.1))**
 
 10. The Macedonians gave out of "extreme poverty" with "overflowing joy." That combination should be impossible. What does their example say about the relationship between material circumstances and generosity of spirit?
 
@@ -95,7 +95,7 @@ There is a geopolitical dimension to this offering that Paul cares about deeply.
 
 12. The Macedonians *begged* for the privilege of participating in the collection. We more often approach giving as a burden than a privilege. What would it take — what change of perspective — for giving to become something you genuinely want to do rather than something you feel you should?
 
-**On Unity (2 Cor. 8:13–24)**
+**On Unity ([2 Cor. 8:13–24](https://ref.ly/logosref/Bible.2Cor8.13))**
 
 13. The offering Paul is organizing is a concrete sign that Gentile and Jewish believers belong to each other. How does financial giving to people you don't know — in faraway places, from different cultures — express and build the unity of the church?
 
@@ -122,7 +122,7 @@ There is a geopolitical dimension to this offering that Paul cares about deeply.
 > "Those whose hearts are filled with the love of Christ, will follow the example of Him who for our sake became poor, that through His poverty we might be made rich. Money, time, influence — all the gifts they have received from God's hand, they will value only as a means of advancing the work of the gospel."
 > — *The Acts of the Apostles*, p. 71
 
-The transformation Paul describes in 2 Corinthians 8–9 begins not with a financial decision but with a spiritual one: a heart genuinely filled with the love of Christ. Everything else follows from that.
+The transformation Paul describes in [2 Corinthians 8](https://ref.ly/logosref/Bible.2Cor8)–9 begins not with a financial decision but with a spiritual one: a heart genuinely filled with the love of Christ. Everything else follows from that.
 
 > "The Lord does not need our offerings. We cannot enrich Him by our gifts... Yet God permits us to show our appreciation of His mercies by self-sacrificing efforts to extend the same to others. This is the only way in which it is possible for us to manifest our gratitude and love to God. He has provided no other."
 > — *Counsels on Stewardship*, pp. 18–19
@@ -148,7 +148,7 @@ Generosity is, in this framing, an act of revelation — it makes God's characte
 
 ## 🧵 Theological Threads
 
-**The Grammar of Grace.** The word *charis* (grace) appears at the beginning and end of 2 Corinthians 8–9 as a deliberate frame. Grace comes first (God gave his Son); then grace flows outward (we give to others); then grace returns as thanksgiving (9:15). Generosity is not an ethical add-on to the gospel. It is the grammar of the gospel — the pattern God established and invited us to imitate.
+**The Grammar of Grace.** The word *charis* (grace) appears at the beginning and end of [2 Corinthians 8](https://ref.ly/logosref/Bible.2Cor8)–9 as a deliberate frame. Grace comes first (God gave his Son); then grace flows outward (we give to others); then grace returns as thanksgiving (9:15). Generosity is not an ethical add-on to the gospel. It is the grammar of the gospel — the pattern God established and invited us to imitate.
 
 **Incarnation as Stewardship Theology.** By grounding generosity in the incarnation (8:9), Paul makes stewardship a Christological act. Every time we give, we are making a small grammatical echo of the enormous sentence that Jesus spoke when he entered human poverty. The incarnation does not just motivate giving; it defines its shape — self-emptying for the benefit of another.
 

@@ -21,7 +21,7 @@ image: /ezra-blog/assets/images/sabbathschool/2026q2/lesson-06-prayer-warriors.j
 
 ## 📖 Memory Text
 > *"I love the LORD, because He has heard my voice and my supplications. Because He has inclined His ear to me, therefore I will call upon Him as long as I live."*
-> — **Psalm 116:1, 2, NKJV**
+> — **[Psalm 116:1, 2](https://ref.ly/logosref/Bible.Ps116.1), NKJV**
 
 ---
 
@@ -29,12 +29,12 @@ image: /ezra-blog/assets/images/sabbathschool/2026q2/lesson-06-prayer-warriors.j
 
 | Day | Topic | Key Passage |
 |-----|-------|-------------|
-| Sabbath Intro | Prayer as Relationship | Dan 2:20-23; Dan 6:10-11; Psalm 116:1-2 |
-| Sunday May 3 | Daniel's Prayer Life | Daniel 1; Dan 1:8, 17, 20; Dan 6:3-11 |
-| Monday May 4 | Posture in Prayer | Dan 6:10; Luke 22:41; Acts 20:36; 1 Thess 5:17 |
-| Tuesday May 5 | Walking With God | Gen 5:22-24; Psalm 139:7-12; Rom 12:12 |
-| Wednesday May 6 | Intercessory Prayer | Exod 32:31-32; Exod 33:15-23; Matt 5:44 |
-| Thursday May 7 | Persistent Prayer | Luke 18:1-8; Deut 9:25; Exod 15:25; Exod 17:2-6 |
+| Sabbath Intro | Prayer as Relationship | [Dan 2:20-23](https://ref.ly/logosref/Bible.Dan2.20); [Dan 6:10-11](https://ref.ly/logosref/Bible.Dan6.10); [Psalm 116:1-2](https://ref.ly/logosref/Bible.Ps116.1) |
+| Sunday May 3 | Daniel's Prayer Life | [Daniel 1](https://ref.ly/logosref/Bible.Dan1); [Dan 1:8, 17, 20](https://ref.ly/logosref/Bible.Dan1.8); [Dan 6:3-11](https://ref.ly/logosref/Bible.Dan6.3) |
+| Monday May 4 | Posture in Prayer | [Dan 6:10](https://ref.ly/logosref/Bible.Dan6.10); [Luke 22:41](https://ref.ly/logosref/Bible.Luke22.41); [Acts 20:36](https://ref.ly/logosref/Bible.Acts20.36); [1 Thess 5:17](https://ref.ly/logosref/Bible.1Thess5.17) |
+| Tuesday May 5 | Walking With God | [Gen 5:22-24](https://ref.ly/logosref/Bible.Gen5.22); [Psalm 139:7-12](https://ref.ly/logosref/Bible.Ps139.7); [Rom 12:12](https://ref.ly/logosref/Bible.Rom12.12) |
+| Wednesday May 6 | Intercessory Prayer | [Exod 32:31-32](https://ref.ly/logosref/Bible.Ex32.31); [Exod 33:15-23](https://ref.ly/logosref/Bible.Ex33.15); [Matt 5:44](https://ref.ly/logosref/Bible.Matt5.44) |
+| Thursday May 7 | Persistent Prayer | [Luke 18:1-8](https://ref.ly/logosref/Bible.Luke18.1); [Deut 9:25](https://ref.ly/logosref/Bible.Deut9.25); [Exod 15:25](https://ref.ly/logosref/Bible.Ex15.25); [Exod 17:2-6](https://ref.ly/logosref/Bible.Ex17.2) |
 | Friday May 8 | Further Thought | — |
 
 ---
@@ -54,90 +54,90 @@ Three movements structure this week:
 
 ## 📚 Key Passages — Exegetical Notes
 
-### Psalm 116:1-2 (Memory Text)
+### [Psalm 116:1-2](https://ref.ly/logosref/Bible.Ps116.1) (Memory Text)
 - **Context:** A thanksgiving psalm from someone who faced death (v.3, "the cords of death encompassed me"). The psalmist's love for God is rooted in *experience* of answered prayer, not abstract theology.
 - **"I love the LORD" (*ahav YHWH*):** Love in the Hebrew Bible is covenantal, relational, and responsive. It is not sentimental affection but committed attachment born of God's prior action ("because He has heard").
 - **"Inclined His ear" (*natah 'ozno*):** Anthropomorphic language for God's attentive presence. The psalmist does not say "God answered my prayer" (outcome) but "God listened" (relationship). Listening validates the petitioner; answering validates the request.
 - **"Therefore I will call upon Him as long as I live" (*qara' kol chai*):** Prayer becomes a way of being, not a recourse for emergencies. The logic: *because* God hears, *therefore* I will keep calling. This is the opposite of the common attitude: "I'll call if God answers."
 
-### Daniel 6:10 (Sunday and Monday — Daniel's consistency)
+### [Daniel 6:10](https://ref.ly/logosref/Bible.Dan6.10) (Sunday and Monday — Daniel's consistency)
 - **Context:** The decree forbidding prayer to anyone but King Darius has just been signed. Daniel's response is not defiant protest but faithful continuation.
-- **"He went into his house" (*bayith*):** Private, familiar space. Daniel does not make a show of his prayer (contrast Matt 6:5) nor does he hide it. He simply continues his established pattern.
-- **"His windows were open toward Jerusalem" (*gabah yerushalayim*):** Oriented toward the temple, God's dwelling place (1 Kings 8:30, 44, 48). This is theological geography — prayer is directed, not just emitted.
+- **"He went into his house" (*bayith*):** Private, familiar space. Daniel does not make a show of his prayer (contrast [Matt 6:5](https://ref.ly/logosref/Bible.Matt6.5)) nor does he hide it. He simply continues his established pattern.
+- **"His windows were open toward Jerusalem" (*gabah yerushalayim*):** Oriented toward the temple, God's dwelling place ([1 Kings 8:30, 44, 48](https://ref.ly/logosref/Bible.1Kgs8.30)). This is theological geography — prayer is directed, not just emitted.
 - **"Three times a day" (*shalah p'gam*):** Regular, rhythmic prayer. The number three may correspond to the Jewish practice of praying at the morning (*shacharit*), afternoon (*minchah*), and evening (*ma'ariv*) sacrifices. Daniel adapts temple worship to exile conditions.
 - **"As he did aforetime" (*ka'asher asah lephanim*):** Continuity is key. The crisis does not change Daniel; Daniel's character changes the crisis response.
 
-### Genesis 5:22-24 (Tuesday — Walking with God)
-- **"Enoch walked with God" (*hanoch hithalech im 'elohim*):** The verb *halakh* (walk) is used of covenant relationship (Gen 17:1; 24:40; 48:15). It implies journeying together, shared life, companionship. Enoch did not have visions or write scripture; he *walked*.
+### [Genesis 5:22-24](https://ref.ly/logosref/Bible.Gen5.22) (Tuesday — Walking with God)
+- **"Enoch walked with God" (*hanoch hithalech im 'elohim*):** The verb *halakh* (walk) is used of covenant relationship ([Gen 17:1](https://ref.ly/logosref/Bible.Gen17.1); 24:40; 48:15). It implies journeying together, shared life, companionship. Enoch did not have visions or write scripture; he *walked*.
 - **"After he begat Methuselah three hundred years" (*achar holid et methushelah*):** Enoch's walk with God did not begin in old age after raising his family, but *in the middle of life*. The walk encompassed parenting, work, and ordinary days.
-- **"And he was not; for God took him" (*we'eynenu ki-lakach oto elohim*):** The only person in the pre-flood genealogy who does not die (*muth*). God "took" (*laqach*) him — the same word used for taking Enoch's ancestors (Gen 5:24, MT reading). The meaning: God ended his earthly sojourn by direct translation (cf. 2 Kings 2:11; Heb 11:5).
+- **"And he was not; for God took him" (*we'eynenu ki-lakach oto elohim*):** The only person in the pre-flood genealogy who does not die (*muth*). God "took" (*laqach*) him — the same word used for taking Enoch's ancestors ([Gen 5:24](https://ref.ly/logosref/Bible.Gen5.24), MT reading). The meaning: God ended his earthly sojourn by direct translation (cf. [2 Kings 2:11](https://ref.ly/logosref/Bible.2Kgs2.11); [Heb 11:5](https://ref.ly/logosref/Bible.Heb11.5)).
 - **Significance:** Enoch demonstrates that prayer is not primarily verbal but relational. Walking with God is a posture of life, not just a daily discipline.
 
-### Exodus 32:31-32; 33:15-23 (Wednesday — Intercessory prayer)
-- **Context:** The golden calf crisis (Exod 32). Moses has just broken the tablets, confronted Aaron, and ordered the Levites to execute the idolaters (Exod 32:20-28). Now he returns to God.
-- **"Blot me, I pray thee, out of thy book" (*meheni na misifrecha*):** Moses offers substitutionary atonement. This is not martyrdom complex but identification with his people. He refuses to be saved without them (cf. Rom 9:1-3).
+### [Exodus 32:31-32](https://ref.ly/logosref/Bible.Ex32.31); 33:15-23 (Wednesday — Intercessory prayer)
+- **Context:** The golden calf crisis ([Exod 32](https://ref.ly/logosref/Bible.Ex32)). Moses has just broken the tablets, confronted Aaron, and ordered the Levites to execute the idolaters ([Exod 32:20-28](https://ref.ly/logosref/Bible.Ex32.20)). Now he returns to God.
+- **"Blot me, I pray thee, out of thy book" (*meheni na misifrecha*):** Moses offers substitutionary atonement. This is not martyrdom complex but identification with his people. He refuses to be saved without them (cf. [Rom 9:1-3](https://ref.ly/logosref/Bible.Rom9.1)).
 - **"If thy presence go not with me, carry us not up hence" (*im-eyn panecha elekh al tit' osenu*):** Moses' greatest fear is not the wilderness, not the Canaanites, but God's absence. Presence (*panim*, literally "face") is the defining reality of the journey.
 - **"Show me thy glory" (*hareh-na et kevodecha*):** This is not curiosity but desire for deeper knowing. Moses wants to see God's character, not God's physical appearance (which God says would be fatal, v.20).
 - **God's response (33:19):** *"I will be gracious to whom I will be gracious, and will show mercy on whom I will show mercy."* This is not arbitrary favoritism but the mystery of divine sovereignty in relationship. God grants Moses what He will not grant all Israel — a mediated encounter.
 
-### Luke 18:1-8 (Thursday — Persistent prayer)
+### [Luke 18:1-8](https://ref.ly/logosref/Bible.Luke18.1) (Thursday — Persistent prayer)
 - **Context:** Luke's parable of the persistent widow. The introduction (v.1) gives the purpose: *"to the effect that they ought always to pray and not lose heart."*
 - **"A judge who neither feared God nor respected man" (*krines phobou ton theon*):** The antithesis of God. If even this unjust judge yields to persistence, how much more will God — who is both just and merciful — respond to His elect?
 - **"Avenge me of my adversary" (*ekdikeson mou apo tou antidikou*):** The widow seeks justice (*dike*), not charity. Prayer can be an appeal for God to set things right in a fallen world.
 - **"Will he find faith on the earth?" (*heureka ten pistin epi tes ges*):** The parable ends with a question about faith, not about prayer. The connection: persistent prayer *is* faith expressed. The opposite of persistence is not "trusting God's timing" but "losing heart" (*egkakeo*), giving up.
 - **Theological implication:** God is not reluctant to answer; we are reluctant to persist. The delay is not God's obstacle but our formation ground.
 
-### Romans 12:12 (Monday and Tuesday — Rejoicing, patient, prayer)
+### [Romans 12:12](https://ref.ly/logosref/Bible.Rom12.12) (Monday and Tuesday — Rejoicing, patient, prayer)
 - **"Rejoicing in hope" (*chairontes en te elpidi*):** Prayer is not divorced from joy. Hope (*elpis*) is confident expectation based on God's character, not wishful thinking.
 - **"Patient in tribulation" (*hypomenontes en thlipsis*):** *Hypomeno* is "remaining under" pressure. Prayer is the posture that enables endurance.
-- **"Continuing steadfastly in prayer" (*proskarterountes te proseuche*):** *Proskartereo* combines *pros* (toward) and *kartereo* (strong, firm). It means devoting oneself earnestly, not casually. This is the "always praying" of 1 Thess 5:17 made practical.
+- **"Continuing steadfastly in prayer" (*proskarterountes te proseuche*):** *Proskartereo* combines *pros* (toward) and *kartereo* (strong, firm). It means devoting oneself earnestly, not casually. This is the "always praying" of [1 Thess 5:17](https://ref.ly/logosref/Bible.1Thess5.17) made practical.
 
 ---
 
 ## 💡 Deep Discussion Questions
 
 ### On Prayer as Character and Consistency
-1. **Daniel prayed "as he did aforetime" (Dan 6:10) even when prayer became illegal. What would you have done? Be honest. What does your answer reveal about your view of prayer's purpose — relationship or religious duty?**
+1. **Daniel prayed "as he did aforetime" ([Dan 6:10](https://ref.ly/logosref/Bible.Dan6.10)) even when prayer became illegal. What would you have done? Be honest. What does your answer reveal about your view of prayer's purpose — relationship or religious duty?**
 
 2. **The lesson contrasts Daniel's three-times-daily prayer with the "emergency prayer" pattern many of us have. Is emergency prayer wrong? What's missing when prayer is only crisis-response rather than ongoing conversation?**
 
-3. **Daniel's windows were "open toward Jerusalem" (Dan 6:10). What do you orient your life toward — what "Jerusalem" gives your prayers direction? How do we know if our prayer orientation is biblical or self-centered?**
+3. **Daniel's windows were "open toward Jerusalem" ([Dan 6:10](https://ref.ly/logosref/Bible.Dan6.10)). What do you orient your life toward — what "Jerusalem" gives your prayers direction? How do we know if our prayer orientation is biblical or self-centered?**
 
-4. **Daniel was distinguished "because an excellent spirit was in him" (Dan 6:3) before the prayer crisis. Is it possible that his prayer life *caused* the excellent spirit, or did the excellent spirit *enable* the prayer life? Or is this a false dichotomy?**
+4. **Daniel was distinguished "because an excellent spirit was in him" ([Dan 6:3](https://ref.ly/logosref/Bible.Dan6.3)) before the prayer crisis. Is it possible that his prayer life *caused* the excellent spirit, or did the excellent spirit *enable* the prayer life? Or is this a false dichotomy?**
 
 ### On Walking With God
-5. **Enoch "walked with God" (Gen 5:22, 24). This is the most succinct description of a spiritual life in Scripture. What does walking with God look like in 2026 — not as a metaphor but as daily practice?**
+5. **Enoch "walked with God" ([Gen 5:22, 24](https://ref.ly/logosref/Bible.Gen5.22)). This is the most succinct description of a spiritual life in Scripture. What does walking with God look like in 2026 — not as a metaphor but as daily practice?**
 
-6. **Psalm 139:7-12 says God is everywhere — no escape, no distance. If God is always present, why do we feel disconnected from Him? What makes the difference between "God is everywhere" and "I am with God"?**
+6. **[Psalm 139:7-12](https://ref.ly/logosref/Bible.Ps139.7) says God is everywhere — no escape, no distance. If God is always present, why do we feel disconnected from Him? What makes the difference between "God is everywhere" and "I am with God"?**
 
-7. **Lamentations 3:55-57: "I called upon thy name... Thou heardest my voice... Thou drewest near." The pattern: call, hear, near. Does God always "draw near" when we call? How do you distinguish between "God is not answering" and "God is answering in a way I don't recognize"?**
+7. **[Lamentations 3:55-57](https://ref.ly/logosref/Bible.Lam3.55): "I called upon thy name... Thou heardest my voice... Thou drewest near." The pattern: call, hear, near. Does God always "draw near" when we call? How do you distinguish between "God is not answering" and "God is answering in a way I don't recognize"?**
 
-8. **The lesson mentions "walking with God" as both posture (Gen 5:22-24) and practice (Dan 6:10, 1 Thess 5:17). Can you have the posture without the practice? The practice without the posture? Which is more dangerous for spiritual health?**
+8. **The lesson mentions "walking with God" as both posture ([Gen 5:22-24](https://ref.ly/logosref/Bible.Gen5.22)) and practice ([Dan 6:10, 1](https://ref.ly/logosref/Bible.Dan6.10) Thess 5:17). Can you have the posture without the practice? The practice without the posture? Which is more dangerous for spiritual health?**
 
 ### On Intercessory Prayer
-9. **Moses offered to be "blotted out of God's book" if God would not forgive Israel (Exod 32:32). That's extreme. Was this hyperbolic or genuine? Would you ever pray that for someone? What would need to change in your heart to get there?**
+9. **Moses offered to be "blotted out of God's book" if God would not forgive Israel ([Exod 32:32](https://ref.ly/logosref/Bible.Ex32.32)). That's extreme. Was this hyperbolic or genuine? Would you ever pray that for someone? What would need to change in your heart to get there?**
 
-10. **Exodus 33:15: "If thy presence go not with me, carry us not up hence." Moses refuses to proceed without God. Have you ever made a similar stand — "I won't move forward unless God is in this"? What happened?**
+10. **[Exodus 33:15](https://ref.ly/logosref/Bible.Ex33.15): "If thy presence go not with me, carry us not up hence." Moses refuses to proceed without God. Have you ever made a similar stand — "I won't move forward unless God is in this"? What happened?**
 
-11. **The lesson includes Jesus' command to "love your enemies, and pray for them that persecute you" (Matt 5:44). Who are the people you find it hardest to pray for — not just "bless them" prayers, but genuine intercession? What blocks you?**
+11. **The lesson includes Jesus' command to "love your enemies, and pray for them that persecute you" ([Matt 5:44](https://ref.ly/logosref/Bible.Matt5.44)). Who are the people you find it hardest to pray for — not just "bless them" prayers, but genuine intercession? What blocks you?**
 
-12. **Intercessory prayer in the Bible is often bold, even argumentative (Abraham in Gen 18, Moses in Exod 32, Jacob in Gen 32). Is it appropriate to "argue" with God in prayer? How do you distinguish between wrestling and disrespect?**
+12. **Intercessory prayer in the Bible is often bold, even argumentative (Abraham in [Gen 18](https://ref.ly/logosref/Bible.Gen18), Moses in [Exod 32](https://ref.ly/logosref/Bible.Ex32), Jacob in [Gen 32](https://ref.ly/logosref/Bible.Gen32)). Is it appropriate to "argue" with God in prayer? How do you distinguish between wrestling and disrespect?**
 
 ### On Persistence and Faith
-13. **Luke 18:1 says we should pray "and not lose heart" (*egkakeo*). When have you been most tempted to lose heart in prayer? What kept you going — or what stopped you?**
+13. **[Luke 18:1](https://ref.ly/logosref/Bible.Luke18.1) says we should pray "and not lose heart" (*egkakeo*). When have you been most tempted to lose heart in prayer? What kept you going — or what stopped you?**
 
-14. **The parable of the persistent widow (Luke 18:2-8) assumes God *will* answer quickly (v.8). But experience suggests many prayers go unanswered for years. How do we hold Jesus' promise together with our experience?**
+14. **The parable of the persistent widow ([Luke 18:2-8](https://ref.ly/logosref/Bible.Luke18.2)) assumes God *will* answer quickly (v.8). But experience suggests many prayers go unanswered for years. How do we hold Jesus' promise together with our experience?**
 
 15. **The lesson asks: "Does God always answer prayer?" If the answer is "yes," what counts as an answer? Is "no" an answer? Is "wait" an answer? Is "I have something better" an answer? How do we know the difference?**
 
-16. **Deuteronomy 9:25: Moses fell down before God "forty days and forty nights because Jehovah had said he would destroy you." That's persistence bordering on desperation. When is persistence faithfulness, and when is it manipulation?**
+16. **[Deuteronomy 9:25](https://ref.ly/logosref/Bible.Deut9.25): Moses fell down before God "forty days and forty nights because Jehovah had said he would destroy you." That's persistence bordering on desperation. When is persistence faithfulness, and when is it manipulation?**
 
 ### On Prayer and Relationship
-17. **Psalm 116:1: "I love the LORD, because He has heard my voice." The psalmist's love is *because* of answered prayer. Is your love for God conditional on His responsiveness? What would happen to your relationship if He stopped answering in the ways you expect?**
+17. **[Psalm 116:1](https://ref.ly/logosref/Bible.Ps116.1): "I love the LORD, because He has heard my voice." The psalmist's love is *because* of answered prayer. Is your love for God conditional on His responsiveness? What would happen to your relationship if He stopped answering in the ways you expect?**
 
 18. **The lesson presents prayer as "breath" — natural, ongoing, life-giving. If that's true, why do so many Christians experience prayer as laborious, rare, or guilt-inducing? What's the disconnect?**
 
-19. **Daniel's prayer was private (in his house) but public (windows open, so visible to his enemies). How do we balance Jesus' command to pray in secret (Matt 6:6) with the call to be witnesses? When is private prayer an act of witness?**
+19. **Daniel's prayer was private (in his house) but public (windows open, so visible to his enemies). How do we balance Jesus' command to pray in secret ([Matt 6:6](https://ref.ly/logosref/Bible.Matt6.6)) with the call to be witnesses? When is private prayer an act of witness?**
 
 20. **The quarter's theme is "Growing in a Relationship With God." This lesson focuses on prayer. Is prayer *the* relationship, or *part* of the relationship? What else does a relationship with God require, and how does prayer connect to those other elements?**
 
@@ -171,25 +171,25 @@ Use sparingly — as amplification of scriptural truth, not replacement for it.
 
 **Individual:**
 - **The three-times pattern:** Daniel prayed three times daily. What would it look like to establish three intentional prayer anchors in your day? Not three lengthy sessions, but three moments of reorientation — morning offering, midday gratitude, evening examen. Experiment for one week.
-- **Posture matters:** The lesson includes kneeling (Luke 22:41, Acts 20:36), standing (Luke 18:11, 13), falling down (Mark 14:35). Physical posture can shape spiritual posture. Try praying in a position you rarely use — kneeling, prostrate, hands raised — and notice what changes.
+- **Posture matters:** The lesson includes kneeling ([Luke 22:41](https://ref.ly/logosref/Bible.Luke22.41), [Acts 20:36](https://ref.ly/logosref/Bible.Acts20.36)), standing ([Luke 18:11, 13](https://ref.ly/logosref/Bible.Luke18.11)), falling down ([Mark 14:35](https://ref.ly/logosref/Bible.Mark14.35)). Physical posture can shape spiritual posture. Try praying in a position you rarely use — kneeling, prostrate, hands raised — and notice what changes.
 - **Intercession focus:** Identify one person (not a family member) who is far from God or going through a crisis. Commit to praying for them daily this week — not just "God bless them" but specific, Scripture-based intercession.
 
 **In Sabbath School:**
 - **Prayer testimonies:** The lesson highlights Daniel, Enoch, Moses, the persistent widow. But we have our own prayer warriors. Who in this congregation has a story of persistent prayer — answered or unanswered? Invite 1-2 people to share briefly (3-5 minutes) what they've learned about God through prayer.
-- **Group intercession:** Spend 10-15 minutes in corporate prayer, but structured: (1) Praise (Psalm 116:1-2), (2) Confession (Exod 32:31-32), (3) Petition (Dan 6:10), (4) Intercession (Matt 5:44), (5) Thanksgiving (Dan 2:20-23). Let each section be led by a different person.
+- **Group intercession:** Spend 10-15 minutes in corporate prayer, but structured: (1) Praise ([Psalm 116:1-2](https://ref.ly/logosref/Bible.Ps116.1)), (2) Confession ([Exod 32:31-32](https://ref.ly/logosref/Bible.Ex32.31)), (3) Petition ([Dan 6:10](https://ref.ly/logosref/Bible.Dan6.10)), (4) Intercession ([Matt 5:44](https://ref.ly/logosref/Bible.Matt5.44)), (5) Thanksgiving ([Dan 2:20-23](https://ref.ly/logosref/Bible.Dan2.20)). Let each section be led by a different person.
 
 **Intellectually:**
-- **The problem of unanswered prayer:** For those who struggle with this intellectually, the parable of the persistent widow (Luke 18) is crucial. Jesus acknowledges delay (v.7) but promises vindication (v.8). The question isn't "Will God answer?" but "Will we keep praying?" — which is a question of faith, not theology.
-- **Prayer and sovereignty:** Exodus 33:19 ("I will be gracious to whom I will be gracious") is one of the strongest statements of divine sovereignty in Scripture. How does this fit with prayer as relationship? The tension is real. The Bible does not resolve it; it lives in it. So do we.
+- **The problem of unanswered prayer:** For those who struggle with this intellectually, the parable of the persistent widow ([Luke 18](https://ref.ly/logosref/Bible.Luke18)) is crucial. Jesus acknowledges delay (v.7) but promises vindication (v.8). The question isn't "Will God answer?" but "Will we keep praying?" — which is a question of faith, not theology.
+- **Prayer and sovereignty:** [Exodus 33:19](https://ref.ly/logosref/Bible.Ex33.19) ("I will be gracious to whom I will be gracious") is one of the strongest statements of divine sovereignty in Scripture. How does this fit with prayer as relationship? The tension is real. The Bible does not resolve it; it lives in it. So do we.
 
 ---
 
 ## 🧵 Theological Threads to Follow
 
-- **Prayer and the Trinity:** To whom do we pray? The Father (Matt 6:9), in Jesus' name (John 14:13), through the Spirit (Rom 8:26-27). Prayer is inherently Trinitarian — and that matters. It's not monologue but participation in divine life.
-- **Prayer and providence:** If God is sovereign, why pray? The biblical answer is not that prayer changes God's mind (though Exodus 32:14 suggests interaction) but that prayer is the means God has chosen to accomplish His will. Mystery remains, but relationship is primary.
-- **Prayer and suffering:** Lamentations 3:55-57, Psalm 22:1-2, Job 30:20 — prayer in suffering is honest, not polite. God can handle our anger, our doubt, our "why." The prayer warriors of Scripture didn't have tidy faith.
-- **Prayer and the Great Controversy:** Daniel's prayer was a political act (Dan 6). Prayer is spiritual warfare (Eph 6:18). The lesson connects personal devotion to cosmic conflict. Our prayers matter beyond our own lives.
+- **Prayer and the Trinity:** To whom do we pray? The Father ([Matt 6:9](https://ref.ly/logosref/Bible.Matt6.9)), in Jesus' name ([John 14:13](https://ref.ly/logosref/Bible.Jn14.13)), through the Spirit ([Rom 8:26-27](https://ref.ly/logosref/Bible.Rom8.26)). Prayer is inherently Trinitarian — and that matters. It's not monologue but participation in divine life.
+- **Prayer and providence:** If God is sovereign, why pray? The biblical answer is not that prayer changes God's mind (though [Exodus 32:14](https://ref.ly/logosref/Bible.Ex32.14) suggests interaction) but that prayer is the means God has chosen to accomplish His will. Mystery remains, but relationship is primary.
+- **Prayer and suffering:** [Lamentations 3:55-57](https://ref.ly/logosref/Bible.Lam3.55), [Psalm 22:1-2](https://ref.ly/logosref/Bible.Ps22.1), [Job 30:20](https://ref.ly/logosref/Bible.Job30.20) — prayer in suffering is honest, not polite. God can handle our anger, our doubt, our "why." The prayer warriors of Scripture didn't have tidy faith.
+- **Prayer and the Great Controversy:** Daniel's prayer was a political act ([Dan 6](https://ref.ly/logosref/Bible.Dan6)). Prayer is spiritual warfare ([Eph 6:18](https://ref.ly/logosref/Bible.Eph6.18)). The lesson connects personal devotion to cosmic conflict. Our prayers matter beyond our own lives.
 
 ---
 
