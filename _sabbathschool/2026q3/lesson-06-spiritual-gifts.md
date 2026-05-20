@@ -9,10 +9,6 @@ excerpt: "Paul's three-chapter argument through [1 Corinthians 12](https://ref.l
 category: lesson-guide
 image: /ezra-blog/assets/images/sabbathschool/2026q3/lesson-06-spiritual-gifts.jpg
 ---
-
-![Lesson 6: Spiritual Gifts](/ezra-blog/assets/images/sabbathschool/2026q3/lesson-06-spiritual-gifts.jpg)
-*Photo: Pexels*
-
 # Sabbath School Study Notes
 ## Lesson 6: Spiritual Gifts
 ### August 1–7, 2026 | Q3 2026 — *1 and 2 Corinthians*
@@ -54,21 +50,21 @@ The broader significance reaches beyond Corinth. The kenotic logic of the Cross 
 
 ### [1 Corinthians 12:1–6](https://ref.ly/logosref/Bible.1Cor12.1) — Three Angles on the Same Reality
 
-- **"Spiritual gifts" (*tōn pneumatikōn*, v. 1):** The Greek genitive is intentionally ambiguous — it can mean "spiritual gifts" (neuter) or "spiritual people" (masculine). Both readings are live in the original. Paul will spend three chapters insisting that possessing a gift does not make someone a "spiritual person" in a superior sense. The ambiguity creates the very problem he is addressing.
+- **"Spiritual gifts" (v. 1):** The Greek word is intentionally ambiguous — it can mean "spiritual gifts" or "spiritual people." Both readings are live in the original. Paul will spend three chapters insisting that possessing a gift does not make someone a "spiritual person" in a superior sense. The ambiguity creates the very problem he is addressing.
 - **Three Greek words for the phenomenon:**
   - *Charismata* (v. 4) — gifts of grace, rooted in *charis*. What you receive.
   - *Diakoniai* (v. 5) — ministries/services. What you do with it for others.
   - *Energēmata* (v. 6) — workings/activities. What God does through it.
   All three point to the same reality from three angles: gift, service, divine empowerment. The progression is theologically deliberate — every gift is simultaneously an unearned grace, a call to service, and an act of God.
 - **Trinitarian structure (vv. 4–6):** "Same Spirit... same Lord... same God" — a deliberate parallel attributing the source of all gifts to the triune God. Unity of source demands unity in the body. The Trinity does not compete; neither should gift-bearers.
-- **"Jesus is Lord" as the first gift (v. 3):** Before listing any specific gift, Paul grounds everything in the foundational Spirit-given confession. In a Roman imperial context, *Kyrios Iēsous* ("Jesus is Lord") was politically seditious — to say Jesus is Lord was to say Caesar is not. The Spirit's first gift is the courage of basic confession.
+- **"Jesus is Lord" as the first gift (v. 3):** Before listing any specific gift, Paul grounds everything in the foundational Spirit-given confession. In a Roman imperial context, "Jesus is Lord" was politically seditious — to say Jesus is Lord was to say Caesar is not. The Spirit's first gift is the courage of basic confession.
 
 ### [1 Corinthians 12:12–26](https://ref.ly/logosref/Bible.1Cor12.12) — The Body: Mutual Dependence, Not Hierarchy
 
 - **"For the body is one and has many members" (v. 12):** The hinge verse. The plural ("many") never threatens the singular ("one"). Paul deploys *heis/hen* (one/same) more than a dozen times across the chapter — the repetition is rhetorical hammer-blows against the Corinthian ranking impulse.
 - **"The members that seem to be weaker are necessary" (v. 22):** *Anankaia* — indispensable, not merely tolerated. The adverb "seem" is crucial: apparent weakness is a perceptual problem, not an ontological one.
 - **"God has so composed the body, giving greater honor to the part that lacked it" (v. 24):** The divine ordering of the body inverts human social logic. The parts we instinctively rank lowest, God deliberately honors most. This is the same reversal as Cross sociology (ch. 1) applied to ecclesiology.
-- **"No schism in the body, but that the members should have the same care one for another" (v. 25):** The word *schisma* echoes 1:10 — the factionalism Paul diagnosed in chapters 1–4 has reappeared in gift-competition form. The cure is not uniformity but *mutual care* (*merimnaō* — to be anxious for the welfare of another).
+- **"No schism in the body, but that the members should have the same care one for another" (v. 25):** The word *schisma* echoes 1:10 — the factionalism Paul diagnosed in chapters 1–4 has reappeared in gift-competition form. The cure is not uniformity but mutual care — genuinely anxious for the welfare of one another.
 
 ### [1 Corinthians 13:4–7](https://ref.ly/logosref/Bible.1Cor13.4) — Love as Praxis, Not Feeling
 
@@ -96,7 +92,7 @@ The broader significance reaches beyond Corinth. The kenotic logic of the Cross 
 
 ### On Gift Diversity and the Spirit's Sovereignty
 
-1. **Paul's Greek (*tōn pneumatikōn*) can mean "spiritual gifts" or "spiritual people" — and some in Corinth clearly read it the second way, treating gift-possession as proof of superior spirituality.** What happens in a local church when this confusion takes hold? Where do you see it most clearly in contemporary Christianity?
+1. **Paul's word for "spiritual gifts" can also mean "spiritual people" — and some in Corinth clearly read it that way, treating gift-possession as proof of superior spirituality.** What happens in a local church when this confusion takes hold? Where do you see it most clearly in contemporary Christianity?
 
 2. **Three Greek words describe the same phenomenon: *charisma* (gift), *diakonia* (service), *energēma* (working). Each angle emphasizes something different.** What changes when you frame your gift primarily as a "ministry to others" rather than a "gift you have"? Does this reframing change how you use it?
 
@@ -231,3 +227,6 @@ The broader significance reaches beyond Corinth. The kenotic logic of the Cross 
 | Prophecy's priority | [1 Cor. 14:3–4](https://ref.ly/logosref/Bible.1Cor14.3); [Eph. 4:11](https://ref.ly/logosref/Bible.Eph4.11) | Builds, encourages, consoles — edification is the measure |
 | Gifts continue | [Eph. 4:13](https://ref.ly/logosref/Bible.Eph4.13) | Until unity of the faith — not ended with the apostles |
 | Prophetic gift and remnant | [Rev. 12:17](https://ref.ly/logosref/Bible.Rev12.17) | Spirit of prophecy marks the end-time community |
+
+---
+*Notes compiled by Ezra | May 2026 | Source: 1 & 2 Corinthians Quarterly, 2026Q3*

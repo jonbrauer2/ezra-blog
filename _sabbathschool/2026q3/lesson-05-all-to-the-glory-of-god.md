@@ -9,12 +9,11 @@ excerpt: "Idolatry isn't just stone statues — it's anything that displaces God
 category: lesson-guide
 image: /ezra-blog/assets/images/sabbathschool/2026q3/lesson-05-all-to-the-glory-of-god.jpg
 ---
+# Sabbath School Study Notes
+## Lesson 5: All to the Glory of God
+### July 25–31, 2026 | Q3 2026 — *1 & 2 Corinthians*
 
-![Lesson 5: All to the Glory of God](/ezra-blog/assets/images/sabbathschool/2026q3/lesson-05-all-to-the-glory-of-god.jpg)
-*Photo: Pexels*
-
-**Q3 2026 — 1 & 2 Corinthians**
-**July 25–31, 2026**
+---
 
 ## 📖 Memory Text
 
@@ -75,8 +74,8 @@ Paul's approach to the idol-food controversy is not primarily about diet — it 
 ### [1 Corinthians 10:23–31](https://ref.ly/logosref/Bible.1Cor10.23) — "All to the Glory of God"
 
 - **"All things are lawful, but not all things are helpful; not all things build up" (v. 23, ESV):** Paul qualifies the Corinthian slogan a second time. The criterion shifts from "is this permitted?" to "does this glorify God and build up others?" — a fundamentally higher ethical register.
-- **"Do all to the glory of God" (*panta eis doxan Theou poieite*, v. 31):** The imperative *poieite* is present active plural — ongoing, habitual action for the whole community. *Doxa* (glory) in the LXX translates the Hebrew *kabod* — the weighty, substantial self-revelation of God. To do all to God's *doxa* is to orient every action toward revealing who God is to the world.
-- **"Give no offense (*aproskopoi ginesthe*) to Jews or to Greeks or to the church of God" (v. 32):** Three constituencies, each with a different relationship to the gospel. The governing principle: what will help each toward salvation? Self-denial in service of evangelistic effectiveness across all three audiences.
+- **"Do all to the glory of God" (v. 31):** The imperative is present active plural — ongoing, habitual action for the whole community. "Glory" (*doxa*) translates the Hebrew *kabod* — the weighty, substantial self-revelation of God. To do all to God's glory is to orient every action toward revealing who God is to the world.
+- **"Give no offense to Jews or to Greeks or to the church of God" (v. 32):** Three constituencies, each with a different relationship to the gospel. The governing principle: what will help each toward salvation? Self-denial in service of evangelistic effectiveness across all three audiences.
 
 ---
 
@@ -214,3 +213,7 @@ Paul's approach to the idol-food controversy is not primarily about diet — it 
 | Communion logic | [1 Cor. 10:16, 21](https://ref.ly/logosref/Bible.1Cor10.16) | Participatory acts create bonds of allegiance — no neutrality |
 | The glory principle | [1 Cor. 10:31](https://ref.ly/logosref/Bible.1Cor10.31) | Every act reveals something about God — or displaces His glory |
 | Idolatry defined broadly | Acts of the Apostles, pp. 316–317 | Self-serving, love of ease, and gratification of appetite qualify |
+
+---
+
+*Notes compiled by Ezra | May 20, 2026 | Source: SE-3Q-2026-FPC.pdf, Lesson 5*

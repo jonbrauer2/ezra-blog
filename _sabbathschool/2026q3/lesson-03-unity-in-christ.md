@@ -9,12 +9,11 @@ excerpt: "Factionalism in Corinth wasn't a management problem — it was Christo
 category: lesson-guide
 image: /ezra-blog/assets/images/sabbathschool/2026q3/lesson-03-unity-in-christ.jpg
 ---
+# Sabbath School Study Notes
+## Lesson 3: Unity in Christ
+### July 11–17, 2026 | Q3 2026 — *1 & 2 Corinthians*
 
-![Lesson 3: Unity in Christ](/ezra-blog/assets/images/sabbathschool/2026q3/lesson-03-unity-in-christ.jpg)
-*Photo: Pexels*
-
-**Q3 2026 — 1 & 2 Corinthians**
-**July 11–17, 2026**
+---
 
 ## 📖 Memory Text
 
@@ -65,12 +64,12 @@ The radical claim running through [1 Corinthians 1](https://ref.ly/logosref/Bibl
 
 - **"Carnal (*sarkinos*) ... infants in Christ":** Paul uses two different words for "fleshly." *Sarkinos* (3:1) means made of flesh — the raw material, not yet transformed. *Sarkikos* (3:3) means dominated by fleshly impulses — the active choice to follow flesh rather than Spirit.
 - **"Milk ... solid food":** The distinction is not about doctrinal complexity. Mature Christians eat solid food — they can handle the full weight of the Cross's implications, including its call to servanthood, suffering, and the death of self-promotion. The Corinthians' factionalism reveals they are still on milk.
-- **"You are still fleshly" (*sarkikoi este*):** The present tense is an indictment — this is ongoing, not past. Their quarreling is current evidence of spiritual immaturity.
+- **"You are still fleshly":** The present tense is an indictment — this is ongoing, not past. Their quarreling is current evidence of spiritual immaturity.
 
 ### [Philippians 2:5–8](https://ref.ly/logosref/Bible.Phil2.5) — The Mind of Christ as Unity's Foundation
 
-- **"Have this mind (*touto phronēte*) among yourselves":** *Phronēte* is the verb from *phronēsis* — practical wisdom, orientation of mind toward an object. The "mind of Christ" is not a mystical experience but a practical orientation: others over self.
-- **"He emptied himself (*eauton ekenōsen*)":** The *kenōsis* — Christ's voluntary relinquishment of divine prerogatives. This is the paradigm for leadership. Cruciform leaders don't accumulate status and privilege; they pour themselves out.
+- **"Have this mind among yourselves":** The word for "mind" here is not about intellect but practical orientation — the way you face and approach everything. The "mind of Christ" is not a mystical experience; it is a practical posture: others over self.
+- **"He emptied himself":** The *kenōsis* — Christ's voluntary relinquishment of divine prerogatives. This is the paradigm for leadership. Cruciform leaders don't accumulate status and privilege; they pour themselves out.
 - **The descent is deliberate:** From equality with God → human form → servanthood → death → the particular death of the cross (the most shameful possible). The arc of Christ's trajectory is the opposite of every human social aspiration. This is the "mind" Christians are to have.
 
 ### [2 Corinthians 11:23–28](https://ref.ly/logosref/Bible.2Cor11.23) — Paul's Credentials for Ministry
@@ -203,7 +202,7 @@ The radical claim running through [1 Corinthians 1](https://ref.ly/logosref/Bibl
 - **Gifts vs. character:** Corinth demonstrates that spiritual gifts and spiritual maturity are not the same thing. Gifts are distributed sovereignly by the Spirit; character is formed through sustained cruciform living. A church can be charismatically vibrant and morally shallow simultaneously.
 - **Suffering as apostolic identity:** [2 Corinthians 11](https://ref.ly/logosref/Bible.2Cor11) and [Colossians 1:24](https://ref.ly/logosref/Bible.Col1.24) frame Paul's suffering as participation in Christ's afflictions — not punishment but identification. The apostle's body bears the marks of Jesus. Cruciform leadership cannot be separated from actual cost.
 - **Unity's eschatological dimension:** EGW frames unity as part of the "platform of eternal truth" on which the remnant stands. Division is not just a pastoral problem — it has end-time dimensions. The purifying process toward unity is part of God's preparation of a people for the final crisis.
-- **The Cross as unity's source:** The deepest thread in [1 Corinthians 1](https://ref.ly/logosref/Bible.1Cor1)–4 is that the Cross itself — not better communication or conflict resolution skills — is the engine of Christian unity. Where the Cross is genuinely received, competitive boasting collapses. This is not sentiment but Pauline theology: the instrument of shame becomes the only possible basis of a community that includes Jew and Greek, slave and free, Paul's people and Apollos's people.
+- **The Cross as unity's source:** The deepest thread in [1 Corinthians 1](https://ref.ly/logosref/Bible.1Cor1)–4 is that the Cross itself — not better communication or conflict resolution skills — is the engine of Christian unity. Where the Cross is genuinely received, competitive boasting collapses. This is not sentiment but Pauline theology: the instrument of shame that nobody would have chosen becomes the only possible basis of a community that includes Jew and Greek, slave and free, Paul's people and Apollos's people.
 
 ---
 
@@ -221,3 +220,7 @@ The radical claim running through [1 Corinthians 1](https://ref.ly/logosref/Bibl
 | Participatory suffering | [Col. 1:24](https://ref.ly/logosref/Bible.Col1.24) | The church's body extends Christ's mission into the world |
 | Unity's missional weight | [John 17:21](https://ref.ly/logosref/Bible.Jn17.21) | The world's evidence that the Father sent the Son |
 | Unity's eschatological weight | EGW, TC 1:327 | The enemy is "determined that it shall not exist" |
+
+---
+
+*Notes compiled by Ezra | May 20, 2026 | Source: SE-3Q-2026-FPC.pdf, Lesson 3*

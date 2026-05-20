@@ -9,12 +9,11 @@ excerpt: "Paul's answer to every problem in Corinth is the same: the Cross. Not 
 category: lesson-guide
 image: /ezra-blog/assets/images/sabbathschool/2026q3/lesson-02-the-message-of-the-cross.jpg
 ---
+# Sabbath School Study Notes
+## Lesson 2: The Message of the Cross
+### July 4–10, 2026 | Q3 2026 — *1 & 2 Corinthians*
 
-![Lesson 2: The Message of the Cross](/ezra-blog/assets/images/sabbathschool/2026q3/lesson-02-the-message-of-the-cross.jpg)
-*Photo: Pexels*
-
-**Q3 2026 — 1 & 2 Corinthians**
-**July 4–10, 2026**
+---
 
 ## 📖 Memory Text
 
@@ -49,10 +48,10 @@ Cicero said Romans should not even think about the cross as an instrument of pun
 
 ## 📚 Key Passages — Exegetical Notes
 
-### [1 Corinthians 1:17–18](https://ref.ly/logosref/Bible.1Cor1.17) — *Sophia Logou* and *Mōria*
+### [1 Corinthians 1:17–18](https://ref.ly/logosref/Bible.1Cor1.17) — Wisdom of Words vs. the Foolishness of the Cross
 
 - **Context:** Paul is addressing the factionalism at Corinth (1:10–17) — people aligning behind celebrity preachers (Paul, Apollos, Cephas, Christ). His diagnosis is that rhetorical culture — the Greek love of eloquent, polished speech — has colonized the church and is subtly evacuating the Cross of its power.
-- **"Not with wisdom of words" (*sophia logou*):** This phrase does not condemn eloquence per se but the substitution of rhetorical performance for the scandalous content of the Cross. In Greco-Roman culture, the *sophist* was a paid orator whose value lay in the persuasive power of his speech, independent of truth. Paul refuses to be a sophist of the gospel.
+- **"Not with wisdom of words":** This does not condemn eloquence per se but the substitution of rhetorical performance for the scandalous content of the Cross. In Greco-Roman culture, the paid orator's value lay in the power of his speech, independent of truth. Paul refuses to be that kind of speaker with the gospel.
 - **"Lest the cross of Christ be emptied (*kenōthē*) of its power":** The verb *kenoō* — to empty, to make void — is the same root as the famous *kenōsis* in [Philippians 2:7](https://ref.ly/logosref/Bible.Phil2.7) ("he emptied himself"). Elegant rhetoric *empties* the Cross in the same way Christ *emptied* himself to take on flesh — but the results are inverse. Christ's self-emptying was the source of salvation; rhetorical self-filling evacuates it.
 - **"The message of the cross is foolishness (*mōria*)":** The Greek *mōria* (foolishness) is not simple intellectual error but morally laden stupidity — the kind of thinking that leads to self-destruction. Paul uses this word six times in [1 Cor. 1:18–31](https://ref.ly/logosref/Bible.1Cor1.18), saturating the argument. The word family in the NT occurs most densely here — this is Paul's sustained meditation on foolishness as a category.
 
@@ -180,7 +179,7 @@ Cicero said Romans should not even think about the cross as an instrument of pun
 
 ### Intellectual
 
-- **The epistemology question:** [Hebrews 11:1](https://ref.ly/logosref/Bible.Heb11.1) calls faith *elenchos* — evidence, legal proof. Now Paul calls the Cross *mōria* — foolishness — to those outside. How do these two claims coexist? Is the Cross's "foolishness" a failure of evidence, or is it that the evidence is structurally inaccessible to a certain posture of the knower? What would it take for the Cross to become "coherent" to someone who currently finds it absurd?
+- **The epistemology question:** [Hebrews 11:1](https://ref.ly/logosref/Bible.Heb11.1) (last week's memory text) calls faith *elenchos* — evidence, legal proof. Now Paul calls the Cross *mōria* — foolishness — to those outside. How do these two claims coexist? Is the Cross's "foolishness" a failure of evidence, or is it that the evidence is structurally inaccessible to a certain posture of the knower? What would it take for the Cross to become "coherent" to someone who currently finds it absurd?
 - **Kenosis as paradigm:** The verb *kenoō* (to empty) appears in both [Phil. 2:7](https://ref.ly/logosref/Bible.Phil2.7) (Christ emptying himself in Incarnation) and implicitly in [1 Cor. 1:17](https://ref.ly/logosref/Bible.1Cor1.17) (rhetoric *emptying* the Cross). Paul's own ministry style — no lofty speech, entering in weakness and fear — is a further *kenōsis*. Trace the kenotic logic: how does self-emptying become the structural principle of both salvation and proclamation? What does a kenotic Sabbath School lesson look like?
 
 ---
@@ -210,3 +209,7 @@ Cicero said Romans should not even think about the cross as an instrument of pun
 | No boasting | [1 Cor. 1:29](https://ref.ly/logosref/Bible.1Cor1.29) | The entire economy of salvation is structured to eliminate pride |
 | Cosmic Cross | [Col. 1:20](https://ref.ly/logosref/Bible.Col1.20) | The Cross reconciles all things, not only individual souls |
 | Curse reframed | [1 Pet. 2:24](https://ref.ly/logosref/Bible.1Pet2.24) | The tree of [Deut. 21:23](https://ref.ly/logosref/Bible.Deut21.23) becomes the tree of liberation |
+
+---
+
+*Notes compiled by Ezra | May 20, 2026 | Source: SE-3Q-2026-FPC.pdf, Lesson 2*

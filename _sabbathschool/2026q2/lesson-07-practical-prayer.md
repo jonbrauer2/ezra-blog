@@ -9,11 +9,7 @@ excerpt: "Prayer as honest intimacy with God — pouring out the heart in crisis
 category: lesson-guide
 image: /ezra-blog/assets/images/sabbathschool/2026q2/lesson-07-practical-prayer.jpg
 ---
-
-![Lesson 7: Practical Prayer](/ezra-blog/assets/images/sabbathschool/2026q2/lesson-07-practical-prayer.jpg)
-*Photo: Pexels*
-
-
+# Sabbath School Study Notes
 ## Lesson 7: Practical Prayer
 ### May 9–15, 2026 | Q2 2026 — *Growing in a Relationship With God*
 
@@ -70,7 +66,7 @@ The week builds from Last week's "Prayer Warriors" (relationship as foundation) 
 - **Context:** After Carmel victory, Elijah flees from Jezebel's threat, collapses under a juniper tree, and asks to die. This is raw honesty before God.
 - **"I am not better than my fathers" (v.4):** Elijah recognizes his spiritual lineage and identity with the prophets. His despair is not about unworthiness but comparison. He knows who he is *by grace*, not by merit.
 - **The angelic provision (vv.5-7):** God ministers to Elijah's physical needs *before* addressing his spiritual crisis. Prayer sustains both body and spirit. The cake and water represent practical care — God meets us where we are.
-- **Wind, earthquake, fire, still small voice (vv.11-12):** Classic theophany. God was not in the spectacular manifestations but in the *still small voice* (*qol demamah dakal*). The point: divine power is not measured by drama but by the capacity to be heard. The Hebrew uses *dabar* (passed by, passed over) for God — He is transcendent.
+- **Wind, earthquake, fire, still small voice (vv.11-12):** Classic theophany. God was not in the spectacular manifestations but in the still small voice. The point: divine power is not measured by drama but by the capacity to be heard.
 - **"What doest thou here, Elijah?" (vv.9, 13):** The divine question repeats. God doesn't scold Elijah for despair but asks about his presence. Elijah repeats his complaint ("I only am left") — showing he hasn't yet internalized God's reassurance (v.18: "seven thousand").
 - **Theological significance:** God meets despair not by fixing circumstances immediately but by sustaining through the journey ahead. True prayer is not demanding immediate rescue but receiving grace for the long walk.
 
@@ -78,8 +74,8 @@ The week builds from Last week's "Prayer Warriors" (relationship as foundation) 
 
 - **Context:** Daniel's prayer comes as the decree to make prayer illegal has just been issued. He prays not in defiance but in faithful continuity of relationship with God.
 - **"I prayed unto Jehovah my God, and made confession" (v.4):** The Hebrew *pallal* (to pray) is the standard term, but Daniel adds *hitvadekhi* (confession). This is deliberate acknowledgment of corporate sin: "we have sinned, and have done wickedly." Daniel identifies with Israel's failures, not just his personal piety.
-- **"O Lord, great and dreadful God" (*Adonai El Shaddai*):** Combining majesty (*Adonai* — Lord, Sovereign) with awe (*Shaddai* — mighty, terrifying). This is reverential language recognizing God's power to save and judge, not casual familiarity.
-- **"Righteousness belongeth unto thee, but unto us confusion of face" (v.7):** The Hebrew *tsaddak* (belongs) is relational. Righteousness is God's *attribute* (*of Him), not a resource to be distributed. Conversely, Israel's shame (*bushah panim*) is their condition. The confession is not just listing sins but contrasting God's character with Israel's situation.
+- **"O Lord, great and dreadful God":** Combining titles of majesty (Lord, Sovereign) with awe (Almighty, terrifying). This is reverential language recognizing God's power to save and judge — the opposite of casual familiarity.
+- **"Righteousness belongeth unto thee, but unto us confusion of face" (v.7):** Righteousness belongs to God's very nature — not a resource He distributes but His own character. Israel's shame is their condition. The confession contrasts who God *is* with what Israel has *become*.
 - **"Open thine eyes, and behold our desolations" (v.18):** Daniel prays for restoration of temple (*bayith* — house) and city (*'ir*), the center of God's presence. He asks God to look, not just for forgiveness. *Desolations* (*shamam* — ruins, devastation) requires God's *nechem* (favor, grace) — more than forgiveness.
 - **"For we do not present our supplications before thee for our righteousnesses, but for thy great mercies' sake" (v.18):** Daniel acknowledges they don't deserve answers. They appeal to God's *mercy* (*rachamim*), not justice. Righteousness would condemn; mercy redeems.
 
@@ -87,21 +83,21 @@ The week builds from Last week's "Prayer Warriors" (relationship as foundation) 
 
 - **"When ye pray, ye shall not be as the hypocrites" (v.5):** The Greek *hypokrites* — "play-actors, pretenders." Jesus exposes performance religion where prayer becomes theater. The hypocrites "love to stand and pray in synagogues and in the corners of the streets" — public visibility is their motivation ("they may be seen of men").
 - **"Enter into thine inner chamber, and having shut thy door" (v.6):** The *tameion* ("inner room") and *thura* ("door") create private space. Shutting the door eliminates external distraction. Jesus models prayer as intimacy with the Father, not public display.
-- **"Use not vain repetitions" (*battalogēsē*):** The Greek *battalogia* means "stuttering" or "idle chatter." Gentiles believed *babbling* would gain divine attention. Jesus condemns mechanical prayers where words become disconnected from heart.
+- **"Use not vain repetitions":** The word means idle chatter or babbling. Gentiles believed quantity of words would gain divine attention. Jesus condemns mechanical prayers where words become disconnected from the heart.
 - **"For your Father knoweth what things ye have need of, before ye ask him" (v.8):** This transforms prayer from informing God (as if He doesn't know) to relationship (knowing He already knows). It eliminates anxiety about being heard. *Oida* ("knows") is perfect tense — God's knowledge is constant, complete.
 
 ### [Luke 11:2–4](https://ref.ly/logosref/Bible.Luke11.2) (Sabbath — The Lord's Prayer)
 
-- **"Father" (*pater*):** Jesus revolutionizes prayer address. God is no longer distant Deity (*Theos*) but intimate Parent (*pater*). This changes the entire relational dynamic from subject-monarch to child-Father.
-- **"Hallowed be thy name" (*hagiasthētō*):** The Greek *hagiazo* — to make holy, set apart as sacred. We don't define God; we reverence His name as set apart from all that is common (*koinos*).
+- **"Father":** Jesus revolutionizes prayer address. God is no longer distant Deity but intimate Parent. The entire relational dynamic shifts from subject-monarch to child-Father.
+- **"Hallowed be thy name":** We don't define God; we reverence His name as set apart from everything common and ordinary.
 - **"Thy kingdom come" (v.2):** The eschatological dimension. Prayer is not just personal comfort but participating in God's redemptive mission. We pray for God's reign to be established "as in heaven, so on earth" — the already and the not-yet.
-- **"Give us day by day our daily bread" (v.3):** *Epiousios* ("daily"). Prayer acknowledges dependence — not self-sufficiency. We request provision as an ongoing need, not stockpiling.
-- **"Forgive us our sins; for we ourselves also forgive every one that is indebted to us" (v.4):** Conditional forgiveness ("for we ourselves also forgive"). This is reciprocity — we extend what we have received. The Greek *aphiēmi* ("indebted") recognizes the mutual obligation in community.
+- **"Give us day by day our daily bread" (v.3):** Prayer acknowledges daily dependence — not self-sufficiency. We request provision as an ongoing need, not a stockpile.
+- **"Forgive us our sins; for we ourselves also forgive" (v.4):** Reciprocity — we extend what we have received. The shape of our forgiveness toward others mirrors God's toward us.
 
 ### [Romans 8:26–27](https://ref.ly/logosref/Bible.Rom8.26) (Sabbath — The Spirit's Help)
 
-- **"The Spirit also helpeth our infirmities" (v.26):** *Astheneia* ("weaknesses"). The Spirit is our *sunergos* ("co-helper") in prayer. Paul acknowledges human limitation — we don't know what or how to pray as we ought.
-- **"Unuttered groanings" (*stenagmois*) — literally "wordless groanings." The Spirit articulates what we cannot express. This is deep intercession surpassing words.
+- **"The Spirit also helpeth our infirmities" (v.26):** The Spirit is our co-helper in prayer. Paul acknowledges human limitation — we don't know what or how to pray as we ought.
+- **"Groanings which cannot be uttered":** Wordless groanings. The Spirit articulates what we cannot express — deep intercession that surpasses language.
 - **"He that searcheth hearts knoweth what is the mind of the Spirit" (v.27):** God's *knowledge* (*epignosis*) is exhaustive. The Spirit aligns perfectly with God's will (*thelēma*). The Spirit doesn't advocate contrary to God but discerns our deepest needs (*diatheimai* — "through the mind").
 - **Theological implication:** Prayer is Trinitarian participation. The Father (who receives), the Son (who died and rose), the Spirit (who applies). We don't pray alone or in isolation.
 

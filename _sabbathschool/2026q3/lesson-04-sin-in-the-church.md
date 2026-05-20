@@ -9,12 +9,11 @@ excerpt: "The Corinthian church was arrogant about tolerating sexual scandal. Pa
 category: lesson-guide
 image: /ezra-blog/assets/images/sabbathschool/2026q3/lesson-04-sin-in-the-church.jpg
 ---
+# Sabbath School Study Notes
+## Lesson 4: Sin in the Church
+### July 18–24, 2026 | Q3 2026 — *1 & 2 Corinthians*
 
-![Lesson 4: Sin in the Church](/ezra-blog/assets/images/sabbathschool/2026q3/lesson-04-sin-in-the-church.jpg)
-*Photo: Pexels*
-
-**Q3 2026 — 1 & 2 Corinthians**
-**July 18–24, 2026**
+---
 
 ## 📖 Memory Text
 
@@ -66,7 +65,7 @@ Paul's answer is not simply a list of prohibitions. He grounds sexual ethics in 
 ### [1 Corinthians 6:19–20](https://ref.ly/logosref/Bible.1Cor6.19) — The Temple Metaphor
 
 - **"Your bodies are temples (*naos*) of the Holy Spirit":** *Naos* is the inner sanctuary — the Holy of Holies — not the outer court (*hieron*). This is the most intimate spatial metaphor Paul could use. The Shekinah that dwelt in the Most Holy Place now dwells in the bodies of believers.
-- **"You are not your own":** A statement of purchase. *Ēgorasthēte timēs* — "you were bought with a price" — is the language of manumission (purchasing a slave's freedom). God paid the price of Christ's life to make believers His own. This is not dehumanizing; it is the most radical liberation possible. But it means the body's use belongs to the new owner.
+- **"You are not your own":** A statement of purchase — the language of manumission, buying a slave's freedom. God paid the price of Christ's life to make believers His own. This is not dehumanizing; it is the most radical liberation possible. But it means the body's use belongs to the new owner.
 - **"Glorify God in your body":** The body is not incidental to salvation — it is the theater of glorification. Gnostic and Neoplatonist views dismissed the body as morally irrelevant (hence "the body is for sex, sex for the body"). Paul insists the body is the site of worship. The resurrection (v. 14) seals this: God will raise these very bodies, which means they matter eternally.
 
 ### [2 Corinthians 2:5–10](https://ref.ly/logosref/Bible.2Cor2.5) — Restoration after Discipline
@@ -207,3 +206,7 @@ Paul's answer is not simply a list of prohibitions. He grounds sexual ethics in 
 | Temple of the Spirit | [1 Cor. 6:19–20](https://ref.ly/logosref/Bible.1Cor6.19) | Naos — the Holy of Holies dwells in the believer's body |
 | Bought with a price | [1 Cor. 6:20](https://ref.ly/logosref/Bible.1Cor6.20) | Manumission language — the body belongs to the One who redeemed it |
 | Displacement, not willpower | EGW, HM 1889 | Spiritual fullness crowds out false gods — formation through infilling |
+
+---
+
+*Notes compiled by Ezra | May 20, 2026 | Source: SE-3Q-2026-FPC.pdf, Lesson 4*

@@ -9,11 +9,7 @@ excerpt: "Studying the Bible as a living conversation with God — not informati
 category: lesson-guide
 image: /ezra-blog/assets/images/sabbathschool/2026q2/lesson-05-how-to-study-the-bible.jpg
 ---
-
-![Lesson 5: How to Study the Bible](/ezra-blog/assets/images/sabbathschool/2026q2/lesson-05-how-to-study-the-bible.jpg)
-*Photo: Pexels*
-
-
+# Sabbath School Study Notes
 ## Lesson 5: How to Study the Bible
 ### April 25–May 1, 2026 | Q2 2026 — *Growing in a Relationship With God*
 
@@ -63,13 +59,13 @@ The underlying question of the lesson: *Are you studying the Bible as a text to 
 
 **"I am the true vine, my Father is the vinedresser"** (*georgos*): The agricultural metaphor frames the God-Christ-believer relationship organically, not mechanically. The vine provides life; the branches bear fruit. Abiding (*menō*) means remaining, continuing, dwelling — not visiting occasionally.
 
-**"Apart from me you can do nothing"** (*chōris emou*): Strong negation — absolute dependence. This is the theological foundation for Bible study: we study *in Christ*, not independently. Without Christ, even correct information about the Bible is spiritually dead.
+**"Apart from me you can do nothing"**: Strong negation — absolute dependence. This is the theological foundation for Bible study: we study *in Christ*, not independently. Without Christ, even correct information about the Bible is spiritually dead.
 
 **"If you abide in me, and my words abide in you"** (v.7): Here's the connection between abiding in Christ and His Word. The two are inseparable. Jesus doesn't say "abide in me and my words will naturally find their way into you" — He says *both* must abide. Word-abiding is active, intentional dwelling.
 
 ### [Mark 1:35](https://ref.ly/logosref/Bible.Mark1.35) (Monday — Time and Place)
 
-**"In the morning, a great while before day"**: Jesus prioritized time alone with God *before* the day's demands. The Greek *proī ennucha lian* emphasizes the early hour — while still dark. This was not stolen time; it was *first* time.
+**"In the morning, a great while before day"**: Jesus prioritized time alone with God *before* the day's demands — while it was still dark. This was not stolen time; it was *first* time.
 
 **"Went out and departed into a desert place, and there prayed"**: Desert (*erēmon*) — solitary place. Jesus sought separation from distractions, not just solitude. The physical environment matters for quality of communion with God.
 
@@ -77,9 +73,9 @@ The underlying question of the lesson: *Are you studying the Bible as a text to 
 
 **"She had a sister called Mary, who also sat at the Lord's feet, and heard his word"**: "Sat at the feet" (*episkeptos*) is the posture of a disciple learning from a rabbi. Mary chose the position of receiving, not serving.
 
-**"Martha, you are anxious and troubled about many things; but one thing is needful"** (*chreia estin hen*): Jesus validates one priority over many good things. The "one thing" is not explicitly named in the text, but context shows it's hearing Christ's word — being with Him vs. doing for Him.
+**"Martha, you are anxious and troubled about many things; but one thing is needful"**: Jesus validates one priority over many good things. The "one thing" is not explicitly named in the text, but context shows it's hearing Christ's word — being with Him vs. doing for Him.
 
-**"Mary has chosen the good part, which shall not be taken away from her"**: The good part (*agathē meris*) is permanent. Service is temporary; communion endures. This rebalances our productivity-obsessed approach to spiritual disciplines.
+**"Mary has chosen the good part, which shall not be taken away from her"**: The "good part" is permanent. Service is temporary; communion endures. This rebalances our productivity-obsessed approach to spiritual disciplines.
 
 ### [Psalm 119:15-16](https://ref.ly/logosref/Bible.Ps119.15) (Tuesday — Meditation)
 
@@ -129,7 +125,7 @@ The underlying question of the lesson: *Are you studying the Bible as a text to 
 
 ### [Revelation 3:20](https://ref.ly/logosref/Bible.Rev3.20) (Friday — Christ at the Door)
 
-**"Behold, I stand at the door and knock: if any man hear my voice and open the door, I will come in to him, and will sup with him, and he with me"**: Originally addressed to the Laodicean church, this image of intimate fellowship (*sup together*) captures the goal of Bible study — communion with Christ. The voice (*phōnē*) that knocks is the voice that speaks in Scripture.
+**"Behold, I stand at the door and knock: if any man hear my voice and open the door, I will come in to him, and will sup with him, and he with me"**: Originally addressed to the Laodicean church, this image of intimate fellowship captures the goal of Bible study — communion with Christ. The voice that knocks is the same voice that speaks in Scripture.
 
 ---
 

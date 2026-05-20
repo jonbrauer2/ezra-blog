@@ -9,11 +9,7 @@ excerpt: "Prayer as the breath of a soul walking with God — not technique but 
 category: lesson-guide
 image: /ezra-blog/assets/images/sabbathschool/2026q2/lesson-06-prayer-warriors.jpg
 ---
-
-![Lesson 6: Prayer Warriors](/ezra-blog/assets/images/sabbathschool/2026q2/lesson-06-prayer-warriors.jpg)
-*Photo: Pexels*
-
-
+# Sabbath School Study Notes
 ## Lesson 6: Prayer Warriors
 ### May 2–8, 2026 | Q2 2026 — *Growing in a Relationship With God*
 
@@ -56,41 +52,41 @@ Three movements structure this week:
 
 ### [Psalm 116:1-2](https://ref.ly/logosref/Bible.Ps116.1) (Memory Text)
 - **Context:** A thanksgiving psalm from someone who faced death (v.3, "the cords of death encompassed me"). The psalmist's love for God is rooted in *experience* of answered prayer, not abstract theology.
-- **"I love the LORD" (*ahav YHWH*):** Love in the Hebrew Bible is covenantal, relational, and responsive. It is not sentimental affection but committed attachment born of God's prior action ("because He has heard").
-- **"Inclined His ear" (*natah 'ozno*):** Anthropomorphic language for God's attentive presence. The psalmist does not say "God answered my prayer" (outcome) but "God listened" (relationship). Listening validates the petitioner; answering validates the request.
-- **"Therefore I will call upon Him as long as I live" (*qara' kol chai*):** Prayer becomes a way of being, not a recourse for emergencies. The logic: *because* God hears, *therefore* I will keep calling. This is the opposite of the common attitude: "I'll call if God answers."
+- **"I love the LORD":** Love in the Hebrew Bible is covenantal, relational, and responsive — committed attachment born of God's prior action ("because He has heard"). Not sentimental affection but loyal devotion.
+- **"Inclined His ear":** Anthropomorphic language for God's attentive presence. The psalmist does not say "God answered my prayer" (outcome) but "God listened" (relationship). Listening validates the petitioner; answering validates the request.
+- **"Therefore I will call upon Him as long as I live":** Prayer becomes a way of being, not a recourse for emergencies. The logic: *because* God hears, *therefore* I will keep calling. The opposite of: "I'll call if God answers."
 
 ### [Daniel 6:10](https://ref.ly/logosref/Bible.Dan6.10) (Sunday and Monday — Daniel's consistency)
 - **Context:** The decree forbidding prayer to anyone but King Darius has just been signed. Daniel's response is not defiant protest but faithful continuation.
 - **"He went into his house" (*bayith*):** Private, familiar space. Daniel does not make a show of his prayer (contrast [Matt 6:5](https://ref.ly/logosref/Bible.Matt6.5)) nor does he hide it. He simply continues his established pattern.
-- **"His windows were open toward Jerusalem" (*gabah yerushalayim*):** Oriented toward the temple, God's dwelling place ([1 Kings 8:30, 44, 48](https://ref.ly/logosref/Bible.1Kgs8.30)). This is theological geography — prayer is directed, not just emitted.
-- **"Three times a day" (*shalah p'gam*):** Regular, rhythmic prayer. The number three may correspond to the Jewish practice of praying at the morning (*shacharit*), afternoon (*minchah*), and evening (*ma'ariv*) sacrifices. Daniel adapts temple worship to exile conditions.
-- **"As he did aforetime" (*ka'asher asah lephanim*):** Continuity is key. The crisis does not change Daniel; Daniel's character changes the crisis response.
+- **"His windows were open toward Jerusalem":** Oriented toward the temple, God's dwelling place ([1 Kings 8:30, 44, 48](https://ref.ly/logosref/Bible.1Kgs8.30)). This is theological geography — prayer is directed, not just emitted.
+- **"Three times a day":** Regular, rhythmic prayer — corresponding to the morning, afternoon, and evening sacrifices in the temple liturgy. Daniel adapts temple worship to exile conditions.
+- **"As he did aforetime":** Continuity is key. The crisis does not change Daniel; Daniel's character shapes the crisis response.
 
 ### [Genesis 5:22-24](https://ref.ly/logosref/Bible.Gen5.22) (Tuesday — Walking with God)
-- **"Enoch walked with God" (*hanoch hithalech im 'elohim*):** The verb *halakh* (walk) is used of covenant relationship ([Gen 17:1](https://ref.ly/logosref/Bible.Gen17.1); [24:40](https://ref.ly/logosref/Bible.Gen24.40); [48:15](https://ref.ly/logosref/Bible.Gen48.15)). It implies journeying together, shared life, companionship. Enoch did not have visions or write scripture; he *walked*.
-- **"After he begat Methuselah three hundred years" (*achar holid et methushelah*):** Enoch's walk with God did not begin in old age after raising his family, but *in the middle of life*. The walk encompassed parenting, work, and ordinary days.
-- **"And he was not; for God took him" (*we'eynenu ki-lakach oto elohim*):** The only person in the pre-flood genealogy who does not die (*muth*). God "took" (*laqach*) him — the same word used for taking Enoch's ancestors ([Gen 5:24](https://ref.ly/logosref/Bible.Gen5.24), MT reading). The meaning: God ended his earthly sojourn by direct translation (cf. [2 Kings 2:11](https://ref.ly/logosref/Bible.2Kgs2.11); [Heb 11:5](https://ref.ly/logosref/Bible.Heb11.5)).
+- **"Enoch walked with God":** The word "walk" (*halakh*) is a covenant term — journeying together, shared life, companionship. Enoch did not have visions or write Scripture; he *walked*. That was the whole thing.
+- **"After he begat Methuselah three hundred years":** Enoch's walk with God did not begin in old age after raising his family, but *in the middle of life*. The walk encompassed parenting, work, and ordinary days.
+- **"And he was not; for God took him":** The only person in the pre-flood genealogy who does not die. God ended his earthly sojourn by direct translation — the same kind of departure as Elijah (cf. [2 Kings 2:11](https://ref.ly/logosref/Bible.2Kgs2.11); [Heb 11:5](https://ref.ly/logosref/Bible.Heb11.5)).
 - **Significance:** Enoch demonstrates that prayer is not primarily verbal but relational. Walking with God is a posture of life, not just a daily discipline.
 
 ### [Exodus 32:31-32](https://ref.ly/logosref/Bible.Ex32.31); [33:15-23](https://ref.ly/logosref/Bible.Ex33.15) (Wednesday — Intercessory prayer)
 - **Context:** The golden calf crisis ([Exod 32](https://ref.ly/logosref/Bible.Ex32)). Moses has just broken the tablets, confronted Aaron, and ordered the Levites to execute the idolaters ([Exod 32:20-28](https://ref.ly/logosref/Bible.Ex32.20)). Now he returns to God.
-- **"Blot me, I pray thee, out of thy book" (*meheni na misifrecha*):** Moses offers substitutionary atonement. This is not martyrdom complex but identification with his people. He refuses to be saved without them (cf. [Rom 9:1-3](https://ref.ly/logosref/Bible.Rom9.1)).
-- **"If thy presence go not with me, carry us not up hence" (*im-eyn panecha elekh al tit' osenu*):** Moses' greatest fear is not the wilderness, not the Canaanites, but God's absence. Presence (*panim*, literally "face") is the defining reality of the journey.
-- **"Show me thy glory" (*hareh-na et kevodecha*):** This is not curiosity but desire for deeper knowing. Moses wants to see God's character, not God's physical appearance (which God says would be fatal, v.20).
+- **"Blot me, I pray thee, out of thy book":** Moses offers substitutionary atonement. This is not a martyrdom complex but identification with his people — he refuses to be saved without them (cf. [Rom 9:1-3](https://ref.ly/logosref/Bible.Rom9.1)).
+- **"If thy presence go not with me, carry us not up hence":** Moses' greatest fear is not the wilderness or the Canaanites — it is God's absence. The Hebrew word for "presence" is literally "face." Losing God's face is losing everything.
+- **"Show me thy glory":** This is not curiosity but desire for deeper knowing. Moses wants to see God's *character*, not God's physical appearance (which God says would be fatal, v.20).
 - **God's response (33:19):** *"I will be gracious to whom I will be gracious, and will show mercy on whom I will show mercy."* This is not arbitrary favoritism but the mystery of divine sovereignty in relationship. God grants Moses what He will not grant all Israel — a mediated encounter.
 
 ### [Luke 18:1-8](https://ref.ly/logosref/Bible.Luke18.1) (Thursday — Persistent prayer)
 - **Context:** Luke's parable of the persistent widow. The introduction (v.1) gives the purpose: *"to the effect that they ought always to pray and not lose heart."*
-- **"A judge who neither feared God nor respected man" (*krines phobou ton theon*):** The antithesis of God. If even this unjust judge yields to persistence, how much more will God — who is both just and merciful — respond to His elect?
-- **"Avenge me of my adversary" (*ekdikeson mou apo tou antidikou*):** The widow seeks justice (*dike*), not charity. Prayer can be an appeal for God to set things right in a fallen world.
-- **"Will he find faith on the earth?" (*heureka ten pistin epi tes ges*):** The parable ends with a question about faith, not about prayer. The connection: persistent prayer *is* faith expressed. The opposite of persistence is not "trusting God's timing" but "losing heart" (*egkakeo*), giving up.
+- **"A judge who neither feared God nor respected man":** The antithesis of God. If even this unjust judge yields to persistence, how much more will God — who is both just and merciful — respond to His elect?
+- **"Avenge me of my adversary":** The widow seeks *justice*, not charity. Prayer can be an appeal for God to set things right in a broken world.
+- **"Will he find faith on the earth?":** The parable ends with a question about faith, not about prayer. The connection: persistent prayer *is* faith expressed. The opposite of persistence is not "trusting God's timing" — it is losing heart and giving up.
 - **Theological implication:** God is not reluctant to answer; we are reluctant to persist. The delay is not God's obstacle but our formation ground.
 
 ### [Romans 12:12](https://ref.ly/logosref/Bible.Rom12.12) (Monday and Tuesday — Rejoicing, patient, prayer)
-- **"Rejoicing in hope" (*chairontes en te elpidi*):** Prayer is not divorced from joy. Hope (*elpis*) is confident expectation based on God's character, not wishful thinking.
-- **"Patient in tribulation" (*hypomenontes en thlipsis*):** *Hypomeno* is "remaining under" pressure. Prayer is the posture that enables endurance.
-- **"Continuing steadfastly in prayer" (*proskarterountes te proseuche*):** *Proskartereo* combines *pros* (toward) and *kartereo* (strong, firm). It means devoting oneself earnestly, not casually. This is the "always praying" of [1 Thess 5:17](https://ref.ly/logosref/Bible.1Thess5.17) made practical.
+- **"Rejoicing in hope":** Prayer is not divorced from joy. Hope is confident expectation based on God's character, not wishful thinking.
+- **"Patient in tribulation":** The word for patient here means "remaining under" pressure — not passive resignation but choosing to stay when everything in you wants to flee. Prayer is the posture that enables that endurance.
+- **"Continuing steadfastly in prayer":** The word means devoting oneself earnestly and firmly, not casually dropping in when convenient. This is the "always praying" of [1 Thess 5:17](https://ref.ly/logosref/Bible.1Thess5.17) made practical.
 
 ---
 
