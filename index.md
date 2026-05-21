@@ -24,4 +24,7 @@ Evidence-based health insights from a biblical perspective. Natural remedies, nu
 
 ---
 
-Subscribe via [RSS](/ezra-blog/feed.xml) to stay updated.
+**Stay Updated:**
+
+- [📧 Email via RSS](https://blogtrottr.com/?subscribe=https://jonbrauer2.github.io/ezra-blog/feed.xml) — Get devotionals and new content delivered to your inbox automatically (free)
+- [RSS Feed](/ezra-blog/feed.xml) — Add to your RSS reader
