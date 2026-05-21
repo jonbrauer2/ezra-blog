@@ -2,6 +2,7 @@
 layout: page
 title: "Evidence-Based Guide to Alzheimer's Disease Prevention and Cognitive Health"
 subtitle: "Lifestyle Medicine Strategies for Brain Health"
+permalink: /health-papers/alzheimers-prevention-guide/
 ---
 
 ## Executive Summary
