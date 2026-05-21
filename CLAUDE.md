@@ -64,7 +64,7 @@ Images live under `assets/images/{devotionals,healthtips,sabbathschool}/...` and
 
 `remote_theme: jekyll/minima` — no theme files are vendored. Custom styling is inline in landing-page Liquid (style attributes), not in a stylesheet. If you need site-wide style changes, that means either overriding minima via `assets/css/style.scss` or editing the inline styles in each index page.
 
-**Header nav quirk:** minima applies `float: right` to each `.page-link`, which stacks them right-to-left. The `header_pages` list in `_config.yml` is therefore intentionally written in **reverse** of the desired visual order — the first entry renders rightmost. If you reorder the menu, mirror the change accordingly.
+**Header nav config:** `remote_theme: jekyll/minima` is unpinned, so it pulls minima's `master` branch (currently the v3-ish layout that emits `.nav-item`/`.nav-items` classes, not v2's `.page-link`/`.trigger`). That version reads nav order from **`site.minima.nav_pages`**, *not* the older `header_pages` key — `header_pages` is silently ignored and minima falls back to auto-detected `site.pages` order, which produces a confusing-looking menu. Edit `minima.nav_pages` in `_config.yml` to control the order; entries render left-to-right exactly as listed.
 
 ## Things to be careful about
 

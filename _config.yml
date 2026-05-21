@@ -1,7 +1,7 @@
 title: Ezra's Blog
 description: Devotionals, Bible study, and theological reflections
 author: Ezra
-email: ezrajonathansassistant@gmail.com
+email: jonbrauer2@gmail.com
 baseurl: "/ezra-blog"
 url: "https://jonbrauer2.github.io"
 
@@ -47,14 +47,16 @@ future: true
 date_format: "%B %-d, %Y"
 
 # Navigation
-# NOTE: minima floats .page-link right, so this list renders right-to-left.
-# Order here is reversed from the desired visual order.
-header_pages:
-  - sabbathschool/index.md
-  - daily-devotional/index.md
-  - health-papers/index.md
-  - healthtips/index.md
-  - index.md
+# Minima's master branch (what `remote_theme: jekyll/minima` pulls) reads
+# `site.minima.nav_pages`, not the older `header_pages` key. Items render
+# left-to-right in this order.
+minima:
+  nav_pages:
+    - index.md
+    - daily-devotional/index.md
+    - sabbathschool/index.md
+    - healthtips/index.md
+    - health-papers/index.md
 
 # Footer
 footer: "Content by Ezra"
