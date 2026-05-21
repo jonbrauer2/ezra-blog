@@ -9,6 +9,10 @@ excerpt: "Sin, the gospel, and the law are not competing doctrines but a unified
 category: lesson-guide
 image: /ezra-blog/assets/images/sabbathschool/2026q2/lesson-09-sin-gospel-and-the-law.jpg
 ---
+
+![Lesson 9: Sin, the Gospel, and the Law](/ezra-blog/assets/images/sabbathschool/2026q2/lesson-09-sin-gospel-and-the-law.jpg)
+*Photo: Pexels*
+
 # Sabbath School Study Notes
 ## Lesson 9: Sin, the Gospel, and the Law
 ### May 23–29, 2026 | Q2 2026 — *Growing in a Relationship With God*
@@ -18,7 +22,7 @@ image: /ezra-blog/assets/images/sabbathschool/2026q2/lesson-09-sin-gospel-and-th
 ## 📖 Memory Text
 
 > *"I will never forget Your precepts, for by them You have given me life. I am Yours, save me."*
-> — **Psalm 119:93–94, NKJV**
+> — **[Psalm 119:93–94](https://ref.ly/logosref/Bible.Ps119.93), NKJV**
 
 ---
 
@@ -26,13 +30,13 @@ image: /ezra-blog/assets/images/sabbathschool/2026q2/lesson-09-sin-gospel-and-th
 
 | Day | Topic | Key Passage |
 |-----|-------|-------------|
-| Sabbath Intro | Sin, the Gospel, and the Law | Judges 14; Mark 9:42–48; Rom 3:20; Matt 5:17–18; Rom 3:28; Matt 7:24–29; Ps 119:93–94; Isa 59:2 |
-| Sunday May 24 | Distractions and Temptations | Judges 14; Judges 16:1, 4, 16–17; Matt 6:33; Rev 3:14–22; John 4:6; Luke 5:16; Luke 6:12; Mark 1:35; Matt 14:23 |
-| Monday May 25 | Strongholds in My Relationship with God | 1 Cor 10:12; Matt 6:2; Matt 5:28–29; Matt 7:1–2; 1 Cor 4:5; Matt 5:44; Matt 5:22; Mark 9:42–48 |
-| Tuesday May 26 | The Law | Rom 3:20; 1 John 3:4; Ps 51:5; Jer 17:9; Exod 20:3–17; Mark 12:30–31; Matt 22:40; Heb 1:1–2; 1 John 5:3 |
-| Wednesday May 27 | The Law and the Gospel | Matt 5:17–18; John 14:15; Rom 3:28; Rom 4:13–16; Gal 2:16; Gal 3:13; Phil 3:9 |
-| Thursday May 28 | Knowing and Doing | Matt 7:21; Hos 4:1, 6, 10; John 17:3; Matt 7:24–29 |
-| Friday May 29 | Further Thought | Matt 5:17–18; Prov 24:3, 13–14 |
+| Sabbath Intro | Sin, the Gospel, and the Law | [Judges 14](https://ref.ly/logosref/Bible.Judg14); [Mark 9:42–48](https://ref.ly/logosref/Bible.Mark9.42); [Rom 3:20](https://ref.ly/logosref/Bible.Rom3.20); [Matt 5:17–18](https://ref.ly/logosref/Bible.Matt5.17); [Rom 3:28](https://ref.ly/logosref/Bible.Rom3.28); [Matt 7:24–29](https://ref.ly/logosref/Bible.Matt7.24); [Ps 119:93–94](https://ref.ly/logosref/Bible.Ps119.93); [Isa 59:2](https://ref.ly/logosref/Bible.Isa59.2) |
+| Sunday May 24 | Distractions and Temptations | [Judges 14](https://ref.ly/logosref/Bible.Judg14); [Judges 16:1, 4, 16–17](https://ref.ly/logosref/Bible.Judg16.1); [Matt 6:33](https://ref.ly/logosref/Bible.Matt6.33); [Rev 3:14–22](https://ref.ly/logosref/Bible.Rev3.14); [John 4:6](https://ref.ly/logosref/Bible.Jn4.6); [Luke 5:16](https://ref.ly/logosref/Bible.Luke5.16); [Luke 6:12](https://ref.ly/logosref/Bible.Luke6.12); [Mark 1:35](https://ref.ly/logosref/Bible.Mark1.35); [Matt 14:23](https://ref.ly/logosref/Bible.Matt14.23) |
+| Monday May 25 | Strongholds in My Relationship with God | [1 Cor 10:12](https://ref.ly/logosref/Bible.1Cor10.12); [Matt 6:2](https://ref.ly/logosref/Bible.Matt6.2); [Matt 5:28–29](https://ref.ly/logosref/Bible.Matt5.28); [Matt 7:1–2](https://ref.ly/logosref/Bible.Matt7.1); [1 Cor 4:5](https://ref.ly/logosref/Bible.1Cor4.5); [Matt 5:44](https://ref.ly/logosref/Bible.Matt5.44); [Matt 5:22](https://ref.ly/logosref/Bible.Matt5.22); [Mark 9:42–48](https://ref.ly/logosref/Bible.Mark9.42) |
+| Tuesday May 26 | The Law | [Rom 3:20](https://ref.ly/logosref/Bible.Rom3.20); [1 John 3:4](https://ref.ly/logosref/Bible.1Jn3.4); [Ps 51:5](https://ref.ly/logosref/Bible.Ps51.5); [Jer 17:9](https://ref.ly/logosref/Bible.Jer17.9); [Exod 20:3–17](https://ref.ly/logosref/Bible.Ex20.3); [Mark 12:30–31](https://ref.ly/logosref/Bible.Mark12.30); [Matt 22:40](https://ref.ly/logosref/Bible.Matt22.40); [Heb 1:1–2](https://ref.ly/logosref/Bible.Heb1.1); [1 John 5:3](https://ref.ly/logosref/Bible.1Jn5.3) |
+| Wednesday May 27 | The Law and the Gospel | [Matt 5:17–18](https://ref.ly/logosref/Bible.Matt5.17); [John 14:15](https://ref.ly/logosref/Bible.Jn14.15); [Rom 3:28](https://ref.ly/logosref/Bible.Rom3.28); [Rom 4:13–16](https://ref.ly/logosref/Bible.Rom4.13); [Gal 2:16](https://ref.ly/logosref/Bible.Gal2.16); [Gal 3:13](https://ref.ly/logosref/Bible.Gal3.13); [Phil 3:9](https://ref.ly/logosref/Bible.Phil3.9) |
+| Thursday May 28 | Knowing and Doing | [Matt 7:21](https://ref.ly/logosref/Bible.Matt7.21); [Hos 4:1, 6, 10](https://ref.ly/logosref/Bible.Hos4.1); [John 17:3](https://ref.ly/logosref/Bible.Jn17.3); [Matt 7:24–29](https://ref.ly/logosref/Bible.Matt7.24) |
+| Friday May 29 | Further Thought | [Matt 5:17–18](https://ref.ly/logosref/Bible.Matt5.17); [Prov 24:3, 13–14](https://ref.ly/logosref/Bible.Prov24.3) |
 
 ---
 
@@ -139,7 +143,7 @@ The week's progression is internal-to-external: distractions that capture the he
 
 10. **"A man is justified by faith apart from the deeds of the law" ([Rom 3:28](#)) and "If you love Me, keep My commandments" ([John 14:15](#)). How do you hold both without collapsing one into the other?** What is the *order* between them, and why does the order matter for the gospel?
 
-11. **Matthew 5:17 — "Do not think that I came to destroy the Law... but to fulfill." What does *fulfill* mean? Does it mean "complete and set aside," "perfectly obey," "bring to full meaning," or something else?** How do the three uses of "fulfill" (predictive, exemplary, transformative) function together?
+11. **[Matthew 5:17](https://ref.ly/logosref/Bible.Matt5.17) — "Do not think that I came to destroy the Law... but to fulfill." What does *fulfill* mean? Does it mean "complete and set aside," "perfectly obey," "bring to full meaning," or something else?** How do the three uses of "fulfill" (predictive, exemplary, transformative) function together?
 
 12. **Luther added *alone* to [Rom 3:28](#) — "justified by faith *alone*." Was he adding to Scripture or surfacing its sense?** Where does Adventist preaching land on the "alone" — is faith alone the *sole instrument* of justification, even while works are the *necessary fruit*? What does that look like in your local context?
 
@@ -149,15 +153,15 @@ The week's progression is internal-to-external: distractions that capture the he
 
 ### On Knowing and Doing
 
-15. **Matthew 7:24–27 — the two builders. Both *heard* Jesus' words. The difference was that one *did* them. What does it cost to be a hearer-only?** What would it look like in your life this week to move one specific teaching from "heard" to "done"?
+15. **[Matthew 7:24–27](https://ref.ly/logosref/Bible.Matt7.24) — the two builders. Both *heard* Jesus' words. The difference was that one *did* them. What does it cost to be a hearer-only?** What would it look like in your life this week to move one specific teaching from "heard" to "done"?
 
-16. **Hosea 4:6 — "My people are destroyed for lack of knowledge." But Israel had the Torah. What kind of "knowledge" was missing — and how is that missing for the church today?** Is biblical literacy enough, or is knowledge of God something deeper than information?
+16. **[Hosea 4:6](https://ref.ly/logosref/Bible.Hos4.6) — "My people are destroyed for lack of knowledge." But Israel had the Torah. What kind of "knowledge" was missing — and how is that missing for the church today?** Is biblical literacy enough, or is knowledge of God something deeper than information?
 
-17. **Matthew 7:21 — "Not everyone who says to Me, 'Lord, Lord,' shall enter the kingdom of heaven, but he who does the will of My Father." Some who called Jesus "Lord" were turned away. What separates confession from obedience?** Where is the boundary between honest struggle (the father of [Mark 9:24](#)) and confessing-without-doing?
+17. **[Matthew 7:21](https://ref.ly/logosref/Bible.Matt7.21) — "Not everyone who says to Me, 'Lord, Lord,' shall enter the kingdom of heaven, but he who does the will of My Father." Some who called Jesus "Lord" were turned away. What separates confession from obedience?** Where is the boundary between honest struggle (the father of [Mark 9:24](#)) and confessing-without-doing?
 
 18. **The lesson connects "strongholds" ([2 Cor 10:4–5](#) implicit) with internal thoughts — judgment, contempt, lust, anger. Modern psychology calls these "cognitive distortions." Is the biblical category of stronghold the same thing, or something more?** What is the relationship between thinking patterns and spiritual bondage? What is the path out?
 
-19. **Revelation 3:14–22 — Laodicea is neither hot nor cold but lukewarm. Lukewarmness is *not* immorality; it is *indifference*. Why does Jesus describe lukewarmness as more nauseating than open rebellion?** What does lukewarm faith look like in the context of this lesson on sin, gospel, and law?
+19. **[Revelation 3:14–22](https://ref.ly/logosref/Bible.Rev3.14) — Laodicea is neither hot nor cold but lukewarm. Lukewarmness is *not* immorality; it is *indifference*. Why does Jesus describe lukewarmness as more nauseating than open rebellion?** What does lukewarm faith look like in the context of this lesson on sin, gospel, and law?
 
 20. **The week ends with the call to *integrate* — to know and to do, to love and to keep, to be saved by grace and to walk by law. If you had to name one place where the integration is currently weakest in your own walk, what would it be?** What single step, this week, would strengthen the integration?
 

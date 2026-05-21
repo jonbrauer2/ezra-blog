@@ -9,6 +9,10 @@ excerpt: "Repentance is not a human achievement that earns God's favor — it is
 category: lesson-guide
 image: /ezra-blog/assets/images/sabbathschool/2026q2/lesson-10-repentance-and-forgiveness.jpg
 ---
+
+![Lesson 10: Repentance and Forgiveness](/ezra-blog/assets/images/sabbathschool/2026q2/lesson-10-repentance-and-forgiveness.jpg)
+*Photo: Pexels*
+
 # Sabbath School Study Notes
 ## Lesson 10: Repentance and Forgiveness
 ### May 30–June 5, 2026 | Q2 2026 — *Growing in a Relationship With God*
@@ -18,7 +22,7 @@ image: /ezra-blog/assets/images/sabbathschool/2026q2/lesson-10-repentance-and-fo
 ## 📖 Memory Text
 
 > *"If we confess our sins, He is faithful and just to forgive us our sins and to cleanse us from all unrighteousness."*
-> — **1 John 1:9, NKJV**
+> — **[1 John 1:9](https://ref.ly/logosref/Bible.1Jn1.9), NKJV**
 
 ---
 
@@ -26,13 +30,13 @@ image: /ezra-blog/assets/images/sabbathschool/2026q2/lesson-10-repentance-and-fo
 
 | Day | Topic | Key Passage |
 |-----|-------|-------------|
-| Sabbath Intro | Repentance and Forgiveness | Isa 61:10; Hos 6; Acts 3:18–19; Exod 34:1–10; Rom 6:23; Matt 22:1–14; 1 John 1:9 |
-| Sunday May 31 | Choosing What Matters | Luke 10:40–42; Ps 53:2; Rev 7:14; Isa 64:6; Zech 3:4; Isa 61:10 |
-| Monday June 1 | The Holy Spirit's Role | John 16:8; Luke 11:13; Hos 6; John 15:4; Eph 4:30 |
-| Tuesday June 2 | The Call to Repentance | Matt 3:1–2; Mark 1:14–15; Luke 24:46–47; Acts 3:18–19; Rom 2:4; 1 John 1:9; Rev 3:19; 2 Pet 3:9; Acts 20:21; John 15:2, 8; Matt 3:8; Acts 11:18 |
-| Wednesday June 3 | God's Mercy and Grace | Ps 103:8; Exod 34:6; Exod 34:1–10; Luke 18:13; Rev 3:20; Zech 3:4; Rom 6:23; Rom 5:20–21; Rom 5:8 |
-| Thursday June 4 | Preparation and Worthiness | Matt 6:19–21; Matt 22:1–14; Rev 19:8; Eph 5:27; Gen 3:7 |
-| Friday June 5 | Further Reflection | Hos 10:12; Phil 2:12–13; Deut 4:3–4; Matt 6:13 |
+| Sabbath Intro | Repentance and Forgiveness | [Isa 61:10](https://ref.ly/logosref/Bible.Isa61.10); [Hos 6](https://ref.ly/logosref/Bible.Hos6); [Acts 3:18–19](https://ref.ly/logosref/Bible.Acts3.18); [Exod 34:1–10](https://ref.ly/logosref/Bible.Ex34.1); [Rom 6:23](https://ref.ly/logosref/Bible.Rom6.23); [Matt 22:1–14](https://ref.ly/logosref/Bible.Matt22.1); [1 John 1:9](https://ref.ly/logosref/Bible.1Jn1.9) |
+| Sunday May 31 | Choosing What Matters | [Luke 10:40–42](https://ref.ly/logosref/Bible.Luke10.40); [Ps 53:2](https://ref.ly/logosref/Bible.Ps53.2); [Rev 7:14](https://ref.ly/logosref/Bible.Rev7.14); [Isa 64:6](https://ref.ly/logosref/Bible.Isa64.6); [Zech 3:4](https://ref.ly/logosref/Bible.Zech3.4); [Isa 61:10](https://ref.ly/logosref/Bible.Isa61.10) |
+| Monday June 1 | The Holy Spirit's Role | [John 16:8](https://ref.ly/logosref/Bible.Jn16.8); [Luke 11:13](https://ref.ly/logosref/Bible.Luke11.13); [Hos 6](https://ref.ly/logosref/Bible.Hos6); [John 15:4](https://ref.ly/logosref/Bible.Jn15.4); [Eph 4:30](https://ref.ly/logosref/Bible.Eph4.30) |
+| Tuesday June 2 | The Call to Repentance | [Matt 3:1–2](https://ref.ly/logosref/Bible.Matt3.1); [Mark 1:14–15](https://ref.ly/logosref/Bible.Mark1.14); [Luke 24:46–47](https://ref.ly/logosref/Bible.Luke24.46); [Acts 3:18–19](https://ref.ly/logosref/Bible.Acts3.18); [Rom 2:4](https://ref.ly/logosref/Bible.Rom2.4); [1 John 1:9](https://ref.ly/logosref/Bible.1Jn1.9); [Rev 3:19](https://ref.ly/logosref/Bible.Rev3.19); [2 Pet 3:9](https://ref.ly/logosref/Bible.2Pet3.9); [Acts 20:21](https://ref.ly/logosref/Bible.Acts20.21); [John 15:2, 8](https://ref.ly/logosref/Bible.Jn15.2); [Matt 3:8](https://ref.ly/logosref/Bible.Matt3.8); [Acts 11:18](https://ref.ly/logosref/Bible.Acts11.18) |
+| Wednesday June 3 | God's Mercy and Grace | [Ps 103:8](https://ref.ly/logosref/Bible.Ps103.8); [Exod 34:6](https://ref.ly/logosref/Bible.Ex34.6); [Exod 34:1–10](https://ref.ly/logosref/Bible.Ex34.1); [Luke 18:13](https://ref.ly/logosref/Bible.Luke18.13); [Rev 3:20](https://ref.ly/logosref/Bible.Rev3.20); [Zech 3:4](https://ref.ly/logosref/Bible.Zech3.4); [Rom 6:23](https://ref.ly/logosref/Bible.Rom6.23); [Rom 5:20–21](https://ref.ly/logosref/Bible.Rom5.20); [Rom 5:8](https://ref.ly/logosref/Bible.Rom5.8) |
+| Thursday June 4 | Preparation and Worthiness | [Matt 6:19–21](https://ref.ly/logosref/Bible.Matt6.19); [Matt 22:1–14](https://ref.ly/logosref/Bible.Matt22.1); [Rev 19:8](https://ref.ly/logosref/Bible.Rev19.8); [Eph 5:27](https://ref.ly/logosref/Bible.Eph5.27); [Gen 3:7](https://ref.ly/logosref/Bible.Gen3.7) |
+| Friday June 5 | Further Reflection | [Hos 10:12](https://ref.ly/logosref/Bible.Hos10.12); [Phil 2:12–13](https://ref.ly/logosref/Bible.Phil2.12); [Deut 4:3–4](https://ref.ly/logosref/Bible.Deut4.3); [Matt 6:13](https://ref.ly/logosref/Bible.Matt6.13) |
 
 ---
 
@@ -142,7 +146,7 @@ The Sabbath introduction's image — Mary at Jesus' feet choosing "the one thing
 
 6. **The Spirit convicts of "sin, righteousness, and judgment" ([John 16:8–11](#)) — three things, not one. Adventist preaching has often emphasized conviction of sin while saying less about conviction of righteousness (Christ's vindication) and judgment (Satan's defeat). What changes when all three convictions are preached together?**
 
-7. **Hosea 6:3 — "Let us pursue the knowledge of the LORD. His going forth is established as the morning." Yet Hosea 6:4 has God lamenting that Israel's love is "like a morning cloud, and like the early dew it goes away." Have you experienced this rhythm in your own walk — moments of vivid devotion that evaporate?** What practices have helped move from cloud-faith to morning-faith?
+7. **[Hosea 6:3](https://ref.ly/logosref/Bible.Hos6.3) — "Let us pursue the knowledge of the LORD. His going forth is established as the morning." Yet [Hosea 6:4](https://ref.ly/logosref/Bible.Hos6.4) has God lamenting that Israel's love is "like a morning cloud, and like the early dew it goes away." Have you experienced this rhythm in your own walk — moments of vivid devotion that evaporate?** What practices have helped move from cloud-faith to morning-faith?
 
 8. **[Eph 4:30](#) — "Do not grieve the Holy Spirit." The Spirit can be *grieved*. What does it mean to grieve someone who loves you, and how does that change how you think about ongoing sin in a believer's life?** Is the relationship between believer and Spirit fragile or robust — and what's the textual basis for the answer?
 
@@ -150,7 +154,7 @@ The Sabbath introduction's image — Mary at Jesus' feet choosing "the one thing
 
 9. **[1 John 1:9](#): God is "faithful and just" to forgive. *Just* — not merciful in spite of justice, but justly forgiving. How does the cross make forgiveness *just*?** Is it possible to preach mercy without atonement, or atonement without mercy, and still preach the gospel?
 
-10. **Zechariah 3 — Joshua's filthy garments are removed and replaced with rich robes. He does not change his own clothes. He is changed. What does this say about the believer's role in sanctification?** Is it pure passivity? If not, what is our active part, and what is God's?
+10. **[Zechariah 3](https://ref.ly/logosref/Bible.Zech3) — Joshua's filthy garments are removed and replaced with rich robes. He does not change his own clothes. He is changed. What does this say about the believer's role in sanctification?** Is it pure passivity? If not, what is our active part, and what is God's?
 
 11. **The wedding garment parable ([Matt 22:11–12](#)) describes a man cast out for entering without a garment — even though he was already at the feast. What does this story warn against?** Can you be in the church, in the feast, *and* still be without the garment? What would that look like?
 
@@ -168,13 +172,13 @@ The Sabbath introduction's image — Mary at Jesus' feet choosing "the one thing
 
 ### On Practice
 
-17. **Hosea 10:12 — "Break up your fallow ground, for it is time to seek the LORD." Fallow ground is land that has been allowed to harden through neglect. Where is the fallow ground in your spiritual life right now?** What "breaking up" would the Spirit be doing, if you let Him?
+17. **[Hosea 10:12](https://ref.ly/logosref/Bible.Hos10.12) — "Break up your fallow ground, for it is time to seek the LORD." Fallow ground is land that has been allowed to harden through neglect. Where is the fallow ground in your spiritual life right now?** What "breaking up" would the Spirit be doing, if you let Him?
 
-18. **Phil 2:12–13 — "Work out your own salvation with fear and trembling, for it is God who works in you." Note the paradox: *you* work, *God* works. How does this collaborative architecture differ from both works-righteousness and quietism?** What does it look like in practice?
+18. **[Phil 2:12–13](https://ref.ly/logosref/Bible.Phil2.12) — "Work out your own salvation with fear and trembling, for it is God who works in you." Note the paradox: *you* work, *God* works. How does this collaborative architecture differ from both works-righteousness and quietism?** What does it look like in practice?
 
 19. **Repentance is often imagined as a one-time event at conversion. But Scripture speaks of ongoing repentance — daily turning, regular confession ([1 John 1:9](#) is in present tense). What is the difference between conversion repentance and ongoing repentance?** Why do we lose the second so easily?
 
-20. **The lesson closes with Matthew 6:13 — "Do not lead us into temptation, but deliver us from the evil one." Why does Jesus include this petition in *the* prayer He taught? What does it imply about our continued vulnerability even after we have repented and been forgiven?**
+20. **The lesson closes with [Matthew 6:13](https://ref.ly/logosref/Bible.Matt6.13) — "Do not lead us into temptation, but deliver us from the evil one." Why does Jesus include this petition in *the* prayer He taught? What does it imply about our continued vulnerability even after we have repented and been forgiven?**
 
 ---
 
@@ -198,7 +202,7 @@ The Sabbath introduction's image — Mary at Jesus' feet choosing "the one thing
 
 ### 3. On the wedding garment
 
-> *"The wedding garment in the parable represents the pure, spotless character which Christ's true followers will possess. To the church it is given 'that she should be arrayed in fine linen, clean and white' [Rev 19:8]... This robe, woven in the loom of heaven, has in it not one thread of human devising."*
+> *"The wedding garment in the parable represents the pure, spotless character which Christ's true followers will possess. To the church it is given 'that she should be arrayed in fine linen, clean and white' [[Rev 19:8](https://ref.ly/logosref/Bible.Rev19.8)]... This robe, woven in the loom of heaven, has in it not one thread of human devising."*
 > — *Christ's Object Lessons*, p. 311
 
 **Discussion:** "Not one thread of human devising" is a striking phrase. The garment is *entirely* of heaven's weaving. Yet in the same chapter Ellen White also speaks of character developed through choices. How do you hold both? Is the garment imputed righteousness only, or imputed + imparted? What does each emphasis preserve, and what does each emphasis risk losing?

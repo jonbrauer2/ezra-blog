@@ -9,6 +9,10 @@ excerpt: "Faith is not a feeling or a religious technique — it is God's gift, 
 category: lesson-guide
 image: /ezra-blog/assets/images/sabbathschool/2026q2/lesson-08-having-faith.jpg
 ---
+
+![Lesson 8: Having Faith](/ezra-blog/assets/images/sabbathschool/2026q2/lesson-08-having-faith.jpg)
+*Photo: Pexels*
+
 # Sabbath School Study Notes
 ## Lesson 8: Having Faith
 ### May 16–22, 2026 | Q2 2026 — *Growing in a Relationship With God*
@@ -18,7 +22,7 @@ image: /ezra-blog/assets/images/sabbathschool/2026q2/lesson-08-having-faith.jpg
 ## 📖 Memory Text
 
 > *"Faith shows the reality of what we hope for; it is the evidence of things we cannot see."*
-> — **Hebrews 11:1, NLT**
+> — **[Hebrews 11:1](https://ref.ly/logosref/Bible.Heb11.1), NLT**
 
 ---
 
@@ -26,13 +30,13 @@ image: /ezra-blog/assets/images/sabbathschool/2026q2/lesson-08-having-faith.jpg
 
 | Day | Topic | Key Passage |
 |-----|-------|-------------|
-| Sabbath Intro | What Is Faith? | Mark 8:11–12; Matt 15:21–28; Luke 7:1–10; Eph 2:8; Rev 14:12; Heb 11 |
-| Sunday May 17 | Just Give Me a Sign! | Deut 4:7–10; Deut 8:2–3; John 20:30–31; Mark 8:11–12; John 20:29 |
-| Monday May 18 | Jesus Sees Our Faith | Mark 4:40; Matt 15:21–28; John 2:23–25; Luke 7:1–10; Mark 9:24 |
-| Tuesday May 19 | Faith Is Not a Feeling | Matt 17:20; Matt 13:31–32; Rom 12:3; Eph 2:8; Jer 31:3; Heb 12:1–2; Rom 3:23–26; Luke 7:50 |
-| Wednesday May 20 | Examples of Faith | Hebrews 11; Matt 17:20; Rom 10:17; Luke 17:5; Phil 2:12–16; 2 Cor 5:7 |
-| Thursday May 21 | The Faith of Jesus | Rev 14:12; Matt 26:36–42; Rev 5:9; Heb 11:6 |
-| Friday May 22 | Further Thought | Rom 5:1; Acts 26:18; John 1:12; Gal 2:20; Heb 10:23; Jer 31:2–4, 9, 11–12 |
+| Sabbath Intro | What Is Faith? | [Mark 8:11–12](https://ref.ly/logosref/Bible.Mark8.11); [Matt 15:21–28](https://ref.ly/logosref/Bible.Matt15.21); [Luke 7:1–10](https://ref.ly/logosref/Bible.Luke7.1); [Eph 2:8](https://ref.ly/logosref/Bible.Eph2.8); [Rev 14:12](https://ref.ly/logosref/Bible.Rev14.12); [Heb 11](https://ref.ly/logosref/Bible.Heb11) |
+| Sunday May 17 | Just Give Me a Sign! | [Deut 4:7–10](https://ref.ly/logosref/Bible.Deut4.7); [Deut 8:2–3](https://ref.ly/logosref/Bible.Deut8.2); [John 20:30–31](https://ref.ly/logosref/Bible.Jn20.30); [Mark 8:11–12](https://ref.ly/logosref/Bible.Mark8.11); [John 20:29](https://ref.ly/logosref/Bible.Jn20.29) |
+| Monday May 18 | Jesus Sees Our Faith | [Mark 4:40](https://ref.ly/logosref/Bible.Mark4.40); [Matt 15:21–28](https://ref.ly/logosref/Bible.Matt15.21); [John 2:23–25](https://ref.ly/logosref/Bible.Jn2.23); [Luke 7:1–10](https://ref.ly/logosref/Bible.Luke7.1); [Mark 9:24](https://ref.ly/logosref/Bible.Mark9.24) |
+| Tuesday May 19 | Faith Is Not a Feeling | [Matt 17:20](https://ref.ly/logosref/Bible.Matt17.20); [Matt 13:31–32](https://ref.ly/logosref/Bible.Matt13.31); [Rom 12:3](https://ref.ly/logosref/Bible.Rom12.3); [Eph 2:8](https://ref.ly/logosref/Bible.Eph2.8); [Jer 31:3](https://ref.ly/logosref/Bible.Jer31.3); [Heb 12:1–2](https://ref.ly/logosref/Bible.Heb12.1); [Rom 3:23–26](https://ref.ly/logosref/Bible.Rom3.23); [Luke 7:50](https://ref.ly/logosref/Bible.Luke7.50) |
+| Wednesday May 20 | Examples of Faith | [Hebrews 11](https://ref.ly/logosref/Bible.Heb11); [Matt 17:20](https://ref.ly/logosref/Bible.Matt17.20); [Rom 10:17](https://ref.ly/logosref/Bible.Rom10.17); [Luke 17:5](https://ref.ly/logosref/Bible.Luke17.5); [Phil 2:12–16](https://ref.ly/logosref/Bible.Phil2.12); [2 Cor 5:7](https://ref.ly/logosref/Bible.2Cor5.7) |
+| Thursday May 21 | The Faith of Jesus | [Rev 14:12](https://ref.ly/logosref/Bible.Rev14.12); [Matt 26:36–42](https://ref.ly/logosref/Bible.Matt26.36); [Rev 5:9](https://ref.ly/logosref/Bible.Rev5.9); [Heb 11:6](https://ref.ly/logosref/Bible.Heb11.6) |
+| Friday May 22 | Further Thought | [Rom 5:1](https://ref.ly/logosref/Bible.Rom5.1); [Acts 26:18](https://ref.ly/logosref/Bible.Acts26.18); [John 1:12](https://ref.ly/logosref/Bible.Jn1.12); [Gal 2:20](https://ref.ly/logosref/Bible.Gal2.20); [Heb 10:23](https://ref.ly/logosref/Bible.Heb10.23); [Jer 31:2–4, 9, 11–12](https://ref.ly/logosref/Bible.Jer31.2) |
 
 ---
 
@@ -122,7 +126,7 @@ The Sabbath introduction's image — "faith is like Wi-Fi: invisible, but it con
 - **"My soul is exceedingly sorrowful, even to death":** The word for "exceedingly sorrowful" means grief that surrounds and encloses — coming from every direction at once. Jesus' anguish is total.
 - **"O My Father, if it is possible, let this cup pass from Me; nevertheless, not as I will, but as You will":** The verbal mood matters. "Let pass" (*parelthatō*) is an aorist imperative — a real request. "Not as I will, but as You will" is the substance of His faith. Faith is not the absence of the request to be spared; it is the willingness to release the request to the Father's wisdom.
 - **The cup (*potērion*):** Old Testament imagery for the wrath of God against sin ([Isa 51:17](#); [Jer 25:15](#)). Jesus is not asking to escape death generally; He is asking, if possible, to escape *this* — bearing the sin of the world.
-- **Faith as obedience under terror:** This is the faith that Revelation 14 commends. Not absence of fear, not absence of sweat-like-blood, but the choice to entrust the soul to the Father even when the body is breaking.
+- **Faith as obedience under terror:** This is the faith that [Revelation 14](https://ref.ly/logosref/Bible.Rev14) commends. Not absence of fear, not absence of sweat-like-blood, but the choice to entrust the soul to the Father even when the body is breaking.
 
 ---
 
@@ -166,17 +170,17 @@ The Sabbath introduction's image — "faith is like Wi-Fi: invisible, but it con
 
 15. **The early Adventist understanding of [Rev 14:12](#) emphasized "the commandments of God" heavily and "the faith of Jesus" only later (after 1888). What changed when "the faith of Jesus" was given its proper weight?** What does our current preaching of commandment-keeping look like in practice — does it carry the faith of Jesus, or has it sometimes drifted back?
 
-16. **Hebrews 11 ends with saints who "died, not having received the promises" (v. 13, 39). Faith was not always rewarded with the thing promised in this life. How does that reshape your understanding of what faith is *for*?** Are you willing to die having not received? What promise are you most attached to receiving in this life?
+16. **[Hebrews 11](https://ref.ly/logosref/Bible.Heb11) ends with saints who "died, not having received the promises" (v. 13, 39). Faith was not always rewarded with the thing promised in this life. How does that reshape your understanding of what faith is *for*?** Are you willing to die having not received? What promise are you most attached to receiving in this life?
 
 ### On Faith and Practice
 
-17. **Romans 10:17: "Faith comes by hearing, and hearing by the word of God." If faith is generated through Scripture, what does that mean for someone whose Bible reading has gone dry?** Is the problem the practice, the heart, the method — or is dryness itself sometimes a season faith must move through?
+17. **[Romans 10:17](https://ref.ly/logosref/Bible.Rom10.17): "Faith comes by hearing, and hearing by the word of God." If faith is generated through Scripture, what does that mean for someone whose Bible reading has gone dry?** Is the problem the practice, the heart, the method — or is dryness itself sometimes a season faith must move through?
 
-18. **Hebrews 12:1–2 says we "lay aside every weight, and the sin which so easily ensnares us... looking unto Jesus, the author and finisher of our faith." What weights — not necessarily sins, but encumbrances — are presently slowing your faith?** What would "laying aside" actually require for you this week?
+18. **[Hebrews 12:1–2](https://ref.ly/logosref/Bible.Heb12.1) says we "lay aside every weight, and the sin which so easily ensnares us... looking unto Jesus, the author and finisher of our faith." What weights — not necessarily sins, but encumbrances — are presently slowing your faith?** What would "laying aside" actually require for you this week?
 
-19. **Galatians 2:20: "It is no longer I who live, but Christ lives in me; and the life which I now live in the flesh I live by faith in the Son of God." How does life *by faith* differ from life *informed by faith*?** Where in your own life is faith the operating system, and where is it the wallpaper?
+19. **[Galatians 2:20](https://ref.ly/logosref/Bible.Gal2.20): "It is no longer I who live, but Christ lives in me; and the life which I now live in the flesh I live by faith in the Son of God." How does life *by faith* differ from life *informed by faith*?** Where in your own life is faith the operating system, and where is it the wallpaper?
 
-20. **Looking at the breadth of Hebrews 11 — Abel's worship, Noah's ark, Abraham's pilgrimage, Sarah's pregnancy, Moses' refusal of Egypt, Rahab's hospitality, the martyrs' endurance — which biblical figure's faith looks most like the kind of faith God is currently asking of you?** What does that tell you about the next step?
+20. **Looking at the breadth of [Hebrews 11](https://ref.ly/logosref/Bible.Heb11) — Abel's worship, Noah's ark, Abraham's pilgrimage, Sarah's pregnancy, Moses' refusal of Egypt, Rahab's hospitality, the martyrs' endurance — which biblical figure's faith looks most like the kind of faith God is currently asking of you?** What does that tell you about the next step?
 
 ---
 
@@ -215,7 +219,7 @@ The Sabbath introduction's image — "faith is like Wi-Fi: invisible, but it con
 
 - **Sign-audit:** Examine your prayer life over the past month. Have you been asking God for *signs* (visible confirmations on your terms) or for *grace* (the capacity to trust without confirmation)? There is nothing wrong with asking God to lead clearly, but sign-demanding and faith-seeking are different postures. Which has been dominant?
 
-- **Faith biography:** Write a one-page faith biography — not what you believe, but how you came to believe it. Trace the people, books, experiences, and seasons through which faith was given. This is an exercise in noticing grace. Hebrews 11 is, after all, a list of names.
+- **Faith biography:** Write a one-page faith biography — not what you believe, but how you came to believe it. Trace the people, books, experiences, and seasons through which faith was given. This is an exercise in noticing grace. [Hebrews 11](https://ref.ly/logosref/Bible.Heb11) is, after all, a list of names.
 
 **In Sabbath School:**
 
@@ -229,7 +233,7 @@ The Sabbath introduction's image — "faith is like Wi-Fi: invisible, but it con
 
 - **The genitive question:** "The faith of Jesus" ([Rev 14:12](#)) is grammatically ambiguous — Jesus' own faith, or faith in Jesus. For a deep study, work through the parallel construction in [Gal 2:16, 20](#); [Rom 3:22](#); [Phil 3:9](#). The "faith of Christ" question is one of the most consequential debates in contemporary New Testament scholarship. What is at stake theologically in choosing one reading over the other? Why might Scripture preserve the ambiguity?
 
-- **Hebrews 11's quiet realism:** Note v. 35–38 — saints who were tortured, mocked, sawn in two. Faith does not always end in deliverance. How does this affect prosperity-gospel readings of faith? How does it shape pastoral care for those whose faith has not produced the outcome they prayed for?
+- **[Hebrews 11](https://ref.ly/logosref/Bible.Heb11)'s quiet realism:** Note v. 35–38 — saints who were tortured, mocked, sawn in two. Faith does not always end in deliverance. How does this affect prosperity-gospel readings of faith? How does it shape pastoral care for those whose faith has not produced the outcome they prayed for?
 
 ---
 
@@ -239,7 +243,7 @@ The Sabbath introduction's image — "faith is like Wi-Fi: invisible, but it con
 
 - **Faith and the Spirit:** [Rom 8:26](#) describes the Spirit's intercession when "we do not know what we should pray for as we ought." Faith is not a solo performance. The Spirit groans within us; Christ intercedes above us; the Father receives. Faith is participation in Trinitarian life.
 
-- **Faith and works:** James 2 holds faith and works together — "faith without works is dead." Paul holds them *apart* — "to him who does not work but believes... his faith is accounted for righteousness" ([Rom 4:5](#)). The harmony is in the order: works flow from faith, not toward it. Faith is the root; works are the fruit.
+- **Faith and works:** [James 2](https://ref.ly/logosref/Bible.Jas2) holds faith and works together — "faith without works is dead." Paul holds them *apart* — "to him who does not work but believes... his faith is accounted for righteousness" ([Rom 4:5](#)). The harmony is in the order: works flow from faith, not toward it. Faith is the root; works are the fruit.
 
 - **Faith and the Great Controversy:** Satan's accusation against Job ("Does Job fear God for nothing?" [Job 1:9](#)) is precisely an attack on the possibility of faith-without-reward. The Great Controversy turns on whether creatures will trust God *for who He is*, not for what He gives. Every act of faith vindicates God against the accuser.
 
@@ -258,7 +262,7 @@ The Sabbath introduction's image — "faith is like Wi-Fi: invisible, but it con
 3. **Faith vs. feeling** — Feelings rise and fall; faith persists across both. But faith is not unemotional — it is the trust that survives emotion, sometimes alongside it, sometimes against it.
 4. **Our faith vs. the faith of Jesus** — [Rev 14:12](#) likely means both: Jesus' own faith is the model and source, *and* faith in Jesus is the substance of end-time saints' identity.
 
-**The bottom line:** You cannot manufacture faith by effort. You can only ask for it, exercise what has been given, and fix your eyes on the One who is faithful. Faith's power is not in its intensity but in its Object. The Canaanite woman, the centurion, the father of the demonized boy, the saints of Hebrews 11 — they did not have superior faith. They had faith in a superior God, and they brought what they had, however small, to Him.
+**The bottom line:** You cannot manufacture faith by effort. You can only ask for it, exercise what has been given, and fix your eyes on the One who is faithful. Faith's power is not in its intensity but in its Object. The Canaanite woman, the centurion, the father of the demonized boy, the saints of [Hebrews 11](https://ref.ly/logosref/Bible.Heb11) — they did not have superior faith. They had faith in a superior God, and they brought what they had, however small, to Him.
 
 ---
 
