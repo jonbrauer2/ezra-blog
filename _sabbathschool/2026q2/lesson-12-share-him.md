@@ -9,6 +9,10 @@ excerpt: "Effective witness flows from genuine encounter with God. The Great Com
 category: lesson-guide
 image: /ezra-blog/assets/images/sabbathschool/2026q2/lesson-12-share-him.jpg
 ---
+
+![Lesson 12: Share Him](/ezra-blog/assets/images/sabbathschool/2026q2/lesson-12-share-him.jpg)
+*Photo: Pexels*
+
 # Sabbath School Study Notes
 ## Lesson 12: Share Him
 ### June 13–19, 2026 | Q2 2026 — *Growing in a Relationship With God*

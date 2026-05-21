@@ -9,6 +9,10 @@ excerpt: "Prayer as the breath of a soul walking with God — not technique but 
 category: lesson-guide
 image: /ezra-blog/assets/images/sabbathschool/2026q2/lesson-06-prayer-warriors.jpg
 ---
+
+![Lesson 6: Prayer Warriors](/ezra-blog/assets/images/sabbathschool/2026q2/lesson-06-prayer-warriors.jpg)
+*Photo: Pexels*
+
 # Sabbath School Study Notes
 ## Lesson 6: Prayer Warriors
 ### May 2–8, 2026 | Q2 2026 — *Growing in a Relationship With God*

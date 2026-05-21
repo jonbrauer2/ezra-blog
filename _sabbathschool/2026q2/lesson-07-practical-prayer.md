@@ -9,6 +9,10 @@ excerpt: "Prayer as honest intimacy with God — pouring out the heart in crisis
 category: lesson-guide
 image: /ezra-blog/assets/images/sabbathschool/2026q2/lesson-07-practical-prayer.jpg
 ---
+
+![Lesson 7: Practical Prayer](/ezra-blog/assets/images/sabbathschool/2026q2/lesson-07-practical-prayer.jpg)
+*Photo: Pexels*
+
 # Sabbath School Study Notes
 ## Lesson 7: Practical Prayer
 ### May 9–15, 2026 | Q2 2026 — *Growing in a Relationship With God*

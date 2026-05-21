@@ -9,6 +9,10 @@ excerpt: "Studying the Bible as a living conversation with God — not informati
 category: lesson-guide
 image: /ezra-blog/assets/images/sabbathschool/2026q2/lesson-05-how-to-study-the-bible.jpg
 ---
+
+![Lesson 5: How to Study the Bible](/ezra-blog/assets/images/sabbathschool/2026q2/lesson-05-how-to-study-the-bible.jpg)
+*Photo: Pexels*
+
 # Sabbath School Study Notes
 ## Lesson 5: How to Study the Bible
 ### April 25–May 1, 2026 | Q2 2026 — *Growing in a Relationship With God*

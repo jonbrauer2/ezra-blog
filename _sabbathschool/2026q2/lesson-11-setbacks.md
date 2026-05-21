@@ -9,6 +9,10 @@ excerpt: "Setbacks are not evidence of God's absence — they are the conditions
 category: lesson-guide
 image: /ezra-blog/assets/images/sabbathschool/2026q2/lesson-11-setbacks.jpg
 ---
+
+![Lesson 11: Setbacks](/ezra-blog/assets/images/sabbathschool/2026q2/lesson-11-setbacks.jpg)
+*Photo: Pexels*
+
 # Sabbath School Study Notes
 ## Lesson 11: Setbacks
 ### June 6–12, 2026 | Q2 2026 — *Growing in a Relationship With God*
