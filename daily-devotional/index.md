@@ -100,7 +100,15 @@ Morning devotionals posted daily, aligned with the current Sabbath School lesson
 <summary style="cursor:pointer;font-size:1.1em;font-weight:bold;padding:0.4em 0;">Earlier devotionals <span style="font-size:0.8em;font-weight:normal;color:#888;">({{ legacy.size }} entries)</span></summary>
 <div style="padding:0.5em 0 0 0.5em;">
 {% for wd in legacy %}
-  * {{ wd.date | date: "%B %-d, %Y" }} &mdash; [{{ wd.title }}]({{ wd.url | relative_url }})
+<article style="display:flex;gap:1em;align-items:flex-start;margin-bottom:1.25em;">
+  {% if wd.image %}<a href="{{ wd.url | relative_url }}" style="flex-shrink:0;"><img src="{{ wd.image }}" alt="{{ wd.title }}" style="width:80px;height:54px;object-fit:cover;border-radius:3px;opacity:0.85;"></a>{% endif %}
+  <div>
+    <p style="margin:0;font-size:0.75em;text-transform:uppercase;letter-spacing:0.05em;color:#888;">{{ wd.date | date: "%A, %B %-d" }}</p>
+    <h4 style="margin:0.1em 0 0.1em;"><a href="{{ wd.url | relative_url }}">{{ wd.title }}</a></h4>
+    {% if wd.scripture %}<p style="margin:0;font-size:0.85em;color:#666;"><em>{{ wd.scripture }}</em></p>{% endif %}
+    {% if wd.excerpt %}<p style="margin-top:0.25em;font-size:0.88em;color:#444;">{{ wd.excerpt }}</p>{% endif %}
+  </div>
+</article>
 {% endfor %}
 </div>
 </details>
