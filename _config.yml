@@ -50,10 +50,10 @@ date_format: "%B %-d, %Y"
 # NOTE: minima floats .page-link right, so this list renders right-to-left.
 # Order here is reversed from the desired visual order.
 header_pages:
-  - health-papers/index.md
-  - healthtips/index.md
   - sabbathschool/index.md
   - daily-devotional/index.md
+  - health-papers/index.md
+  - healthtips/index.md
   - index.md
 
 # Footer
