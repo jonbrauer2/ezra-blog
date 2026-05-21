@@ -5,6 +5,8 @@ subtitle: "A health and wellness handout for clients, families, and community me
 permalink: /health-papers/baking-soda-baking-powder-handout/
 ---
 
+*A health and wellness handout for clients, families, and community members*
+
 ## Introduction: The Quiet Ingredients
 
 Walk into nearly any kitchen in America and you will find two small containers tucked into a cupboard: a bright orange box of baking soda and a tin of baking powder. They have been household staples for over a century. They make biscuits puffy, pancakes fluffy, and muffins tender. Most of us never give them a second thought.

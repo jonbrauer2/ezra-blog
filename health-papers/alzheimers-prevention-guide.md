@@ -5,6 +5,8 @@ subtitle: "Lifestyle Medicine Strategies for Brain Health"
 permalink: /health-papers/alzheimers-prevention-guide/
 ---
 
+*Lifestyle Medicine Strategies for Brain Health*
+
 ## Executive Summary
 
 Alzheimer's disease affects 6.9 million Americans today[^1], yet groundbreaking research from 2020-2025 reveals that **up to 45% of cases may be preventable** through lifestyle modifications[^2]. This comprehensive guide synthesizes the latest peer-reviewed science with principles of lifestyle medicine, empowering health ministry leaders, coaches, and families with actionable strategies for brain health.
