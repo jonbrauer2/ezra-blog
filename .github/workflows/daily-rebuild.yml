@@ -1,0 +1,22 @@
+name: Daily rebuild
+
+on:
+  schedule:
+    # 5:30 AM ET = 10:30 UTC (accounts for -0500 offset matching devotional publish times)
+    - cron: '30 10 * * *'
+  workflow_dispatch:
+
+jobs:
+  trigger-rebuild:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Trigger GitHub Pages rebuild
+        run: |
+          git config user.email "noreply@github.com"
+          git config user.name "Daily Rebuild"
+          git commit --allow-empty -m "chore: daily rebuild $(date -u +%Y-%m-%d)"
+          git push
