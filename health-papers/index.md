@@ -12,6 +12,8 @@ Comprehensive health guides and resources with scientific references.
 
 - [Hydrotherapy for Common Cold Relief: An Evidence-Based Guide](hydrotherapy-for-common-cold-relief.html)
 - [Evidence-Based Guide to Alzheimer's Disease Prevention and Cognitive Health: Lifestyle Medicine Strategies for Brain Health](alzheimers-prevention-guide.html)
+- [Aloe Vera: From Traditional Use to Modern Evidence](aloe-vera-traditional-to-modern-evidence.html)
+- [What's Really Rising in Your Bread? A Closer Look at Baking Soda and Baking Powder](baking-soda-baking-powder-handout.html)
 
 ---
 
