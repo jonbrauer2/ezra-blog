@@ -10,7 +10,7 @@ Comprehensive health guides and resources with scientific references.
 
 ### Available Papers
 
-- [Hydrotherapy Guide with References](hydrotherapy_guide_with_references.html)
+- [Hydrotherapy for Common Cold Relief: An Evidence-Based Guide](hydrotherapy-for-common-cold-relief.html)
 
 ---
 
