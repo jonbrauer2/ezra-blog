@@ -13,6 +13,18 @@ plugins:
   - jekyll-seo-tag
   - jekyll-remote-theme
 
+# RSS feed configuration
+feed:
+  posts:
+    output: true
+  collections:
+    devotionals:
+      output: true
+    sabbathschool:
+      output: true
+    healthtips:
+      output: true
+
 # Collections
 collections:
   devotionals:
