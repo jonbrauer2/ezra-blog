@@ -2,8 +2,8 @@ name: Daily rebuild
 
 on:
   schedule:
-    # 5:30 AM ET = 10:30 UTC (accounts for -0500 offset matching devotional publish times)
-    - cron: '30 10 * * *'
+    # 12:30 AM ET = 04:30 UTC (EDT/summer); shifts to 11:30 PM ET in winter (EST)
+    - cron: '30 4 * * *'
   workflow_dispatch:
 
 jobs:
