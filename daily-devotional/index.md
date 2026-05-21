@@ -106,7 +106,6 @@ Morning devotionals posted daily, aligned with the current Sabbath School lesson
     <p style="margin:0;font-size:0.75em;text-transform:uppercase;letter-spacing:0.05em;color:#888;">{{ wd.date | date: "%A, %B %-d" }}</p>
     <h4 style="margin:0.1em 0 0.1em;"><a href="{{ wd.url | relative_url }}">{{ wd.title }}</a></h4>
     {% if wd.scripture %}<p style="margin:0;font-size:0.85em;color:#666;"><em>{{ wd.scripture }}</em></p>{% endif %}
-    {% if wd.excerpt %}<p style="margin-top:0.25em;font-size:0.88em;color:#444;">{{ wd.excerpt }}</p>{% endif %}
   </div>
 </article>
 {% endfor %}
