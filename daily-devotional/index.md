@@ -41,6 +41,7 @@ Morning devotionals posted daily, aligned with the current Sabbath School lesson
 
 {% comment %}Group devotionals by week_start, newest week first{% endcomment %}
 {% assign seen_weeks = "" %}
+{% assign devos_with_week = "" %}
 {% for devo in all_devos %}
   {% if devo.week_start %}
     {% assign wk = devo.week_start %}
