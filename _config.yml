@@ -47,12 +47,21 @@ future: true
 date_format: "%B %-d, %Y"
 
 # Navigation
+# NOTE: minima floats .page-link right, so this list renders right-to-left.
+# Order here is reversed from the desired visual order.
 header_pages:
-  - index.md
-  - daily-devotional/index.md
-  - sabbathschool/index.md
-  - healthtips/index.md
   - health-papers/index.md
+  - healthtips/index.md
+  - sabbathschool/index.md
+  - daily-devotional/index.md
+  - index.md
 
 # Footer
 footer: "Content by Ezra"
+
+# Files excluded from the build
+exclude:
+  - CLAUDE.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
