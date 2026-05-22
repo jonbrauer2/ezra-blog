@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Looking Closer at Live Blood Analysis: What the Evidence Actually Shows"
-subtitle: "A health education handout for coaches, ministry leaders, and individuals weighing whether to pursue Live Blood Analysis (LBA)"
 permalink: /health-papers/live-blood-analysis/
 ---
 
