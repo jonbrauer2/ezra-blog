@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Cold Water Immersion: From Hippocrates to Wim Hof"
-subtitle: "A health and wellness handout for clients, families, and community members"
 permalink: /health-papers/cold-water-immersion/
 ---
 

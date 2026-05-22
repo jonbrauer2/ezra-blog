@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Ozone Therapy: A Balanced Look at Promise and Peril"
-subtitle: "A health and wellness handout for clients, families, and community members"
 permalink: /health-papers/ozone-therapy/
 ---
 

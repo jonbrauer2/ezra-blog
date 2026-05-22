@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Smart Choices About Antibiotics: A Balanced Guide"
-subtitle: "A health and wellness handout for clients, families, and community members"
 permalink: /health-papers/smart-choices-about-antibiotics/
 ---
 

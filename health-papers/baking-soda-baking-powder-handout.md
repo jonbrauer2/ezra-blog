@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "What's Really Rising in Your Bread? A Closer Look at Baking Soda and Baking Powder"
-subtitle: "A health and wellness handout for clients, families, and community members"
 permalink: /health-papers/baking-soda-baking-powder-handout/
 ---
 

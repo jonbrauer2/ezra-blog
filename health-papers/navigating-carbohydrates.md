@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Navigating Carbohydrates: Your Guide to High-Carb and Low-Carb Approaches"
-subtitle: "A health and wellness handout for clients, families, and community members"
 permalink: /health-papers/navigating-carbohydrates/
 ---
 

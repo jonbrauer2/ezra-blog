@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Soy Products: A Century of Adventist History and Modern Evidence"
-subtitle: "A health and wellness handout for clients, families, and community members"
 permalink: /health-papers/soy-adventist-history-and-modern-evidence/
 ---
 

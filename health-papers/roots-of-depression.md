@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "The Roots of Depression: A Whole-Person Guide to Causes, Care, and Recovery"
-subtitle: "A health and wellness handout for clients, families, and community members"
 permalink: /health-papers/roots-of-depression/
 ---
 

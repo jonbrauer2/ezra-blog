@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Living Well With Type 2 Diabetes: A Whole-Person Guide"
-subtitle: "A health and wellness handout for clients, families, and community members"
 permalink: /health-papers/living-well-type-2-diabetes/
 ---
 

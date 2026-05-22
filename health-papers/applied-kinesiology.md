@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Applied Kinesiology: A Balanced Look at Muscle Testing"
-subtitle: "A health and wellness handout for clients, families, and community members"
 permalink: /health-papers/applied-kinesiology/
 ---
 

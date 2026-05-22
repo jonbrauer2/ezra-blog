@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "The Great Oil Debate: What Science Really Shows"
-subtitle: "A health and wellness handout for clients, families, and community members"
 permalink: /health-papers/the-great-oil-debate/
 ---
 

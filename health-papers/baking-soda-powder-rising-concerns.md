@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Rising Concerns: A Closer Look at Baking Soda and Baking Powder in Everyday Cooking"
-subtitle: "A health and wellness handout for clients, families, and community members"
 permalink: /health-papers/baking-soda-powder-rising-concerns/
 ---
 

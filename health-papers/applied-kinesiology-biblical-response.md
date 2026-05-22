@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "When the Body Says \"Yes\": A Biblical Response to Applied Kinesiology"
-subtitle: "A health and wellness handout for clients, families, and community members"
 permalink: /health-papers/applied-kinesiology-biblical-response/
 ---
 
