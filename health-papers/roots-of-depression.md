@@ -1,8 +1,10 @@
 ---
 layout: page
-title: "Understanding and Managing Depression: An Evidence-Based Guide"
-permalink: /health-papers/depression-guide/
+title: "The Roots of Depression: A Whole-Person Guide to Causes, Care, and Recovery"
+subtitle: "A health and wellness handout for clients, families, and community members"
+permalink: /health-papers/roots-of-depression/
 ---
+
 
 Depression affects **350 million people worldwide**, yet 11.5% of cases could be prevented through simple lifestyle changes[^1]. If you're reading this as someone struggling with depression, supporting a loved one, or serving in health ministry, this guide offers hope grounded in rigorous science: depression is highly treatable, and you have more power than you might think to influence your mental health through diet, movement, sleep, and daily choices—often with effects comparable to medication.
 

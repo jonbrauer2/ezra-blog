@@ -1,7 +1,8 @@
 ---
 layout: page
-title: "Soy Products: An Evidence-Based Guide for Health Ministry"
-permalink: /health-papers/soy-adventist-history-guide/
+title: "Soy Products: A Century of Adventist History and Modern Evidence"
+subtitle: "A health and wellness handout for clients, families, and community members"
+permalink: /health-papers/soy-adventist-history-and-modern-evidence/
 ---
 
 **Soy foods have been central to Seventh-day Adventist health ministry for over a century, and modern research largely validates their safety and benefits.** The Adventist Health Studies—among the largest investigations of vegetarian populations worldwide—demonstrate that Adventists consuming soy at Asian-comparable levels experience significantly lower rates of prostate cancer, breast cancer, and osteoporosis. While questions remain about optimal forms and doses, the overall evidence supports moderate soy consumption as part of a health-promoting plant-based diet.

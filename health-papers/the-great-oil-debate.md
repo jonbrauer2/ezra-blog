@@ -1,8 +1,10 @@
 ---
 layout: page
 title: "The Great Oil Debate: What Science Really Shows"
-permalink: /health-papers/oil-debate-guide/
+subtitle: "A health and wellness handout for clients, families, and community members"
+permalink: /health-papers/the-great-oil-debate/
 ---
+
 
 The question of whether to cook with olive oil and other plant oils or eliminate them entirely has sparked passionate debate in nutrition circles. On one side, researchers point to the Mediterranean diet's impressive cardiovascular benefits, where olive oil flows freely. On the other, plant-based pioneers argue that even healthy oils damage blood vessels and contribute to heart disease. Both camps cite scientific studies, both have helped people improve their health, and both make compelling arguments. This guide examines what peer-reviewed research actually shows[^1], helping you understand the evidence for both approaches so you can make the best decision for your health.
 
