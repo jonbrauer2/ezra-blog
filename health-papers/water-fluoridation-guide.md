@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Water Fluoridation: A Balanced Health Guide"
-subtitle: "For Health Coaches and Ministry Leaders"
 permalink: /health-papers/water-fluoridation-guide/
 ---
 

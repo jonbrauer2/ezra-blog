@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Water as Medicine: A Practical Guide to Hydrotherapy"
-subtitle: "An educational handout for health coaches and ministry leaders"
 permalink: /health-papers/hydrotherapy-water-as-medicine/
 ---
 

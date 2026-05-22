@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Understanding Caffeine: A Health Information Resource"
-subtitle: "Evidence-Based Guidance for Individuals and Families"
 permalink: /health-papers/understanding-caffeine/
 ---
 

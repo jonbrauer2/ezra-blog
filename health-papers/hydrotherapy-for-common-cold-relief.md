@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Hydrotherapy for Common Cold Relief"
-subtitle: "An Evidence-Based Guide for Health Ministry Leaders and Caregivers"
 permalink: /health-papers/hydrotherapy-for-common-cold-relief/
 ---
 

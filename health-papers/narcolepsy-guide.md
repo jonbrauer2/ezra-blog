@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Narcolepsy: Understanding and Managing Your Sleep-Wake Cycle Naturally"
-subtitle: "A health education handout for individuals, families, health coaches, and ministry leaders"
 permalink: /health-papers/narcolepsy-guide/
 ---
 
