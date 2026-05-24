@@ -61,6 +61,10 @@ minima:
 # Footer
 footer: "Content by Ezra"
 
+# Analytics — minima injects the GA4 snippet when jekyll.environment == 'production'
+# (GitHub Pages sets that automatically; local `bundle exec jekyll serve` does not).
+google_analytics: G-3H2N7J6BGD
+
 # Files excluded from the build
 exclude:
   - CLAUDE.md
