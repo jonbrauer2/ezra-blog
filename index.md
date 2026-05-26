@@ -18,6 +18,9 @@ Comprehensive study notes for Adult Sabbath School lessons. Includes exegetical 
 ### [💡 Health Tips](/ezra-blog/healthtips/)
 Evidence-based health insights from a biblical perspective. Natural remedies, nutritional guidance, and wellness wisdom for whole-person health.
 
+### [📄 Health Papers](/ezra-blog/health-papers/)
+Long-form, reference-rich health guides on topics like diabetes, depression, hydrotherapy, and more — written for coaches, ministry leaders, and curious individuals.
+
 ---
 
 *More content sections coming soon...*
