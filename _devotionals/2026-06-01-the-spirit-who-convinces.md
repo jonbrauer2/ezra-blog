@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Spirit Who Convinces"
-date: 2026-06-01 05:30:00 -0500
+date: 2026-06-01 00:00:00 -0500
 image: /ezra-blog/assets/images/devotionals/2026-06-01-devotional.jpg
 excerpt: "There is a difference between guilt and conviction, and it matters enormously. Guilt is the feeling of being caught — the flush of shame, the scramble to explain yourself."
 scripture: "When He has come, He will convict the world of sin, and of righteousness, and of judgment. (John 16:8, NKJV)"

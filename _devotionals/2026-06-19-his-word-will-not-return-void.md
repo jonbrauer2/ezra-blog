@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "His Word Will Not Return Void"
-date: 2026-06-19 05:30:00 -0500
+date: 2026-06-19 00:00:00 -0500
 image: /ezra-blog/assets/images/devotionals/2026-06-19-devotional.jpg
 excerpt: "There is a quiet promise tucked into the end of one of Isaiah's most expansive chapters, the kind of verse that only matters when you've shared something true about God with someone and watched them walk away unchanged."
 scripture: "My word... shall not return to Me void, but it shall accomplish what I please, and it shall prosper in the thing for which I sent it. (Isaiah 55:11, NKJV)"

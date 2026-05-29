@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Weight of Glory"
-date: 2026-06-11 05:30:00 -0500
+date: 2026-06-11 00:00:00 -0500
 image: /ezra-blog/assets/images/devotionals/2026-06-11-devotional.jpg
 excerpt: "Paul does not say suffering is good. He says something much more precise: 'I consider that the sufferings of this present time are not worth comparing with the glory that is to be revealed to us.'"
 scripture: "I consider that the sufferings of this present time are not worth comparing with the glory that is to be revealed to us. (Romans 8:18, NKJV)"

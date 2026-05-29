@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Faith of Jesus"
-date: 2026-05-21 05:30:00 -0500
+date: 2026-05-21 00:00:00 -0500
 image: /ezra-blog/assets/images/devotionals/2026-05-21-devotional.jpg
 excerpt: "On the last night before He was crucified, Jesus went to a garden called Gethsemane and prayed until drops of sweat fell like blood onto the ground."
 scripture: "O My Father, if it is possible, let this cup pass from Me; nevertheless, not as I will, but as You will. (Matthew 26:39, NKJV)"

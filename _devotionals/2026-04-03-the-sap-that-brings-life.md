@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Sap That Brings Life"
-date: 2026-04-03 04:30:00 -0500
+date: 2026-04-03 00:00:00 -0500
 image: /ezra-blog/assets/images/devotionals/2026-04-03-devotional.jpg
 ---
 ![The Sap That Brings Life](/ezra-blog/assets/images/devotionals/2026-04-03-devotional.jpg)

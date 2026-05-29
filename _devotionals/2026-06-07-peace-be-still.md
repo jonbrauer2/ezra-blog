@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Peace, Be Still"
-date: 2026-06-07 05:30:00 -0500
+date: 2026-06-07 00:00:00 -0500
 image: /ezra-blog/assets/images/devotionals/2026-06-07-devotional.jpg
 excerpt: "Jesus was asleep in the stern of the boat. That detail alone carries more theology than most sermons. They were in a storm. The waves were breaking over the sides. The disciples were bailing."
 scripture: "Why are you so fearful? How is it that you have no faith? (Mark 4:40, NKJV)"

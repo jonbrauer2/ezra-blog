@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Samson's Drift"
-date: 2026-05-24 05:30:00 -0500
+date: 2026-05-24 00:00:00 -0500
 image: /ezra-blog/assets/images/devotionals/2026-05-24-devotional.jpg
 excerpt: "Samson's story never has the moment you'd expect — the dramatic scene where he turns his back on God and walks away. There is no crisis of faith, no visible apostasy, no night of decision."
 scripture: "So he told her all his heart. (Judges 16:17, NKJV)"

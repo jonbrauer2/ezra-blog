@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Given Life by Your Precepts"
-date: 2026-05-29 05:30:00 -0500
+date: 2026-05-29 00:00:00 -0500
 image: /ezra-blog/assets/images/devotionals/2026-05-29-devotional.jpg
 excerpt: "Somewhere along the way, the law became associated with weight — with obligation, with burden, with the impossible standard you keep failing to meet. That is not the voice of Psalm 119."
 scripture: "I will never forget Your precepts, for by them You have given me life. (Psalm 119:93, NKJV)"

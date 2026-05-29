@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "He Was in the Boat All Along"
-date: 2026-06-13 05:30:00 -0500
+date: 2026-06-13 00:00:00 -0500
 image: /ezra-blog/assets/images/devotionals/2026-06-13-devotional.jpg
 excerpt: "The week's cast of sufferers is a remarkable group. Disciples in a storm. A woman who had been sick for twelve years. Job who lost everything in a single day and then his health. Emmaus disciples walking away from a dead hope."
 scripture: "We know that all things work together for good to those who love God. (Romans 8:28, NKJV)"

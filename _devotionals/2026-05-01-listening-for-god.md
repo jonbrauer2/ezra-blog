@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Listening for God"
-date: 2026-05-01 04:30:00 -0500
+date: 2026-05-01 00:00:00 -0500
 image: /ezra-blog/assets/images/devotionals/2026-05-01-devotional.jpg
 ---
 ![Listening for God](/ezra-blog/assets/images/devotionals/2026-05-01-devotional.jpg)

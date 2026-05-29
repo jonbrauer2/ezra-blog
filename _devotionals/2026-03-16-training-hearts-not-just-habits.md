@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Training Hearts, Not Just Habits"
-date: 2026-03-16 05:30:00 -0500
+date: 2026-03-16 00:00:00 -0500
 image: /ezra-blog/assets/images/devotionals/2026-03-16-devotional.jpg
 ---
 ![Training Hearts, Not Just Habits](/ezra-blog/assets/images/devotionals/2026-03-16-devotional.jpg)

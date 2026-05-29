@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Overflow"
-date: 2026-06-20 05:30:00 -0500
+date: 2026-06-20 00:00:00 -0500
 image: /ezra-blog/assets/images/devotionals/2026-06-20-devotional.jpg
 excerpt: "The week began with the image that makes everything else make sense: they had been with Jesus. Not: they had completed the evangelism training. Not: they had memorized the arguments."
 scripture: "They recognized that they had been with Jesus. (Acts 4:13, NKJV)"

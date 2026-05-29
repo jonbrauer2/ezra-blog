@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Moses, Humble Servant"
-date: 2026-04-14 04:30:00 -0500
+date: 2026-04-14 00:00:00 -0500
 image: /ezra-blog/assets/images/devotionals/2026-04-14-devotional.jpg
 ---
 ![Moses, Humble Servant](/ezra-blog/assets/images/devotionals/2026-04-14-devotional.jpg)

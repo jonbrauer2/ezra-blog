@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Two Companions, Two Choices"
-date: 2026-03-25 04:30:00 -0500
+date: 2026-03-25 00:00:00 -0500
 image: /ezra-blog/assets/images/devotionals/2026-03-25-devotional.jpg
 ---
 ![Two Companions, Two Choices](/ezra-blog/assets/images/devotionals/2026-03-25-devotional.jpg)

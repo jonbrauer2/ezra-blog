@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Greatest Offense"
-date: 2026-04-15 04:30:00 -0500
+date: 2026-04-15 00:00:00 -0500
 image: /ezra-blog/assets/images/devotionals/2026-04-15-devotional.jpg
 ---
 ![The Greatest Offense](/ezra-blog/assets/images/devotionals/2026-04-15-devotional.jpg)

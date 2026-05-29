@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Living by Every Word"
-date: 2026-04-24 04:30:00 -0500
+date: 2026-04-24 00:00:00 -0500
 image: /ezra-blog/assets/images/devotionals/2026-04-24-devotional.jpg
 ---
 ![Living by Every Word](/ezra-blog/assets/images/devotionals/2026-04-24-devotional.jpg)

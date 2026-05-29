@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Life the Law Describes"
-date: 2026-05-30 05:30:00 -0500
+date: 2026-05-30 00:00:00 -0500
 image: /ezra-blog/assets/images/devotionals/2026-05-30-devotional.jpg
 excerpt: "The week began with Samson — gifted, Spirit-anointed, and hollowing out slowly from the inside. It ended in Psalm 119, with a poet singing about precepts that give life."
 scripture: "I have come that they may have life, and that they may have it more abundantly. (John 10:10, NKJV)"

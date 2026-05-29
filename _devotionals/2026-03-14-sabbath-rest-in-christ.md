@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sabbath Rest in Christ"
-date: 2026-03-14 05:30:00 -0500
+date: 2026-03-14 00:00:00 -0500
 image: /ezra-blog/assets/images/devotionals/2026-03-14-devotional.jpg
 ---
 ![Sabbath Rest in Christ](/ezra-blog/assets/images/devotionals/2026-03-14-devotional.jpg)

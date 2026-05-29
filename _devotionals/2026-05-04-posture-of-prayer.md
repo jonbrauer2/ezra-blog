@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Posture of Prayer"
-date: 2026-05-04 04:30:00 -0400
+date: 2026-05-04 00:00:00 -0400
 image: /ezra-blog/assets/images/devotionals/2026-05-04-devotional.jpg
 ---
 

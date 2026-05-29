@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "If I Only Touch"
-date: 2026-06-08 05:30:00 -0500
+date: 2026-06-08 00:00:00 -0500
 image: /ezra-blog/assets/images/devotionals/2026-06-08-devotional.jpg
 excerpt: "Twelve years. That is how long the woman had been hemorrhaging. Twelve years of waking up to the same condition, trying the same remedies, spending everything she had on physicians who left her worse."
 scripture: "Daughter, be of good cheer; your faith has made you well. (Matthew 9:22, NKJV)"

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "God Is Love"
-date: 2026-04-07 04:30:00 -0500
+date: 2026-04-07 00:00:00 -0500
 image: /ezra-blog/assets/images/devotionals/2026-04-07-devotional.jpg
 ---
 ![God Is Love](/ezra-blog/assets/images/devotionals/2026-04-07-devotional.jpg)

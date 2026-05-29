@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "God in Creation: Transcendent Power, Intimate Nearness"
-date: 2026-04-08 04:30:00 -0500
+date: 2026-04-08 00:00:00 -0500
 image: /ezra-blog/assets/images/devotionals/2026-04-08-devotional.jpg
 ---
 ![God in Creation](/ezra-blog/assets/images/devotionals/2026-04-08-devotional.jpg)

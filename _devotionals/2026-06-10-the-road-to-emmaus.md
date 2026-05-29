@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Road to Emmaus"
-date: 2026-06-10 05:30:00 -0500
+date: 2026-06-10 00:00:00 -0500
 image: /ezra-blog/assets/images/devotionals/2026-06-10-devotional.jpg
 excerpt: "Two disciples were walking away from Jerusalem. The city was behind them with all its crushed expectations. Three days had passed since the crucifixion, and whatever hope they had carried for the week had been buried with Jesus."
 scripture: "Did not our heart burn within us while He talked with us on the road, and while He opened the Scriptures to us? (Luke 24:32, NKJV)"

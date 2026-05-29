@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Drawn by Everlasting Love"
-date: 2026-05-22 05:30:00 -0500
+date: 2026-05-22 00:00:00 -0500
 image: /ezra-blog/assets/images/devotionals/2026-05-22-devotional.jpg
 excerpt: "There is a word in Jeremiah that stands like a lighthouse in one of the darkest books in the Bible: 'I have loved you with an everlasting love; therefore with lovingkindness I have drawn you.'"
 scripture: "I have loved you with an everlasting love; therefore with lovingkindness I have drawn you. (Jeremiah 31:3, NKJV)"

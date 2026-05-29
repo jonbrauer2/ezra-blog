@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Though He Slay Me"
-date: 2026-06-09 05:30:00 -0500
+date: 2026-06-09 00:00:00 -0500
 image: /ezra-blog/assets/images/devotionals/2026-06-09-devotional.jpg
 excerpt: "Job's losses come in waves. First: a messenger arrives to say his oxen and donkeys have been taken and the servants killed. Before he finishes speaking, a second messenger arrives. Then a third. Then a fourth."
 scripture: "I know that my Redeemer lives, and He shall stand at last on the earth. (Job 19:25, NKJV)"

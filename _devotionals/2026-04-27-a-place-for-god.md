@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Place for God"
-date: 2026-04-27 04:30:00 -0500
+date: 2026-04-27 00:00:00 -0500
 image: /ezra-blog/assets/images/devotionals/2026-04-27-devotional.jpg
 ---
 ![A Place for God](/ezra-blog/assets/images/devotionals/2026-04-27-devotional.jpg)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My Grace Is Sufficient"
-date: 2026-06-12 05:30:00 -0500
+date: 2026-06-12 00:00:00 -0500
 image: /ezra-blog/assets/images/devotionals/2026-06-12-devotional.jpg
 excerpt: "Paul had a thorn. He never tells us what it was — commentators have speculated for centuries — and perhaps the ambiguity is the point. Whatever it was, it was enough to make him ask God to remove it. Three times."
 scripture: "My grace is sufficient for you, for My strength is made perfect in weakness. (2 Corinthians 12:9, NKJV)"

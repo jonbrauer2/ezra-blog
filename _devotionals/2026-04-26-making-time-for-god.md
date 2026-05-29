@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Making Time for God"
-date: 2026-04-26 04:30:00 -0500
+date: 2026-04-26 00:00:00 -0500
 image: /ezra-blog/assets/images/devotionals/2026-04-26-devotional.jpg
 ---
 ![Making Time for God](/ezra-blog/assets/images/devotionals/2026-04-26-devotional.jpg)

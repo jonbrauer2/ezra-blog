@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "He Will Finish It"
-date: 2026-06-26 05:30:00 -0500
+date: 2026-06-26 00:00:00 -0500
 image: /ezra-blog/assets/images/devotionals/2026-06-26-devotional.jpg
 excerpt: "Paul wrote to the Philippians from prison. Not from a podium or a study or a successful pastorate — from prison. And from that place he wrote one of the most confident sentences in all his letters."
 scripture: "He who began a good work in you will complete it until the day of Jesus Christ. (Philippians 1:6, NKJV)"

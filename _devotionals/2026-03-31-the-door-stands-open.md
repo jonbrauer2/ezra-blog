@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Door Stands Open"
-date: 2026-03-31 04:30:00 -0500
+date: 2026-03-31 00:00:00 -0500
 image: /ezra-blog/assets/images/devotionals/2026-03-31-devotional.jpg
 ---
 ![The Door Stands Open](/ezra-blog/assets/images/devotionals/2026-03-31-devotional.jpg)

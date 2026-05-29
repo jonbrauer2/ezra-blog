@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "In My Father's House"
-date: 2026-06-23 05:30:00 -0500
+date: 2026-06-23 00:00:00 -0500
 image: /ezra-blog/assets/images/devotionals/2026-06-23-devotional.jpg
 excerpt: "Jesus spoke the words of John 14 on the worst night of His disciples' lives. He had just told them that one of them would betray Him, that Peter would deny Him three times before morning."
 scripture: "Let not your heart be troubled... I go to prepare a place for you. (John 14:1-2, NKJV)"

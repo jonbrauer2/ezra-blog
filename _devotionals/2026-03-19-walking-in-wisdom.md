@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Walking in Wisdom: When the World Is Watching"
-date: 2026-03-19 05:30:00 -0500
+date: 2026-03-19 00:00:00 -0500
 image: /ezra-blog/assets/images/devotionals/2026-03-19-devotional.jpg
 ---
 ![Walking in Wisdom](/ezra-blog/assets/images/devotionals/2026-03-19-devotional.jpg)

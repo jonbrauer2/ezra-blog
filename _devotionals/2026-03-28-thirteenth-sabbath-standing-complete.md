@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Thirteenth Sabbath: Standing Complete in Christ"
-date: 2026-03-28 04:30:00 -0500
+date: 2026-03-28 00:00:00 -0500
 image: /ezra-blog/assets/images/devotionals/2026-03-28-devotional.jpg
 ---
 ![Thirteenth Sabbath: Standing Complete in Christ](/ezra-blog/assets/images/devotionals/2026-03-28-devotional.jpg)

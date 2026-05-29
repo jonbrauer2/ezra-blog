@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Everlasting Love"
-date: 2026-04-01 04:30:00 -0500
+date: 2026-04-01 00:00:00 -0500
 image: /ezra-blog/assets/images/devotionals/2026-04-01-devotional.jpg
 ---
 ![Everlasting Love](/ezra-blog/assets/images/devotionals/2026-04-01-devotional.jpg)

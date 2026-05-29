@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Working Out What God Works In"
-date: 2026-06-05 05:30:00 -0500
+date: 2026-06-05 00:00:00 -0500
 image: /ezra-blog/assets/images/devotionals/2026-06-05-devotional.jpg
 excerpt: "Paul writes one of the most paradoxical sentences in all his letters: 'Work out your own salvation with fear and trembling; for it is God who works in you both to will and to do for His good pleasure.'"
 scripture: "It is God who works in you both to will and to do for His good pleasure. (Philippians 2:13, NKJV)"

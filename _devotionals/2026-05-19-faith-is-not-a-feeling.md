@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Faith Is Not a Feeling"
-date: 2026-05-19 05:30:00 -0500
+date: 2026-05-19 00:00:00 -0500
 image: /ezra-blog/assets/images/devotionals/2026-05-19-devotional.jpg
 excerpt: "There are seasons when faith feels like a light left on in the next room — present, warm, but not quite where you are. And then there are seasons when that light seems to have simply gone off."
 scripture: "For by grace you have been saved through faith, and that not of yourselves; it is the gift of God. (Ephesians 2:8, NKJV)"

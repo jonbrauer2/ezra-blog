@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sabbath Rest for Relationships"
-date: 2026-03-21 04:30:00 -0500
+date: 2026-03-21 00:00:00 -0500
 image: /ezra-blog/assets/images/devotionals/2026-03-21-devotional.jpg
 ---
 ![Sabbath Rest for Relationships](/ezra-blog/assets/images/devotionals/2026-03-21-devotional.jpg)

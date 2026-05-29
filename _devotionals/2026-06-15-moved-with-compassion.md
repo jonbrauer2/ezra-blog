@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Moved With Compassion"
-date: 2026-06-15 05:30:00 -0500
+date: 2026-06-15 00:00:00 -0500
 image: /ezra-blog/assets/images/devotionals/2026-06-15-devotional.jpg
 excerpt: "There is a word Matthew uses for Jesus that does not translate easily. When Jesus saw the crowds, He was moved — not mildly affected, not thoughtfully concerned — the word is splanchnizomai, which refers to the intestines."
 scripture: "When He saw the multitudes, He was moved with compassion for them, because they were weary and scattered, like sheep having no shepherd. (Matthew 9:36, NKJV)"

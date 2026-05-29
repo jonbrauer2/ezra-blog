@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Thought Before the Act"
-date: 2026-05-25 05:30:00 -0500
+date: 2026-05-25 00:00:00 -0500
 image: /ezra-blog/assets/images/devotionals/2026-05-25-devotional.jpg
 excerpt: "Jesus had a way of taking the law and moving it inward. You've heard it said — don't murder. But I tell you, anyone who is angry with his brother is guilty. You've heard it said — don't commit adultery. But I tell you, anyone who looks..."
 scripture: "Blessed are the pure in heart, for they shall see God. (Matthew 5:8, NKJV)"

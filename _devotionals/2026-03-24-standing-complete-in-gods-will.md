@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Standing Complete in God's Will"
-date: 2026-03-24 04:30:00 -0500
+date: 2026-03-24 00:00:00 -0500
 image: /ezra-blog/assets/images/devotionals/2026-03-24-devotional.jpg
 ---
 ![Standing Complete in God's Will](/ezra-blog/assets/images/devotionals/2026-03-24-devotional.jpg)

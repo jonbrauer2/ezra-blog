@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Know Yourself"
-date: 2026-04-13 04:30:00 -0500
+date: 2026-04-13 00:00:00 -0500
 image: /ezra-blog/assets/images/devotionals/2026-04-13-devotional.jpg
 ---
 ![Know Yourself](/ezra-blog/assets/images/devotionals/2026-04-13-devotional.jpg)

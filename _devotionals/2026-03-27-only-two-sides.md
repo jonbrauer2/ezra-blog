@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Only Two Sides"
-date: 2026-03-27 04:30:00 -0500
+date: 2026-03-27 00:00:00 -0500
 image: /ezra-blog/assets/images/devotionals/2026-03-27-devotional.jpg
 ---
 ![Only Two Sides](/ezra-blog/assets/images/devotionals/2026-03-27-devotional.jpg)

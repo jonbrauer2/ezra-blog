@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Wedding Garment"
-date: 2026-06-04 05:30:00 -0500
+date: 2026-06-04 00:00:00 -0500
 image: /ezra-blog/assets/images/devotionals/2026-06-04-devotional.jpg
 excerpt: "There is a detail in Jesus' parable of the wedding feast that often gets lost in the drama of the uninvited guests streaming in from the streets: the host provided a garment."
 scripture: "Take away the filthy garments from him... I have removed your iniquity from you, and I will clothe you with rich robes. (Zechariah 3:4, NKJV)"

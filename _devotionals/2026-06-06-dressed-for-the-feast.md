@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Dressed for the Feast"
-date: 2026-06-06 05:30:00 -0500
+date: 2026-06-06 00:00:00 -0500
 image: /ezra-blog/assets/images/devotionals/2026-06-06-devotional.jpg
 excerpt: "The week began with Mary sitting still at Jesus' feet while Martha spun in productive anxiety. It ends here — at Sabbath — with an image of a feast."
 scripture: "If we confess our sins, He is faithful and just to forgive us our sins and to cleanse us from all unrighteousness. (1 John 1:9, NKJV)"

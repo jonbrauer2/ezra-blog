@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Sky Will Split"
-date: 2026-06-22 05:30:00 -0500
+date: 2026-06-22 00:00:00 -0500
 image: /ezra-blog/assets/images/devotionals/2026-06-22-devotional.jpg
 excerpt: "Paul's description of the second coming is one of the most kinetic passages in all his letters: a shout, an archangel's voice, a trumpet, the dead rising, the living caught up."
 scripture: "The Lord Himself will descend from heaven with a shout... And thus we shall always be with the Lord. (1 Thessalonians 4:16-17, NKJV)"

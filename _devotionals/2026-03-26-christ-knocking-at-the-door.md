@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Christ Knocking at the Door"
-date: 2026-03-26 04:30:00 -0500
+date: 2026-03-26 00:00:00 -0500
 image: /ezra-blog/assets/images/devotionals/2026-03-26-devotional.jpg
 ---
 ![Christ Knocking at the Door](/ezra-blog/assets/images/devotionals/2026-03-26-devotional.jpg)

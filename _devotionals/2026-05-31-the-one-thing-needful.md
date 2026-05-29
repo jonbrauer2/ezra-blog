@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The One Thing Needful"
-date: 2026-05-31 05:30:00 -0500
+date: 2026-05-31 00:00:00 -0500
 image: /ezra-blog/assets/images/devotionals/2026-05-31-devotional.jpg
 excerpt: "Martha is not the villain of this story. Anyone who has hosted a meal knows the invisible labor of it — the timing, the temperature, the details that have to hold together so everyone else can sit still."
 scripture: "Mary has chosen that good part, which will not be taken away from her. (Luke 10:42, NKJV)"

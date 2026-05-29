@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Working for an Audience of One"
-date: 2026-03-17 05:30:00 -0500
+date: 2026-03-17 00:00:00 -0500
 image: /ezra-blog/assets/images/devotionals/2026-03-17-devotional.jpg
 ---
 ![Working for an Audience of One](/ezra-blog/assets/images/devotionals/2026-03-17-devotional.jpg)

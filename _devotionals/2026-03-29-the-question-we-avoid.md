@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Question We Avoid"
-date: 2026-03-29 04:30:00 -0500
+date: 2026-03-29 00:00:00 -0500
 image: /ezra-blog/assets/images/devotionals/2026-03-29-devotional.jpg
 ---
 ![The Question We Avoid](/ezra-blog/assets/images/devotionals/2026-03-29-devotional.jpg)

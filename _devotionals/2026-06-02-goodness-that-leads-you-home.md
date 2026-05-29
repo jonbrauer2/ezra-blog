@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Goodness That Leads You Home"
-date: 2026-06-02 05:30:00 -0500
+date: 2026-06-02 00:00:00 -0500
 image: /ezra-blog/assets/images/devotionals/2026-06-02-devotional.jpg
 excerpt: "We have the repentance story backwards. We think it goes: feel bad enough → decide to change → then maybe God will be willing to receive you. The sequence in Scripture is almost exactly reversed."
 scripture: "The goodness of God leads you to repentance. (Romans 2:4, NKJV)"

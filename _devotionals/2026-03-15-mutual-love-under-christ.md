@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mutual Love Under Christ"
-date: 2026-03-15 05:30:00 -0500
+date: 2026-03-15 00:00:00 -0500
 image: /ezra-blog/assets/images/devotionals/2026-03-15-devotional.jpg
 ---
 ![Mutual Love Under Christ](/ezra-blog/assets/images/devotionals/2026-03-15-devotional.jpg)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Unity in Diversity: Second Chances in Christ's Service"
-date: 2026-03-23 05:30:00 -0500
+date: 2026-03-23 00:00:00 -0500
 image: /ezra-blog/assets/images/devotionals/2026-03-23-devotional.jpg
 ---
 ![Unity in Diversity](/ezra-blog/assets/images/devotionals/2026-03-23-devotional.jpg)

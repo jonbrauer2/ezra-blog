@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Living the Character"
-date: 2026-04-10 04:30:00 -0500
+date: 2026-04-10 00:00:00 -0500
 image: /ezra-blog/assets/images/devotionals/2026-04-10-devotional.jpg
 ---
 ![Living the Character](/ezra-blog/assets/images/devotionals/2026-04-10-devotional.jpg)

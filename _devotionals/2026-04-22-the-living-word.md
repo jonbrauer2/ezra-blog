@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Living Word"
-date: 2026-04-22 04:30:00 -0500
+date: 2026-04-22 00:00:00 -0500
 image: /ezra-blog/assets/images/devotionals/2026-04-22-devotional.jpg
 ---
 

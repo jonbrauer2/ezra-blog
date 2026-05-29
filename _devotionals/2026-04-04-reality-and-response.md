@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Reality and Response"
-date: 2026-04-04 04:30:00 -0500
+date: 2026-04-04 00:00:00 -0500
 image: /ezra-blog/assets/images/devotionals/2026-04-04-devotional.jpg
 ---
 ![Reality and Response](/ezra-blog/assets/images/devotionals/2026-04-04-devotional.jpg)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Little Heaven Called Home"
-date: 2026-03-20 04:30:00 -0500
+date: 2026-03-20 00:00:00 -0500
 image: /ezra-blog/assets/images/devotionals/2026-03-20-devotional.jpg
 ---
 ![The Little Heaven Called Home](/ezra-blog/assets/images/devotionals/2026-03-20-devotional.jpg)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Just Give Me a Sign"
-date: 2026-05-17 05:30:00 -0500
+date: 2026-05-17 00:00:00 -0500
 image: /ezra-blog/assets/images/devotionals/2026-05-17-devotional.jpg
 excerpt: "The Pharisees approached Jesus with a request that sounded like faith but was something else entirely. They had already seen lepers cleansed, the blind receiving sight, five thousand fed from a boy's lunch."
 scripture: "Blessed are those who have not seen and yet have believed. (John 20:29, NKJV)"

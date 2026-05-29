@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Not Against, But Beyond"
-date: 2026-05-27 05:30:00 -0500
+date: 2026-05-27 00:00:00 -0500
 image: /ezra-blog/assets/images/devotionals/2026-05-27-devotional.jpg
 excerpt: "Jesus said something that should have been theologically explosive, but His audience's hearts were too hard to hear it: 'Do not think that I came to destroy the Law or the Prophets. I did not come to destroy but to fulfill.'"
 scripture: "I did not come to destroy but to fulfill. (Matthew 5:17, NKJV)"

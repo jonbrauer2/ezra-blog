@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Mirror in the Law"
-date: 2026-05-26 05:30:00 -0500
+date: 2026-05-26 00:00:00 -0500
 image: /ezra-blog/assets/images/devotionals/2026-05-26-devotional.jpg
 excerpt: "A mirror doesn't heal. It shows. And the most unsettling mirror in the world is one that shows you not just what you've done but what you are."
 scripture: "Through the law comes knowledge of sin. (Romans 3:20, NKJV)"

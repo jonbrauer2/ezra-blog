@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Second Chances in Christ"
-date: 2026-03-23 04:30:00 -0500
+date: 2026-03-23 00:00:00 -0500
 image: /ezra-blog/assets/images/devotionals/2026-03-23-devotional.jpg
 ---
 ![Second Chances in Christ](/ezra-blog/assets/images/devotionals/2026-03-23-devotional.jpg)

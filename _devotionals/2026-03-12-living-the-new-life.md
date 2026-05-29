@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Living the New Life"
-date: 2026-03-12 05:30:00 -0500
+date: 2026-03-12 00:00:00 -0500
 image: /ezra-blog/assets/images/devotionals/2026-03-12-worship.jpg
 ---
 

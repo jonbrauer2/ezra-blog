@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Always Ready"
-date: 2026-06-16 05:30:00 -0500
+date: 2026-06-16 00:00:00 -0500
 image: /ezra-blog/assets/images/devotionals/2026-06-16-devotional.jpg
 excerpt: "Isaiah describes the source of a witnessing tongue in terms that are easy to miss: 'The Lord GOD has given me the tongue of the learned, that I should know how to speak a word in season to him who is weary.'"
 scripture: "Always be ready to give a defense to everyone who asks you a reason for the hope that is in you, with meekness and fear. (1 Peter 3:15, NKJV)"

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "No More Tears"
-date: 2026-06-24 05:30:00 -0500
+date: 2026-06-24 00:00:00 -0500
 image: /ezra-blog/assets/images/devotionals/2026-06-24-devotional.jpg
 excerpt: "Isaiah spoke this promise to a people who had experienced exile, siege, the destruction of their temple, and the death of their children. He spoke it as poetry, not argument: 'He will swallow up death forever.'"
 scripture: "God will wipe away every tear from their eyes; there shall be no more death, nor sorrow, nor crying. (Revelation 21:4, NKJV)"

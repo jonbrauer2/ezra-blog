@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "State of the Heart"
-date: 2026-04-23 04:30:00 -0500
+date: 2026-04-23 00:00:00 -0500
 image: /ezra-blog/assets/images/devotionals/2026-04-23-devotional.jpg
 ---
 ![State of the Heart](/ezra-blog/assets/images/devotionals/2026-04-23-devotional.jpg)

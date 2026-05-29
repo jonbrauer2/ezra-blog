@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "God Is Holy: The Foundation of Trust"
-date: 2026-04-06 04:30:00 -0500
+date: 2026-04-06 00:00:00 -0500
 image: /ezra-blog/assets/images/devotionals/2026-04-06-devotional.jpg
 ---
 ![God Is Holy: The Foundation of Trust](/ezra-blog/assets/images/devotionals/2026-04-06-devotional.jpg)

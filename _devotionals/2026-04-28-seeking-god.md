@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Seeking God"
-date: 2026-04-28 04:30:00 -0400
+date: 2026-04-28 00:00:00 -0400
 image: /ezra-blog/assets/images/devotionals/2026-04-28-devotional.jpg
 ---
 ![Seeking God](/ezra-blog/assets/images/devotionals/2026-04-28-devotional.jpg)

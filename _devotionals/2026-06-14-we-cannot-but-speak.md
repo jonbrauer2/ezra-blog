@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "We Cannot But Speak"
-date: 2026-06-14 05:30:00 -0500
+date: 2026-06-14 00:00:00 -0500
 image: /ezra-blog/assets/images/devotionals/2026-06-14-devotional.jpg
 excerpt: "The religious council had done everything they could to silence Peter and John. They had put them in prison. They had threatened them. They had demanded they stop speaking in the name of Jesus."
 scripture: "We cannot but speak the things which we have seen and heard. (Acts 4:20, NKJV)"

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The God Who Runs Toward"
-date: 2026-06-03 05:30:00 -0500
+date: 2026-06-03 00:00:00 -0500
 image: /ezra-blog/assets/images/devotionals/2026-06-03-devotional.jpg
 excerpt: "After the golden calf, after the worst collective betrayal in Israel's history, Moses climbed back up the mountain with two blank tablets. What he encountered there was not God's anger — or not only that."
 scripture: "The LORD, the LORD God, merciful and gracious, longsuffering, and abounding in goodness and truth. (Exodus 34:6, NKJV)"

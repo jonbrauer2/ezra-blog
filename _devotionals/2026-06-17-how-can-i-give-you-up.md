@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How Can I Give You Up?"
-date: 2026-06-17 05:30:00 -0500
+date: 2026-06-17 00:00:00 -0500
 image: /ezra-blog/assets/images/devotionals/2026-06-17-devotional.jpg
 excerpt: "Hosea's marriage was a lived sermon. God told him to marry a woman who would be unfaithful, and Hosea obeyed — and through the years of betrayal and return and betrayal again, the prophet felt in his own body what God felt toward Israel."
 scripture: "How can I give you up, Ephraim? How can I hand you over, Israel? (Hosea 11:8, NKJV)"

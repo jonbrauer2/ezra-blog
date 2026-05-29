@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Faithful Daniel"
-date: 2026-05-03 04:30:00 -0500
+date: 2026-05-03 00:00:00 -0500
 image: /ezra-blog/assets/images/devotionals/2026-05-03-devotional.jpg
 ---
 ![Faithful Daniel](/ezra-blog/assets/images/devotionals/2026-05-03-devotional.jpg)

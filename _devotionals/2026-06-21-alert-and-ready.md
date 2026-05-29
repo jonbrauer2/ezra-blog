@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Alert and Ready"
-date: 2026-06-21 05:30:00 -0500
+date: 2026-06-21 00:00:00 -0500
 image: /ezra-blog/assets/images/devotionals/2026-06-21-devotional.jpg
 excerpt: "James asks one of the most clarifying questions in Scripture: 'What is your life? It is even a vapor that appears for a little time and then vanishes away.' That is not pessimism. It is precision."
 scripture: "The end of all things is at hand; therefore be serious and watchful in your prayers. (1 Peter 4:7, NKJV)"

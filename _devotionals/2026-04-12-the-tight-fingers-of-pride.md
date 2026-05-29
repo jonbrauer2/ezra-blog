@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Tight Fingers of Pride"
-date: 2026-04-12 04:30:00 -0500
+date: 2026-04-12 00:00:00 -0500
 image: /ezra-blog/assets/images/devotionals/2026-04-12-devotional.jpg
 ---
 ![The Tight Fingers of Pride](/ezra-blog/assets/images/devotionals/2026-04-12-devotional.jpg)

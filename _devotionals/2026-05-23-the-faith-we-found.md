@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Faith We Found"
-date: 2026-05-23 05:30:00 -0500
+date: 2026-05-23 00:00:00 -0500
 image: /ezra-blog/assets/images/devotionals/2026-05-23-devotional.jpg
 excerpt: "The week began with a sigh. Jesus, looking at the Pharisees who demanded a sign after all they had seen, breathed out that anguished groan from deep in His spirit."
 scripture: "Here is the perseverance of the saints, those who keep the commandments of God and the faith of Jesus. (Revelation 14:12)"

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Lamp to My Feet"
-date: 2026-04-29 04:30:00 -0400
+date: 2026-04-29 00:00:00 -0400
 image: /ezra-blog/assets/images/devotionals/2026-04-29-devotional.jpg
 ---
 ![The Lamp to My Feet](/ezra-blog/assets/images/devotionals/2026-04-29-devotional.jpg)

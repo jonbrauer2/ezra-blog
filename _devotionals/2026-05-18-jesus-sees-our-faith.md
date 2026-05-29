@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Jesus Sees Our Faith"
-date: 2026-05-18 05:30:00 -0500
+date: 2026-05-18 00:00:00 -0500
 image: /ezra-blog/assets/images/devotionals/2026-05-18-devotional.jpg
 excerpt: "There is a woman in the Gospel of Matthew who has no business asking Jesus for anything. She is a Canaanite — an outsider, not of the covenant, outside the promises."
 scripture: "O woman, great is your faith! Let it be to you as you desire. (Matthew 15:28, NKJV)"

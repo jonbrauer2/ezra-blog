@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hearing Isn't Doing"
-date: 2026-05-28 05:30:00 -0500
+date: 2026-05-28 00:00:00 -0500
 image: /ezra-blog/assets/images/devotionals/2026-05-28-devotional.jpg
 excerpt: "Jesus ends the Sermon on the Mount not with a blessing but with a building project. Two men, two houses, one storm. The houses look identical from the outside until the rain comes."
 scripture: "Everyone who hears these words of Mine and does them will be like a wise man who built his house on the rock. (Matthew 7:24, NKJV)"

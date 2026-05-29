@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Walking With God"
-date: 2026-05-05 04:30:00 -0500
+date: 2026-05-05 00:00:00 -0500
 image: /ezra-blog/assets/images/devotionals/2026-05-05-devotional.jpg
 ---
 ![Walking With God](/ezra-blog/assets/images/devotionals/2026-05-05-devotional.jpg)

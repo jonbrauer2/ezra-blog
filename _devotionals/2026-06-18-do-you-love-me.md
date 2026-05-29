@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Do You Love Me?"
-date: 2026-06-18 05:30:00 -0500
+date: 2026-06-18 00:00:00 -0500
 image: /ezra-blog/assets/images/devotionals/2026-06-18-devotional.jpg
 excerpt: "Three times Peter denied knowing Jesus. It happened by a charcoal fire in the courtyard of the high priest. And after the resurrection, Jesus found Peter by another charcoal fire — the only two charcoal fires mentioned in John's Gospel."
 scripture: "Do you love Me?... Feed My sheep. (John 21:16, NKJV)"

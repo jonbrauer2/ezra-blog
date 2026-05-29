@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The World Is Coming Right"
-date: 2026-06-27 05:30:00 -0500
+date: 2026-06-27 00:00:00 -0500
 image: /ezra-blog/assets/images/devotionals/2026-06-27-devotional.jpg
 excerpt: "The quarter began with a simple ambition: growing in a relationship with God. It ends in a garden — or something better than a garden. The New Jerusalem. God's dwelling among His people. All tears wiped."
 scripture: "We shall be like Him, for we shall see Him as He is. (1 John 3:2, NKJV)"
