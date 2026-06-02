@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Curious Detective Framework"
+title: "The Curious Self-Detective Framework"
 date: 2026-06-02 06:00:00 -0400
 image: /ezra-blog/assets/images/healthtips/curious-detective-framework.jpg
 ---
@@ -14,7 +14,7 @@ Most people are taught to think in terms of true or false, right or wrong, prove
 
 Reality is rarely that simple.
 
-The Curious Detective Framework provides a practical method for learning from observations without becoming attached to conclusions.
+The Curious Self-Detective Framework provides a practical method for learning from observations without becoming attached to conclusions.
 
 ---
 
