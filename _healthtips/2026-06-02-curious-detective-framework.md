@@ -178,3 +178,15 @@ The goal is to continuously improve the model.
 Being wrong is not failure.
 
 Failing to update is failure.
+
+---
+
+## Further Reading
+
+This framework draws on several established traditions. A few good companion reads:
+
+- **Julia Galef, *The Scout Mindset* (2021)** — the closest match. Calibrated confidence, treating beliefs as probabilities, looking for evidence that updates rather than confirms.
+- **Annie Duke, *Thinking in Bets* (2018)** — separating decision quality from outcome quality; "what do I believe, and how confident am I?"
+- **Philip Tetlock & Dan Gardner, *Superforecasting* (2015)** — assign numeric confidence, update on new evidence, distinguish process from result.
+- **Jerome Groopman, *How Doctors Think* (2007)** — the "evaluate your markers" step, applied to medical reasoning and its blind spots.
+- **Karl Popper, *Conjectures and Refutations* (1963)** — the philosophical foundation: models make predictions, predictions can fail, failure improves the model.
