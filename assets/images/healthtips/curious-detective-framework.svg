@@ -13,7 +13,7 @@
   <rect width="1200" height="630" fill="url(#bg)"/>
 
   <!-- Faint connecting lines between observations -->
-  <g stroke="#7a6a55" stroke-width="1.2" stroke-dasharray="4 6" opacity="0.45" fill="none">
+  <g stroke="#1f3a5f" stroke-width="2.6" stroke-dasharray="8 8" stroke-linecap="round" opacity="0.85" fill="none">
     <path d="M 180 140 L 360 250"/>
     <path d="M 360 250 L 260 430"/>
     <path d="M 260 430 L 480 510"/>
