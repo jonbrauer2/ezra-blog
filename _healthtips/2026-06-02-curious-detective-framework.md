@@ -190,3 +190,9 @@ This framework draws on several established traditions. A few good companion rea
 - **Philip Tetlock & Dan Gardner, *Superforecasting* (2015)** — assign numeric confidence, update on new evidence, distinguish process from result.
 - **Jerome Groopman, *How Doctors Think* (2007)** — the "evaluate your markers" step, applied to medical reasoning and its blind spots.
 - **Karl Popper, *Conjectures and Refutations* (1963)** — the philosophical foundation: models make predictions, predictions can fail, failure improves the model.
+
+---
+
+## Companion Paper
+
+For a research-backed companion piece — what the published evidence actually says about each step of this framework, including its strengths, limits, and failure modes — see [The Curious Detective in the Mirror](https://jonbrauer2.github.io/health-blog/theory-exploration/curious-detective-in-the-mirror/) on the Health Blog.
