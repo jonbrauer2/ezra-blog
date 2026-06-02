@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="A magnifying glass examining scattered observations connected by faint lines.">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="40%" r="80%">
+      <stop offset="0%" stop-color="#f8f1e7"/>
+      <stop offset="100%" stop-color="#e9dfcf"/>
+    </radialGradient>
+    <linearGradient id="glass" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3b6e8f" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#1f3a5f" stop-opacity="0.25"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="630" fill="url(#bg)"/>
+
+  <!-- Faint connecting lines between observations -->
+  <g stroke="#7a6a55" stroke-width="1.2" stroke-dasharray="4 6" opacity="0.45" fill="none">
+    <path d="M 180 140 L 360 250"/>
+    <path d="M 360 250 L 260 430"/>
+    <path d="M 260 430 L 480 510"/>
+    <path d="M 480 510 L 720 460"/>
+    <path d="M 720 460 L 920 530"/>
+    <path d="M 920 530 L 1060 360"/>
+    <path d="M 1060 360 L 980 180"/>
+    <path d="M 980 180 L 760 100"/>
+    <path d="M 760 100 L 360 250"/>
+  </g>
+
+  <!-- Observation dots -->
+  <g fill="#a35a2a">
+    <circle cx="180" cy="140" r="9"/>
+    <circle cx="360" cy="250" r="11"/>
+    <circle cx="260" cy="430" r="9"/>
+    <circle cx="480" cy="510" r="10"/>
+    <circle cx="720" cy="460" r="9"/>
+    <circle cx="920" cy="530" r="11"/>
+    <circle cx="1060" cy="360" r="9"/>
+    <circle cx="980" cy="180" r="10"/>
+    <circle cx="760" cy="100" r="9"/>
+    <circle cx="540" cy="180" r="7" opacity="0.6"/>
+    <circle cx="640" cy="320" r="7" opacity="0.6"/>
+    <circle cx="840" cy="280" r="7" opacity="0.6"/>
+  </g>
+
+  <!-- Magnifying glass -->
+  <g transform="translate(640 320) rotate(-22)">
+    <!-- Handle -->
+    <rect x="160" y="-22" width="220" height="44" rx="22" fill="#1f3a5f"/>
+    <rect x="160" y="-22" width="220" height="44" rx="22" fill="none" stroke="#0f2640" stroke-width="3"/>
+    <!-- Ring -->
+    <circle cx="0" cy="0" r="180" fill="url(#glass)" stroke="#1f3a5f" stroke-width="20"/>
+    <circle cx="0" cy="0" r="180" fill="none" stroke="#0f2640" stroke-width="3"/>
+    <!-- Highlight -->
+    <path d="M -120 -60 Q -60 -150 60 -130" fill="none" stroke="#ffffff" stroke-width="10" stroke-linecap="round" opacity="0.55"/>
+  </g>
+
+  <!-- Subtle title overlay -->
+  <g font-family="Georgia, 'Times New Roman', serif" fill="#1f3a5f">
+    <text x="600" y="600" text-anchor="middle" font-size="22" letter-spacing="6" opacity="0.55">OBSERVE  ·  MODEL  ·  UPDATE</text>
+  </g>
+</svg>
