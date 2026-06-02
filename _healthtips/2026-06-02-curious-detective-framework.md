@@ -195,4 +195,4 @@ This framework draws on several established traditions. A few good companion rea
 
 ## Companion Paper
 
-For a research-backed companion piece — what the published evidence actually says about each step of this framework, including its strengths, limits, and failure modes — see [The Curious Detective in the Mirror](https://jonbrauer2.github.io/health-blog/theory-exploration/curious-detective-in-the-mirror/) on the Health Blog.
+For a research-backed companion piece — what the published evidence actually says about each step of this framework, including its strengths, limits, and failure modes — see [The Curious Detective in the Mirror](https://jonbrauer2.github.io/health-blog/theory-papers/curious-detective-in-the-mirror/) on the Health Blog.
