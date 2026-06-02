@@ -2,10 +2,10 @@
 layout: post
 title: "The Curious Detective Framework"
 date: 2026-06-02 13:00:00 -0400
-image: /ezra-blog/assets/images/healthtips/curious-detective-framework.svg
+image: /ezra-blog/assets/images/healthtips/curious-detective-framework.jpg
 ---
 
-![A magnifying glass examining scattered observations connected by faint lines](/ezra-blog/assets/images/healthtips/curious-detective-framework.svg)
+![A magnifying glass revealing cryptic symbols on paper](/ezra-blog/assets/images/healthtips/curious-detective-framework.jpg)
 *A practical method for observing, modeling, experimenting, and updating under uncertainty.*
 
 ---
@@ -92,6 +92,11 @@ Example:
 Keep "Unknown" on the board.
 
 Unknown is not failure. Unknown is honesty.
+
+---
+
+![Scattered observations connected by faint dashed lines, with a magnifying glass over the center — OBSERVE · MODEL · UPDATE](/ezra-blog/assets/images/healthtips/curious-detective-framework.svg)
+*Observations become patterns; patterns become models; models become predictions to test.*
 
 ---
 
