@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Curious Detective Framework"
-date: 2026-06-02 13:00:00 -0400
+date: 2026-06-02 06:00:00 -0400
 image: /ezra-blog/assets/images/healthtips/curious-detective-framework.jpg
 ---
 
