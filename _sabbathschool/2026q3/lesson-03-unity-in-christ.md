@@ -9,6 +9,10 @@ excerpt: "Factionalism in Corinth wasn't a management problem — it was Christo
 category: lesson-guide
 image: /ezra-blog/assets/images/sabbathschool/2026q3/lesson-03-unity-in-christ.jpg
 ---
+
+![Lesson 3: Unity in Christ](/ezra-blog/assets/images/sabbathschool/2026q3/lesson-03-unity-in-christ.jpg)
+*Photo: Pexels*
+
 # Sabbath School Study Notes
 ## Lesson 3: Unity in Christ
 ### July 11–17, 2026 | Q3 2026 — *1 & 2 Corinthians*

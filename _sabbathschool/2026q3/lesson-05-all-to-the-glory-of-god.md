@@ -9,6 +9,10 @@ excerpt: "Idolatry isn't just stone statues — it's anything that displaces God
 category: lesson-guide
 image: /ezra-blog/assets/images/sabbathschool/2026q3/lesson-05-all-to-the-glory-of-god.jpg
 ---
+
+![Lesson 5: All to the Glory of God](/ezra-blog/assets/images/sabbathschool/2026q3/lesson-05-all-to-the-glory-of-god.jpg)
+*Photo: Pexels*
+
 # Sabbath School Study Notes
 ## Lesson 5: All to the Glory of God
 ### July 25–31, 2026 | Q3 2026 — *1 & 2 Corinthians*

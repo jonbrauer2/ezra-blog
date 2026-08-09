@@ -9,6 +9,10 @@ excerpt: "Paul's three-chapter argument through [1 Corinthians 12](https://ref.l
 category: lesson-guide
 image: /ezra-blog/assets/images/sabbathschool/2026q3/lesson-06-spiritual-gifts.jpg
 ---
+
+![Lesson 6: Spiritual Gifts](/ezra-blog/assets/images/sabbathschool/2026q3/lesson-06-spiritual-gifts.jpg)
+*Photo: Pexels*
+
 # Sabbath School Study Notes
 ## Lesson 6: Spiritual Gifts
 ### August 1–7, 2026 | Q3 2026 — *1 and 2 Corinthians*

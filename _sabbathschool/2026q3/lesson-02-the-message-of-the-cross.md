@@ -9,6 +9,10 @@ excerpt: "Paul's answer to every problem in Corinth is the same: the Cross. Not 
 category: lesson-guide
 image: /ezra-blog/assets/images/sabbathschool/2026q3/lesson-02-the-message-of-the-cross.jpg
 ---
+
+![Lesson 2: The Message of the Cross](/ezra-blog/assets/images/sabbathschool/2026q3/lesson-02-the-message-of-the-cross.jpg)
+*Photo: Pexels*
+
 # Sabbath School Study Notes
 ## Lesson 2: The Message of the Cross
 ### July 4–10, 2026 | Q3 2026 — *1 & 2 Corinthians*

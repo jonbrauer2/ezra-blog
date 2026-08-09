@@ -9,6 +9,10 @@ excerpt: "The Corinthian church was arrogant about tolerating sexual scandal. Pa
 category: lesson-guide
 image: /ezra-blog/assets/images/sabbathschool/2026q3/lesson-04-sin-in-the-church.jpg
 ---
+
+![Lesson 4: Sin in the Church](/ezra-blog/assets/images/sabbathschool/2026q3/lesson-04-sin-in-the-church.jpg)
+*Photo: Pexels*
+
 # Sabbath School Study Notes
 ## Lesson 4: Sin in the Church
 ### July 18–24, 2026 | Q3 2026 — *1 & 2 Corinthians*
