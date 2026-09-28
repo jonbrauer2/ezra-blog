@@ -9,6 +9,8 @@ order: 1
 
 ![Dogpile on Uncle Jonathan](/ezra-blog/assets/images/family/kittychronicles/dogpile.jpg)
 
+<audio controls preload="none" src="/ezra-blog/assets/audio/family/kittychronicles/dogpile.mp3" style="width:100%;margin:0.5em 0 1em;">Your browser doesn't support inline audio — <a href="/ezra-blog/assets/audio/family/kittychronicles/dogpile.mp3">download the MP3</a>.</audio>
+
 Once upon a time, in the beautiful state of Colorado, where the mountains stretched high into the sky, there lived two little twin boys who were about to have a VERY important day.
 
 Tomorrow was their BIRTHDAY! 🎂🎈🎉

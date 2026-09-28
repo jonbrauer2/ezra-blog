@@ -9,6 +9,8 @@ order: 6
 
 ![For Such a Time as This](/ezra-blog/assets/images/family/kittychronicles/esther.jpg)
 
+<audio controls preload="none" src="/ezra-blog/assets/audio/family/kittychronicles/esther.mp3" style="width:100%;margin:0.5em 0 1em;">Your browser doesn't support inline audio — <a href="/ezra-blog/assets/audio/family/kittychronicles/esther.mp3">download the MP3</a>.</audio>
+
 Long ago, in the enormous Persian Empire, there stood a palace unlike anything Hadley, Grayson, and Colton had ever seen.
 
 Its pillars stretched high above their heads. Colorful curtains hung between columns of marble. Soldiers guarded enormous doors. Servants hurried through the halls carrying trays of food.

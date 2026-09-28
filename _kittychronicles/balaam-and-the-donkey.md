@@ -9,6 +9,8 @@ order: 0
 
 ![Balaam, the Donkey, and the Five Missing Kittens](/ezra-blog/assets/images/family/kittychronicles/balaam-and-the-donkey.jpg)
 
+<audio controls preload="none" src="/ezra-blog/assets/audio/family/kittychronicles/balaam-and-the-donkey.mp3" style="width:100%;margin:0.5em 0 1em;">Your browser doesn't support inline audio — <a href="/ezra-blog/assets/audio/family/kittychronicles/balaam-and-the-donkey.mp3">download the MP3</a>.</audio>
+
 “Uncle Jonathan! Wait!”
 
 Hadley’s voice came from somewhere behind him.

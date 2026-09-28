@@ -9,6 +9,8 @@ order: 4
 
 ![The Night the Wind Obeyed](/ezra-blog/assets/images/family/kittychronicles/the-calm-sea.jpg)
 
+<audio controls preload="none" src="/ezra-blog/assets/audio/family/kittychronicles/the-calm-sea.mp3" style="width:100%;margin:0.5em 0 1em;">Your browser doesn't support inline audio — <a href="/ezra-blog/assets/audio/family/kittychronicles/the-calm-sea.mp3">download the MP3</a>.</audio>
+
 Colton loved lightning.
 
 From inside a warm house, anyway.

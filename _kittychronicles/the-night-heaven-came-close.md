@@ -9,6 +9,8 @@ order: 3
 
 ![The Night Heaven Came Close](/ezra-blog/assets/images/family/kittychronicles/the-blessed-baby.jpg)
 
+<audio controls preload="none" src="/ezra-blog/assets/audio/family/kittychronicles/the-blessed-baby.mp3" style="width:100%;margin:0.5em 0 1em;">Your browser doesn't support inline audio — <a href="/ezra-blog/assets/audio/family/kittychronicles/the-blessed-baby.mp3">download the MP3</a>.</audio>
+
 “Are we there yet?”
 
 Uncle Jonathan looked at Colton.

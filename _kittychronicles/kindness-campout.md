@@ -9,6 +9,8 @@ order: 2
 
 ![The Kindness Campout and the Very Unexpected Mountain Lion](/ezra-blog/assets/images/family/kittychronicles/kindness-campout.jpg)
 
+<audio controls preload="none" src="/ezra-blog/assets/audio/family/kittychronicles/kindness-campout.mp3" style="width:100%;margin:0.5em 0 1em;">Your browser doesn't support inline audio — <a href="/ezra-blog/assets/audio/family/kittychronicles/kindness-campout.mp3">download the MP3</a>.</audio>
+
 The first sign that this camping trip might not go exactly according to plan came when Uncle Jonathan opened the back of the vehicle and said:
 
 “Okay! Let’s get the tents set up.”
