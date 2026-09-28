@@ -37,6 +37,9 @@ collections:
   healthtips:
     output: true
     permalink: /healthtips/:year/:month/:day/:title/
+  kittychronicles:
+    output: true
+    permalink: /family/kittychronicles/:path/
 
 # Post settings
 permalink: /:categories/:year/:month/:day/:title/
