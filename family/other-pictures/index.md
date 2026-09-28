@@ -17,9 +17,4 @@ A gallery of extra family pictures.
   <figcaption style="margin-top:0.5em;font-size:0.9em;color:#555;text-align:center;font-style:italic;">Birthday — The Trouble with Cats</figcaption>
 </figure>
 
-<figure style="margin:0;">
-  <img src="{{ '/assets/images/family/other-pictures/the-talking-donkey-and-the-5-kittens.jpg' | relative_url }}" alt="The Talking Donkey and the 5 Kittens" style="width:100%;height:auto;border-radius:6px;display:block;">
-  <figcaption style="margin-top:0.5em;font-size:0.9em;color:#555;text-align:center;font-style:italic;">The Talking Donkey and the 5 Kittens</figcaption>
-</figure>
-
 </div>
