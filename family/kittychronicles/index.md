@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Kitty Chronicles
+title: The Kitty Chronicles
 permalink: /family/kittychronicles/
 ---
 
