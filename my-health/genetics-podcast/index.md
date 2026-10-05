@@ -44,9 +44,18 @@ The Yasko-vs-Lynch CBS upregulation debate resolved empirically using thiol tole
 
 ---
 
+### Episode 4 — The Histamine Triangle
+
+*Published 2026-10-05 · 21 min · Narrated by George (UK English)*
+
+<audio controls preload="none" src="/ezra-blog/assets/audio/my-health/genetics-podcast/04-Histamine-Triangle.mp3" style="width:100%;margin:0.5em 0 1em;">Your browser doesn't support inline audio — <a href="/ezra-blog/assets/audio/my-health/genetics-podcast/04-Histamine-Triangle.mp3">download the MP3</a>.</audio>
+
+Your MCAS pattern mapped onto the actual histamine-handling genetics. DAO ×3 compound heterozygous as the primary extracellular clearance throttle (30–50% reduced throughput). X-linked homozygous MAO-B in male configuration — full dose effect on methylhistamine and phenylethylamine processing. COMT competing between catecholamine clearance and estrogen catechol methylation. HNMT data gap and when WGS earns its place. Why ketotifen + cetirizine makes mechanistic sense, and the gaps: DAO enzyme at meals, active-form B6, quercetin, copper/ceruloplasmin assessment, DUTCH for estrogen metabolism.
+
+---
+
 ## Upcoming episodes
 
-4. The Histamine Triangle — DAO ×3, HNMT (data gap), MAO-B X-linked, and COMT–estrogen competition
 5. APOE 3/4 — the Bredesen / Attia / Masterjohn translation
 6. TNF-α, VDR, HLA-DQ, CTLA4, IRF5 — the autoimmune signature
 7. NOS3 compound heterozygous + RAAS overlay (AGT++, ADD1)
