@@ -9,7 +9,7 @@ order: 7
 
 ![Uncle Jonathan's Very Large Problem](/ezra-blog/assets/images/family/kittychronicles/gideon.jpg)
 
-<audio controls preload="none" src="/ezra-blog/assets/audio/family/kittychronicles/gideon.mp3" style="width:100%;margin:0.5em 0 1em;">Your browser doesn't support inline audio — <a href="/ezra-blog/assets/audio/family/kittychronicles/gideon.mp3">download the MP3</a>.</audio>
+<audio controls preload="none" src="/ezra-blog/assets/audio/family/kittychronicles/uncle-jonathans-very-large-problem.mp3" style="width:100%;margin:0.5em 0 1em;">Your browser doesn't support inline audio — <a href="/ezra-blog/assets/audio/family/kittychronicles/uncle-jonathans-very-large-problem.mp3">download the MP3</a>.</audio>
 
 The sun was disappearing behind the hills of Israel.
 

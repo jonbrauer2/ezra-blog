@@ -9,7 +9,7 @@ order: 5
 
 ![The Day Fire Fell from Heaven](/ezra-blog/assets/images/family/kittychronicles/pickles-on-mount-carmel.jpg)
 
-<audio controls preload="none" src="/ezra-blog/assets/audio/family/kittychronicles/pickles-on-mount-carmel.mp3" style="width:100%;margin:0.5em 0 1em;">Your browser doesn't support inline audio — <a href="/ezra-blog/assets/audio/family/kittychronicles/pickles-on-mount-carmel.mp3">download the MP3</a>.</audio>
+<audio controls preload="none" src="/ezra-blog/assets/audio/family/kittychronicles/the-day-fire-fell-from-heaven.mp3" style="width:100%;margin:0.5em 0 1em;">Your browser doesn't support inline audio — <a href="/ezra-blog/assets/audio/family/kittychronicles/the-day-fire-fell-from-heaven.mp3">download the MP3</a>.</audio>
 
 Grayson tipped the water jug upside down.
 

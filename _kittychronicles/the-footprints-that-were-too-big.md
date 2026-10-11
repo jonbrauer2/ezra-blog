@@ -9,7 +9,7 @@ order: 9
 
 ![The Footprints That Were Too Big](/ezra-blog/assets/images/family/kittychronicles/rehab-and-the-spies.jpg)
 
-<audio controls preload="none" src="/ezra-blog/assets/audio/family/kittychronicles/rehab-and-the-spies.mp3" style="width:100%;margin:0.5em 0 1em;">Your browser doesn't support inline audio — <a href="/ezra-blog/assets/audio/family/kittychronicles/rehab-and-the-spies.mp3">download the MP3</a>.</audio>
+<audio controls preload="none" src="/ezra-blog/assets/audio/family/kittychronicles/the-footprints-that-were-too-big.mp3" style="width:100%;margin:0.5em 0 1em;">Your browser doesn't support inline audio — <a href="/ezra-blog/assets/audio/family/kittychronicles/the-footprints-that-were-too-big.mp3">download the MP3</a>.</audio>
 
 Hadley was the first one to notice the footprint.
 

@@ -9,7 +9,7 @@ order: 8
 
 ![Nothing Can Hinder the Lord](/ezra-blog/assets/images/family/kittychronicles/jonathan-and-the-philistines.jpg)
 
-<audio controls preload="none" src="/ezra-blog/assets/audio/family/kittychronicles/jonathan-and-the-philistines.mp3" style="width:100%;margin:0.5em 0 1em;">Your browser doesn't support inline audio — <a href="/ezra-blog/assets/audio/family/kittychronicles/jonathan-and-the-philistines.mp3">download the MP3</a>.</audio>
+<audio controls preload="none" src="/ezra-blog/assets/audio/family/kittychronicles/nothing-can-hinder-the-lord.mp3" style="width:100%;margin:0.5em 0 1em;">Your browser doesn't support inline audio — <a href="/ezra-blog/assets/audio/family/kittychronicles/nothing-can-hinder-the-lord.mp3">download the MP3</a>.</audio>
 
 The first thing Hadley noticed was the smoke.
 
