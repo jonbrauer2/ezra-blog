@@ -40,7 +40,9 @@ Hydroxy vs methyl vs adenosyl B12 — why the choice matters more than most prot
 
 <audio controls preload="none" src="/ezra-blog/assets/audio/my-health/genetics-podcast/03-CBS-Sulfur-Mercury.mp3" style="width:100%;margin:0.5em 0 1em;">Your browser doesn't support inline audio — <a href="/ezra-blog/assets/audio/my-health/genetics-podcast/03-CBS-Sulfur-Mercury.mp3">download the MP3</a>.</audio>
 
-The Yasko-vs-Lynch CBS upregulation debate resolved empirically using thiol tolerance history and arsenic DMA labs. Downstream consequences — molybdenum gap for SUOX, likely-low taurine, GSH regen limited by methylation friction, bile flow limited by PEMT ×2. Mercury handling via the thiol affinity story. Why daily low-dose chelation (Shade framework) fits this genotype better than round-based (Cutler framework). Vegetarian sulfur angle.
+The Yasko-vs-Lynch CBS upregulation debate — and why the empirical answer is still open for this profile. Thiol tolerance history (improved but not resolved), eggs-null observation, arsenic DMA labs as partial signals. Downstream support worth doing regardless of upregulation question — molybdenum gap for SUOX, likely-low taurine, GSH regen limited by methylation friction, bile flow limited by PEMT ×2. Mercury handling via the thiol affinity story. The custom chelation hybrid that fits a narrow tolerance curve (daily low-dose Liver Sauce + cautious binder rotation + ACC rounds held in reserve) — neither Shade's nor Cutler's framework fits cleanly. Vegetarian sulfur angle.
+
+*Note (Oct 10 revisions):* Script was updated to walk back two overclaims from the original recording — "thiol tolerance resolved" (partial, not resolved) and "Shade framework fits better" (Shade's canonical product Ultra Binder is poorly tolerated at anything beyond minimal doses; the actual approach is a custom hybrid). Audio reflects the original claims; written script and shownotes carry the corrections. Audio rebuild batched for a later re-record pass.
 
 ---
 
