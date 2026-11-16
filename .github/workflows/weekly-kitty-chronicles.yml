@@ -1,0 +1,28 @@
+name: Publish weekly Kitty Chronicle
+
+on:
+  schedule:
+    # 6:05 AM Eastern Standard Time each Monday (11:05 UTC).
+    # The dated Volume 2 story is revealed by Liquid when this rebuild runs.
+    - cron: '5 11 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: weekly-kitty-chronicles
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Trigger GitHub Pages rebuild
+        run: |
+          git config user.email "noreply@github.com"
+          git config user.name "Kitty Chronicles Publisher"
+          git commit --allow-empty -m "publish: weekly Kitty Chronicle $(date -u +%Y-%m-%d)"
+          git push
