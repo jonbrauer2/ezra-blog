@@ -20,9 +20,39 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Trigger GitHub Pages rebuild
+      - name: Publish stories whose release date has arrived
+        shell: bash
         run: |
+          set -euo pipefail
+
+          today="$(date -u +%F)"
+          changed=0
+
+          for story in _kittychronicles/*.md; do
+            volume="$(awk '/^volume:/ { print $2; exit }' "$story")"
+            release_date="$(awk '/^date:/ { print $2; exit }' "$story")"
+            publish_state="$(awk '/^published:/ { print $2; exit }' "$story")"
+
+            if [[ "$volume" != "2" || "$publish_state" != "false" ]]; then
+              continue
+            fi
+
+            if [[ "$release_date" > "$today" ]]; then
+              continue
+            fi
+
+            sed -i 's/^published: false$/published: true/' "$story"
+            echo "Publishing $story"
+            changed=1
+          done
+
+          if [[ "$changed" -eq 0 ]]; then
+            echo "No Kitty Chronicles story is due today."
+            exit 0
+          fi
+
           git config user.email "noreply@github.com"
           git config user.name "Kitty Chronicles Publisher"
-          git commit --allow-empty -m "publish: weekly Kitty Chronicle $(date -u +%Y-%m-%d)"
+          git add _kittychronicles
+          git commit -m "publish: weekly Kitty Chronicle $today"
           git push

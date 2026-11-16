@@ -7,6 +7,7 @@ excerpt: "A widow has one tiny jar, a house full of borrowed containers, and a d
 volume: 2
 order: 4
 scripture: "2 Kings 4:1–7"
+published: false
 ---
 
 ![The widow pours oil into the borrowed jars](/ezra-blog/assets/images/family/kittychronicles/volume-2/the-endless-oil-miracle.png)

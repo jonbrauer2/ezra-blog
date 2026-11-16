@@ -7,6 +7,7 @@ excerpt: "Three armies are coming for Judah, so King Jehoshaphat sends his singe
 volume: 2
 order: 3
 scripture: "2 Chronicles 20:1–30"
+published: false
 ---
 
 ![Singers lead King Jehoshaphat and Judah's army](/ezra-blog/assets/images/family/kittychronicles/volume-2/judahs-singing-army.png)

@@ -7,6 +7,7 @@ excerpt: "A borrowed iron axe head vanishes into the Jordan, and one worried bui
 volume: 2
 order: 2
 scripture: "2 Kings 6:1–7"
+published: false
 ---
 
 ![Elisha points to the iron axe head floating on the Jordan](/ezra-blog/assets/images/family/kittychronicles/volume-2/the-floating-axe-miracle.png)
