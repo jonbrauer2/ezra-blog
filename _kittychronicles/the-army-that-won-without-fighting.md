@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "The Army That Won Without Fighting!"
-date: 2026-11-30 06:00:00 -0500
+date: 2026-11-16 06:20:00 -0500
 image: /ezra-blog/assets/images/family/kittychronicles/volume-2/judahs-singing-army.png
 excerpt: "Three armies are coming for Judah, so King Jehoshaphat sends his singers to the front and discovers what happens when fear turns into praise."
 volume: 2
 order: 3
 scripture: "2 Chronicles 20:1–30"
-published: false
+published: true
 ---
 
 ![Singers lead King Jehoshaphat and Judah's army](/ezra-blog/assets/images/family/kittychronicles/volume-2/judahs-singing-army.png)

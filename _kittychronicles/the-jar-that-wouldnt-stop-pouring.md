@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "The Jar That Wouldn't Stop Pouring!"
-date: 2026-12-07 06:00:00 -0500
+date: 2026-11-16 06:30:00 -0500
 image: /ezra-blog/assets/images/family/kittychronicles/volume-2/the-endless-oil-miracle.png
 excerpt: "A widow has one tiny jar, a house full of borrowed containers, and a debt she cannot pay—until the oil keeps pouring."
 volume: 2
 order: 4
 scripture: "2 Kings 4:1–7"
-published: false
+published: true
 ---
 
 ![The widow pours oil into the borrowed jars](/ezra-blog/assets/images/family/kittychronicles/volume-2/the-endless-oil-miracle.png)

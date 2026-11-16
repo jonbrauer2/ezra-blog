@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "The Incredible Floating Axe!"
-date: 2026-11-23 06:00:00 -0500
+date: 2026-11-16 06:10:00 -0500
 image: /ezra-blog/assets/images/family/kittychronicles/volume-2/the-floating-axe-miracle.png
 excerpt: "A borrowed iron axe head vanishes into the Jordan, and one worried builder learns that no problem is too small to bring to God."
 volume: 2
 order: 2
 scripture: "2 Kings 6:1–7"
-published: false
+published: true
 ---
 
 ![Elisha points to the iron axe head floating on the Jordan](/ezra-blog/assets/images/family/kittychronicles/volume-2/the-floating-axe-miracle.png)
