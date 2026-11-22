@@ -56,9 +56,18 @@ Your MCAS pattern mapped onto the actual histamine-handling genetics. DAO ×3 co
 
 ---
 
+### Episode 5 — APOE 3/4 — The Lifetime Brain-and-Heart Playbook
+
+*Published 2026-11-22 · 23 min · Narrated by George (UK English)*
+
+<audio controls preload="none" src="/ezra-blog/assets/audio/my-health/genetics-podcast/05-APOE-3-4.mp3" style="width:100%;margin:0.5em 0 1em;">Your browser doesn't support inline audio — <a href="/ezra-blog/assets/audio/my-health/genetics-podcast/05-APOE-3-4.mp3">download the MP3</a>.</audio>
+
+APOE 3/4 lifetime risk management framework. Reconciles Bredesen vs Attia vs Masterjohn on saturated fat for this specific vegetarian + egg-restricted profile. Oct 2026 lab context: Lp(a) 14.8 LOW (major relief), LDL 119 / HDL 38 unfavorable, ApoB not yet drawn. When a statin earns its place for APOE4. Anesthesia implications (TIVA preferred; N₂O advisory compounded). Exercise prescription — zone 2, resistance training, sprint intervals deferred. Brain-specific: DHA emphasis, vitamin D, curcumin, sulforaphane, insulin sensitivity. The testosterone-APOE4 brain connection and why the hormone workup matters for lifetime brain health.
+
+---
+
 ## Upcoming episodes
 
-5. APOE 3/4 — the Bredesen / Attia / Masterjohn translation
 6. TNF-α, VDR, HLA-DQ, CTLA4, IRF5 — the autoimmune signature
 7. NOS3 compound heterozygous + RAAS overlay (AGT++, ADD1)
 8. Phase I/II detox + pharmacogenomics (CYP, NAT, SULT, GST, PON1)
