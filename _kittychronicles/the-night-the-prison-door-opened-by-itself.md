@@ -7,9 +7,12 @@ excerpt: "Peter is locked behind guards, chains, and an iron gate—but while th
 volume: 2
 order: 1
 scripture: "Acts 12:1–19"
+published: true
 ---
 
 ![Peter arrives at the house after the prison doors open](/ezra-blog/assets/images/family/kittychronicles/volume-2/peter-at-the-door.png)
+
+<audio controls preload="none" src="/ezra-blog/assets/audio/family/kittychronicles/volume-2/the-night-the-prison-door-opened-by-itself.mp3" style="width:100%;margin:0.5em 0 1em;">Your browser doesn't support inline audio — <a href="/ezra-blog/assets/audio/family/kittychronicles/volume-2/the-night-the-prison-door-opened-by-itself.mp3">download the MP3</a>.</audio>
 
 Colton knocked on the wooden door.
 

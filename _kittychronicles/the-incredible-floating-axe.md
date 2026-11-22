@@ -12,6 +12,8 @@ published: true
 
 ![Elisha points to the iron axe head floating on the Jordan](/ezra-blog/assets/images/family/kittychronicles/volume-2/the-floating-axe-miracle.png)
 
+<audio controls preload="none" src="/ezra-blog/assets/audio/family/kittychronicles/volume-2/the-incredible-floating-axe.mp3" style="width:100%;margin:0.5em 0 1em;">Your browser doesn't support inline audio — <a href="/ezra-blog/assets/audio/family/kittychronicles/volume-2/the-incredible-floating-axe.mp3">download the MP3</a>.</audio>
+
 **CHOP!**
 
 Grayson swung the stone tool at a fallen branch.

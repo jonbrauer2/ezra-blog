@@ -12,6 +12,8 @@ published: true
 
 ![The widow pours oil into the borrowed jars](/ezra-blog/assets/images/family/kittychronicles/volume-2/the-endless-oil-miracle.png)
 
+<audio controls preload="none" src="/ezra-blog/assets/audio/family/kittychronicles/volume-2/the-jar-that-wouldnt-stop-pouring.mp3" style="width:100%;margin:0.5em 0 1em;">Your browser doesn't support inline audio — <a href="/ezra-blog/assets/audio/family/kittychronicles/volume-2/the-jar-that-wouldnt-stop-pouring.mp3">download the MP3</a>.</audio>
+
 “Do we really need another jar?” Hadley asked.
 
 Grayson was carrying two.

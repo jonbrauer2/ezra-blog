@@ -12,6 +12,8 @@ published: true
 
 ![Singers lead King Jehoshaphat and Judah's army](/ezra-blog/assets/images/family/kittychronicles/volume-2/judahs-singing-army.png)
 
+<audio controls preload="none" src="/ezra-blog/assets/audio/family/kittychronicles/volume-2/the-army-that-won-without-fighting.mp3" style="width:100%;margin:0.5em 0 1em;">Your browser doesn't support inline audio — <a href="/ezra-blog/assets/audio/family/kittychronicles/volume-2/the-army-that-won-without-fighting.mp3">download the MP3</a>.</audio>
+
 Colton was marching.
 
 Left.
