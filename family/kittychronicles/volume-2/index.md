@@ -6,7 +6,7 @@ permalink: /family/kittychronicles/volume-2/
 
 Four new illustrated Bible adventures with Uncle Jonathan, Hadley, Grayson, Colton and a kitten who always seems to arrive just in time. A new story is released every Monday.
 
-<p style="font-size:0.9em;color:#666;"><a href="{{ '/family/kittychronicles/' | relative_url }}">&larr; Back to The Kitty Chronicles</a></p>
+<p style="font-size:0.9em;color:#666;"><a href="{{ '/family/' | relative_url }}">&larr; Back to Family</a></p>
 
 ---
 
