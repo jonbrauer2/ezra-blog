@@ -66,10 +66,28 @@ APOE 3/4 lifetime risk management framework. Reconciles Bredesen vs Attia vs Mas
 
 ---
 
+### Episode 6 — The Autoimmune Signature — TNF-α, VDR, HLA-DQ, CTLA4, IRF5
+
+*Published 2026-11-22 · 22 min · Narrated by George (UK English)*
+
+<audio controls preload="none" src="/ezra-blog/assets/audio/my-health/genetics-podcast/06-Autoimmune-Signature.mp3" style="width:100%;margin:0.5em 0 1em;">Your browser doesn't support inline audio — <a href="/ezra-blog/assets/audio/my-health/genetics-podcast/06-Autoimmune-Signature.mp3">download the MP3</a>.</audio>
+
+Your compound autoimmune genetic cassette unpacked. TNF-α -308 heterozygous (elevated inflammatory tone, LDN target); VDR Bsm + Taq heterozygous (requires higher D for immune transcriptional effect); HLA-DQA1 heterozygous (celiac + related autoimmune risk — compliance confirmed in Oct 2026 labs); CTLA4 heterozygous (T cell checkpoint); IRF5 heterozygous (SLE-spectrum risk); IFIH1 homozygous (interferon signaling amplified). Oct 2026 lab integration: ANA 1:160 persistent but full ENA panel negative — well-managed susceptibility, not active disease. Practical levers: LDN mechanism, vitamin D up to 7000-10000 IU with K2, celiac vigilance, infection prevention, environmental control, stress management as direct immune modulation, targeted anti-inflammatory supplements.
+
+---
+
+### Episode 7 — NOS3 Compound + RAAS Overlay — The Vascular Story
+
+*Published 2026-11-22 · 19 min · Narrated by George (UK English)*
+
+<audio controls preload="none" src="/ezra-blog/assets/audio/my-health/genetics-podcast/07-NOS3-RAAS.mp3" style="width:100%;margin:0.5em 0 1em;">Your browser doesn't support inline audio — <a href="/ezra-blog/assets/audio/my-health/genetics-podcast/07-NOS3-RAAS.mp3">download the MP3</a>.</audio>
+
+Sivieri's 'Viagra pathway' story: NOS3 compound heterozygous (4 variants) + MTHFR homozygous (BH4 recycling implications). The uncoupling story — reduced BH4 shifts NOS3 from NO production to peroxynitrite. Oct 2026 Hcy 6.3 confirms methylation protocol is protecting endothelial function. Nov 2026 subjective validation: Mg + B2 + creatine stack improved nighttime vascular responsiveness — the cofactor chain is working. RAAS overlay: AGT M235T homozygous (20-30% elevated angiotensinogen, salt sensitivity); ADD1 het (renal sodium retention); ACE Del16 favorable. Practical levers: L-citrulline, beetroot, high-dose vitamin C, dark chocolate, pomegranate, exercise prescription, sodium-potassium balance. If BP management ever needed: ARB preferred over ACEi given ACE favorable allele. Testosterone-NOS3 connection ties to hormone workup priority.
+
+---
+
 ## Upcoming episodes
 
-6. TNF-α, VDR, HLA-DQ, CTLA4, IRF5 — the autoimmune signature
-7. NOS3 compound heterozygous + RAAS overlay (AGT++, ADD1)
 8. Phase I/II detox + pharmacogenomics (CYP, NAT, SULT, GST, PON1)
 9. Fat metabolism (FADS, BCO1, PEMT ×2) in celiac malabsorption context
 10. Iron, B12 transport, and gut absorption triangle (HFE, FUT2, TCN2, celiac)
