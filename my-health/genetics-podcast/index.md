@@ -86,10 +86,28 @@ Sivieri's 'Viagra pathway' story: NOS3 compound heterozygous (4 variants) + MTHF
 
 ---
 
+### Episode 8 — Phase I/II Detox and Pharmacogenomics
+
+*Published 2026-11-22 · 22 min · Narrated by George (UK English)*
+
+<audio controls preload="none" src="/ezra-blog/assets/audio/my-health/genetics-podcast/08-Phase-I-II-Pharmacogenomics.mp3" style="width:100%;margin:0.5em 0 1em;">Your browser doesn't support inline audio — <a href="/ezra-blog/assets/audio/my-health/genetics-podcast/08-Phase-I-II-Pharmacogenomics.mp3">download the MP3</a>.</audio>
+
+Phase I slow / Phase II strong — the pattern that reshapes detox thinking for this profile. CYP1A2 het (slow caffeine; cutoff by 10-11 AM); CYP2C9*2 het (NSAIDs halve dose); CYP2D6 ×2 het (avoid codeine/tramadol, cautious with SSRIs/metoprolol); CYP2E1 and CYP3A4 favorable. Phase II genuinely strong: SULT1A1 all favorable, GSTP1 and GSTM3 favorable, NAT1 favorable, PON1 favorable, G6PD favorable. The pharmacogenomic flashcard for your medical records — specific drug class recommendations: ARB > ACEi (from Ep 7), pitavastatin/rosuvastatin if statin ever needed, morphine/oxycodone > codeine/tramadol, sertraline > paroxetine/fluoxetine. Grapefruit watch for CYP3A4 substrates. LDN + ketotifen + cetirizine current meds all pharmacogenomically clean. Dietary chemical considerations: cruciferous induction, EGCG DHFR caution, sulforaphane Nrf2 benefit.
+
+---
+
+### Episode 9 — Fat Metabolism in the Celiac Context — FADS, BCO1, PEMT
+
+*Published 2026-11-22 · 20 min · Narrated by George (UK English)*
+
+<audio controls preload="none" src="/ezra-blog/assets/audio/my-health/genetics-podcast/09-Fat-Metabolism-FADS-BCO1-PEMT.mp3" style="width:100%;margin:0.5em 0 1em;">Your browser doesn't support inline audio — <a href="/ezra-blog/assets/audio/my-health/genetics-podcast/09-Fat-Metabolism-FADS-BCO1-PEMT.mp3">download the MP3</a>.</audio>
+
+Three compound variants reshape the vegetarian + egg-sensitive fat strategy. FADS1 ×2 het + FADS2 het = 25-35% reduced ALA→EPA/DHA conversion → plant omega-3 essentially inert at tissue level → need 2-3g combined EPA+DHA from algae oil daily. BCO1 compound near-null (~60% reduced) = preformed vitamin A non-optional BUT Oct 2026 over-UL dose needs reduction pending serum retinol (which was missing from the lab return — follow up). PEMT ×2 het = 700-900 mg choline/day requirement; thicker bile; membrane phospholipid turnover challenge — citicoline + evening lecithin strategy working. Celiac overlay: baseline reduced fat-soluble absorption even with compliance. Integrated recommendations: omega-3 escalation, vitamin A every-other-day pending retinol, vit D to 7-10K IU + K2, carotenoid loading (astaxanthin) bypassing BCO1, taurine for bile support. Unresolved: serum retinol missing from Oct 16 draw.
+
+---
+
 ## Upcoming episodes
 
-8. Phase I/II detox + pharmacogenomics (CYP, NAT, SULT, GST, PON1)
-9. Fat metabolism (FADS, BCO1, PEMT ×2) in celiac malabsorption context
 10. Iron, B12 transport, and gut absorption triangle (HFE, FUT2, TCN2, celiac)
 11. Mercury detox strategy through the full genome — ongoing chelation optimization
 12. The 12-month integrated playbook — quarterly protocol and pivot triggers
