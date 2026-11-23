@@ -338,9 +338,9 @@ def validate_repository(root: Path) -> None:
             if not (root / local_image).exists():
                 raise ValidationError(f"{path.name} points to a missing illustration")
     for item in ledger["used"]:
-        if not (root / item["story_file"]).exists():
+        if item.get("story_file") and not (root / item["story_file"]).exists():
             raise ValidationError(f"Ledger points to missing story: {item['story_file']}")
-        if not (root / item["image_file"]).exists():
+        if item.get("image_file") and not (root / item["image_file"]).exists():
             raise ValidationError(f"Ledger points to missing image: {item['image_file']}")
 
 
