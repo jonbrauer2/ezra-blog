@@ -1,0 +1,221 @@
+{
+  "schema_version": 1,
+  "used": [
+    {
+      "id": "acts-12-1-19",
+      "reference": "Acts 12:1–19",
+      "story_file": "_kittychronicles/the-night-the-prison-door-opened-by-itself.md",
+      "image_file": "assets/images/family/kittychronicles/volume-2/peter-at-the-door.png"
+    },
+    {
+      "id": "2-chronicles-20-1-30",
+      "reference": "2 Chronicles 20:1–30",
+      "story_file": "_kittychronicles/the-army-that-won-without-fighting.md",
+      "image_file": "assets/images/family/kittychronicles/volume-2/judahs-singing-army.png"
+    },
+    {
+      "id": "2-kings-4-1-7",
+      "reference": "2 Kings 4:1–7",
+      "story_file": "_kittychronicles/the-jar-that-wouldnt-stop-pouring.md",
+      "image_file": "assets/images/family/kittychronicles/volume-2/the-endless-oil-miracle.png"
+    },
+    {
+      "id": "2-kings-6-1-7",
+      "reference": "2 Kings 6:1–7",
+      "story_file": "_kittychronicles/the-incredible-floating-axe.md",
+      "image_file": "assets/images/family/kittychronicles/volume-2/the-floating-axe-miracle.png"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "genesis-18-1-15",
+      "reference": "Genesis 18:1–15",
+      "summary": "Abraham welcomes three visitors, serves them generously, and Sarah hears the surprising promise that she will have a son."
+    },
+    {
+      "id": "genesis-24-10-27",
+      "reference": "Genesis 24:10–27",
+      "summary": "Abraham’s servant prays for guidance, and Rebekah responds with extraordinary kindness by drawing water for him and his camels."
+    },
+    {
+      "id": "genesis-28-10-22",
+      "reference": "Genesis 28:10–22",
+      "summary": "While Jacob sleeps on his journey, God gives him a dream of a stairway to heaven and repeats the covenant promise."
+    },
+    {
+      "id": "genesis-40-1-23",
+      "reference": "Genesis 40:1–23",
+      "summary": "Joseph faithfully serves two imprisoned officials and, giving God the credit, explains their dreams and their different outcomes."
+    },
+    {
+      "id": "exodus-2-1-10",
+      "reference": "Exodus 2:1–10",
+      "summary": "Moses is hidden in a basket among the reeds, where Pharaoh’s daughter finds him and his own mother is chosen to nurse him."
+    },
+    {
+      "id": "exodus-16-1-18",
+      "reference": "Exodus 16:1–18",
+      "summary": "God provides manna each morning for Israel in the wilderness and teaches the people to gather only what each household needs."
+    },
+    {
+      "id": "exodus-17-8-16",
+      "reference": "Exodus 17:8–16",
+      "summary": "Israel prevails against Amalek while Moses holds up his hands, with Aaron and Hur supporting him when he grows tired."
+    },
+    {
+      "id": "joshua-3-7-17",
+      "reference": "Joshua 3:7–17",
+      "summary": "The priests step into the flooded Jordan carrying the ark, the water stops, and all Israel crosses on dry ground."
+    },
+    {
+      "id": "joshua-6-1-20",
+      "reference": "Joshua 6:1–20",
+      "summary": "Israel follows God’s unusual instructions by marching around Jericho, and on the seventh day the walls fall after a shout."
+    },
+    {
+      "id": "judges-4-4-16",
+      "reference": "Judges 4:4–16",
+      "summary": "Deborah delivers God’s message to Barak, accompanies him in faith, and Israel is given victory over Sisera’s stronger army."
+    },
+    {
+      "id": "ruth-1-1-18",
+      "reference": "Ruth 1:1–18",
+      "summary": "Ruth refuses to abandon Naomi and chooses to go with her to Bethlehem, showing loyal love during grief and uncertainty."
+    },
+    {
+      "id": "1-samuel-3-1-21",
+      "reference": "1 Samuel 3:1–21",
+      "summary": "Young Samuel hears God calling at night, learns from Eli how to listen, and faithfully delivers the message he receives."
+    },
+    {
+      "id": "1-samuel-16-1-13",
+      "reference": "1 Samuel 16:1–13",
+      "summary": "God sends Samuel to Jesse’s family and chooses David, the overlooked youngest son, teaching that God looks at the heart."
+    },
+    {
+      "id": "1-samuel-17-32-50",
+      "reference": "1 Samuel 17:32–50",
+      "summary": "David trusts God, refuses Saul’s armor, and defeats the giant Goliath with a sling and a stone."
+    },
+    {
+      "id": "2-samuel-9-1-13",
+      "reference": "2 Samuel 9:1–13",
+      "summary": "King David seeks out Mephibosheth, restores his family land, and welcomes him permanently at the royal table."
+    },
+    {
+      "id": "1-kings-19-1-18",
+      "reference": "1 Kings 19:1–18",
+      "summary": "God cares for exhausted Elijah, then meets him at Horeb not in wind, earthquake, or fire but in a gentle whisper."
+    },
+    {
+      "id": "2-kings-5-1-19",
+      "reference": "2 Kings 5:1–19",
+      "summary": "Naaman reluctantly follows Elisha’s simple instruction to wash in the Jordan and is healed, learning humility and acknowledging God."
+    },
+    {
+      "id": "2-kings-6-8-23",
+      "reference": "2 Kings 6:8–23",
+      "summary": "Elisha’s servant sees God’s heavenly army, and captured enemy soldiers are fed and released instead of being killed."
+    },
+    {
+      "id": "2-kings-7-3-16",
+      "reference": "2 Kings 7:3–16",
+      "summary": "Four hungry men discover that the enemy camp has been abandoned and hurry back to share the good news with a starving city."
+    },
+    {
+      "id": "nehemiah-2-11-20",
+      "reference": "Nehemiah 2:11–20",
+      "summary": "Nehemiah quietly inspects Jerusalem’s broken walls, then invites the people to rebuild despite ridicule from their opponents."
+    },
+    {
+      "id": "nehemiah-4-1-23",
+      "reference": "Nehemiah 4:1–23",
+      "summary": "The people continue rebuilding Jerusalem’s wall through mockery and threats, working together while staying watchful and trusting God."
+    },
+    {
+      "id": "daniel-1-1-21",
+      "reference": "Daniel 1:1–21",
+      "summary": "Daniel and his friends respectfully request food that honors their convictions, and God gives them health, wisdom, and understanding."
+    },
+    {
+      "id": "daniel-3-1-30",
+      "reference": "Daniel 3:1–30",
+      "summary": "Shadrach, Meshach, and Abednego refuse to worship the golden image, and God preserves them in the blazing furnace."
+    },
+    {
+      "id": "daniel-6-1-28",
+      "reference": "Daniel 6:1–28",
+      "summary": "Daniel continues praying despite the royal decree, is thrown among lions, and God shuts the lions’ mouths through the night."
+    },
+    {
+      "id": "jonah-1-1-4-11",
+      "reference": "Jonah 1:1–4:11",
+      "summary": "Jonah runs from God, is rescued through a great fish, preaches to Nineveh, and learns about God’s compassion for others."
+    },
+    {
+      "id": "matthew-14-13-21",
+      "reference": "Matthew 14:13–21",
+      "summary": "Jesus receives a crowd with compassion and feeds more than five thousand people from five loaves and two fish."
+    },
+    {
+      "id": "matthew-14-22-33",
+      "reference": "Matthew 14:22–33",
+      "summary": "Jesus walks across the stormy water, Peter steps out toward him, and Jesus rescues Peter when fear overtakes him."
+    },
+    {
+      "id": "luke-5-1-11",
+      "reference": "Luke 5:1–11",
+      "summary": "After an empty night of fishing, Simon follows Jesus’ instruction and receives an overwhelming catch before being called to follow him."
+    },
+    {
+      "id": "luke-10-25-37",
+      "reference": "Luke 10:25–37",
+      "summary": "Jesus tells of a Samaritan who compassionately rescues an injured stranger after others have passed by without helping."
+    },
+    {
+      "id": "luke-15-1-7",
+      "reference": "Luke 15:1–7",
+      "summary": "Jesus describes a shepherd who searches for one lost sheep and celebrates when he carries it safely home."
+    },
+    {
+      "id": "luke-19-1-10",
+      "reference": "Luke 19:1–10",
+      "summary": "Zacchaeus climbs a tree to see Jesus, welcomes him joyfully, and responds by making generous restitution for his wrongdoing."
+    },
+    {
+      "id": "john-2-1-11",
+      "reference": "John 2:1–11",
+      "summary": "At a wedding in Cana, Jesus quietly turns water into wine, revealing his glory and strengthening his disciples’ faith."
+    },
+    {
+      "id": "john-9-1-41",
+      "reference": "John 9:1–41",
+      "summary": "Jesus heals a man born blind, who steadily speaks the truth about what happened despite repeated questioning and pressure."
+    },
+    {
+      "id": "john-11-1-44",
+      "reference": "John 11:1–44",
+      "summary": "Jesus grieves with Martha and Mary, then calls Lazarus out of the tomb and reveals his authority over death."
+    },
+    {
+      "id": "acts-3-1-10",
+      "reference": "Acts 3:1–10",
+      "summary": "Peter and John meet a man unable to walk at the temple gate, and Jesus heals him so he enters praising God."
+    },
+    {
+      "id": "acts-8-26-40",
+      "reference": "Acts 8:26–40",
+      "summary": "Philip follows God’s direction to a desert road, explains Isaiah to an Ethiopian official, and baptizes him after he believes."
+    },
+    {
+      "id": "acts-9-1-19",
+      "reference": "Acts 9:1–19",
+      "summary": "Jesus stops Saul on the road to Damascus, and Ananias courageously visits him so Saul receives sight and is baptized."
+    },
+    {
+      "id": "acts-27-13-44",
+      "reference": "Acts 27:13–44",
+      "summary": "Paul encourages everyone during a violent shipwreck, the sailors follow wise instructions, and all aboard reach shore alive."
+    }
+  ]
+}
