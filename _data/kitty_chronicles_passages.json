@@ -2,10 +2,14 @@
   "schema_version": 1,
   "used": [
     {
-      "id": "acts-12-1-19",
-      "reference": "Acts 12:1–19",
-      "story_file": "_kittychronicles/the-night-the-prison-door-opened-by-itself.md",
-      "image_file": "assets/images/family/kittychronicles/volume-2/peter-at-the-door.png"
+      "id": "1-kings-17-18",
+      "reference": "1 Kings 17–18",
+      "source": "Volume 1 — Mount Carmel"
+    },
+    {
+      "id": "1-samuel-13-19-14-23",
+      "reference": "1 Samuel 13:19–23; 14:1–23",
+      "source": "Volume 1 — Jonathan and the Philistines"
     },
     {
       "id": "2-chronicles-20-1-30",
@@ -24,6 +28,52 @@
       "reference": "2 Kings 6:1–7",
       "story_file": "_kittychronicles/the-incredible-floating-axe.md",
       "image_file": "assets/images/family/kittychronicles/volume-2/the-floating-axe-miracle.png"
+    },
+    {
+      "id": "acts-12-1-19",
+      "reference": "Acts 12:1–19",
+      "story_file": "_kittychronicles/the-night-the-prison-door-opened-by-itself.md",
+      "image_file": "assets/images/family/kittychronicles/volume-2/peter-at-the-door.png"
+    },
+    {
+      "id": "esther-2-9",
+      "reference": "Esther 2–9",
+      "source": "Volume 1 — Esther"
+    },
+    {
+      "id": "joshua-2-1-24-6-22-25",
+      "reference": "Joshua 2:1–24; 6:22–25",
+      "source": "Volume 1 — Rahab"
+    },
+    {
+      "id": "judges-6-7",
+      "reference": "Judges 6–7",
+      "source": "Volume 1 — Gideon"
+    },
+    {
+      "id": "luke-2-1-20",
+      "reference": "Luke 2:1–20",
+      "source": "Volume 1 — the Nativity"
+    },
+    {
+      "id": "mark-4-35-41",
+      "reference": "Mark 4:35–41",
+      "source": "Volume 1 — Jesus calms the storm"
+    },
+    {
+      "id": "matthew-25-31-46-ephesians-4-32",
+      "reference": "Matthew 25:31–46; Ephesians 4:32",
+      "source": "Volume 1 — kindness campout"
+    },
+    {
+      "id": "numbers-13-14",
+      "reference": "Numbers 13–14",
+      "source": "Volume 1 — the spies and the giants"
+    },
+    {
+      "id": "numbers-22-24",
+      "reference": "Numbers 22–24",
+      "source": "Volume 1 — Balaam and the donkey"
     }
   ],
   "candidates": [
@@ -66,11 +116,6 @@
       "id": "joshua-3-7-17",
       "reference": "Joshua 3:7–17",
       "summary": "The priests step into the flooded Jordan carrying the ark, the water stops, and all Israel crosses on dry ground."
-    },
-    {
-      "id": "joshua-6-1-20",
-      "reference": "Joshua 6:1–20",
-      "summary": "Israel follows God’s unusual instructions by marching around Jericho, and on the seventh day the walls fall after a shout."
     },
     {
       "id": "judges-4-4-16",
