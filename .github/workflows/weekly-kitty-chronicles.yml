@@ -1,58 +1,142 @@
-name: Publish weekly Kitty Chronicle
+name: Propose weekly Kitty Chronicle
 
 on:
   schedule:
-    # 6:05 AM Eastern Standard Time each Monday (11:05 UTC).
-    # The dated Volume 2 story is revealed by Liquid when this rebuild runs.
-    - cron: '5 11 * * 1'
+    # Every Sunday at 14:00 UTC (9 AM EST / 10 AM EDT).
+    - cron: '0 14 * * 0'
   workflow_dispatch:
+    inputs:
+      mode:
+        description: "Dry run uses no API credits; create-pr generates a real proposal"
+        required: true
+        default: dry-run
+        type: choice
+        options:
+          - dry-run
+          - create-pr
+      passage_id:
+        description: "Optional unused passage ID from _data/kitty_chronicles_passages.json"
+        required: false
+        type: string
 
 permissions:
   contents: write
+  pull-requests: write
 
 concurrency:
-  group: weekly-kitty-chronicles
+  group: weekly-kitty-chronicles-proposal
   cancel-in-progress: false
 
 jobs:
-  publish:
+  propose:
     runs-on: ubuntu-latest
+    env:
+      PYTHONUNBUFFERED: "1"
     steps:
-      - uses: actions/checkout@v4
+      - name: Check out the approved site
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          token: ${{ secrets.KITTY_GITHUB_TOKEN || github.token }}
+          fetch-depth: 0
 
-      - name: Publish stories whose release date has arrived
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: scripts/kitty-chronicles-requirements.txt
+
+      - name: Install generator dependencies
+        run: python -m pip install --requirement scripts/kitty-chronicles-requirements.txt
+
+      - name: Run automated tests
+        run: python -m unittest discover -s tests -p "test_kitty_chronicles.py" -v
+
+      - name: Validate the approved story collection
+        run: python scripts/kitty_chronicles_generator.py validate-repository
+
+      - name: Choose safe execution mode
+        id: mode
         shell: bash
         run: |
-          set -euo pipefail
-
-          today="$(date -u +%F)"
-          changed=0
-
-          for story in _kittychronicles/*.md; do
-            volume="$(awk '/^volume:/ { print $2; exit }' "$story")"
-            release_date="$(awk '/^date:/ { print $2; exit }' "$story")"
-            publish_state="$(awk '/^published:/ { print $2; exit }' "$story")"
-
-            if [[ "$volume" != "2" || "$publish_state" != "false" ]]; then
-              continue
-            fi
-
-            if [[ "$release_date" > "$today" ]]; then
-              continue
-            fi
-
-            sed -i 's/^published: false$/published: true/' "$story"
-            echo "Publishing $story"
-            changed=1
-          done
-
-          if [[ "$changed" -eq 0 ]]; then
-            echo "No Kitty Chronicles story is due today."
-            exit 0
+          if [[ "${{ github.event_name }}" == "schedule" ]]; then
+            echo "value=create-pr" >> "$GITHUB_OUTPUT"
+          else
+            echo "value=${{ inputs.mode }}" >> "$GITHUB_OUTPUT"
           fi
 
-          git config user.email "noreply@github.com"
+      - name: Refuse a second open automation proposal
+        if: steps.mode.outputs.value == 'create-pr'
+        env:
+          GH_TOKEN: ${{ secrets.KITTY_GITHUB_TOKEN || github.token }}
+        shell: bash
+        run: |
+          count="$(gh pr list --repo "$GITHUB_REPOSITORY" --state open --json headRefName --jq '[.[] | select(.headRefName | startswith("automation/kitty-chronicle-"))] | length')"
+          if [[ "$count" != "0" ]]; then
+            echo "::error::An open Kitty Chronicles automation pull request already awaits review."
+            exit 1
+          fi
+
+      - name: Run deterministic no-cost test
+        if: steps.mode.outputs.value == 'dry-run'
+        shell: bash
+        run: |
+          args=(generate --mode dry-run --source-root . --output-root "$RUNNER_TEMP/kitty-dry-run" --metadata "$RUNNER_TEMP/kitty-dry-run/metadata.json")
+          if [[ -n "${{ inputs.passage_id }}" ]]; then
+            args+=(--passage-id "${{ inputs.passage_id }}")
+          fi
+          python scripts/kitty_chronicles_generator.py "${args[@]}"
+          test -s "$RUNNER_TEMP/kitty-dry-run/metadata.json"
+
+      - name: Require live-generation credentials
+        if: steps.mode.outputs.value == 'create-pr'
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        shell: bash
+        run: |
+          if [[ -z "$OPENAI_API_KEY" ]]; then
+            echo "::error::OPENAI_API_KEY is not configured. See docs/kitty-chronicles-publishing.md."
+            exit 1
+          fi
+
+      - name: Generate and validate a story proposal
+        if: steps.mode.outputs.value == 'create-pr'
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_ORG_ID: ${{ secrets.OPENAI_ORG_ID }}
+          OPENAI_PROJECT_ID: ${{ secrets.OPENAI_PROJECT_ID }}
+          KITTY_STORY_MODEL: ${{ vars.KITTY_STORY_MODEL || 'gpt-6.1-sol' }}
+          KITTY_IMAGE_MODEL: ${{ vars.KITTY_IMAGE_MODEL || 'gpt-image-2' }}
+          KITTY_IMAGE_QUALITY: ${{ vars.KITTY_IMAGE_QUALITY || 'high' }}
+        shell: bash
+        run: |
+          args=(generate --mode live --metadata "$RUNNER_TEMP/kitty-metadata.json")
+          if [[ -n "${{ inputs.passage_id }}" ]]; then
+            args+=(--passage-id "${{ inputs.passage_id }}")
+          fi
+          python scripts/kitty_chronicles_generator.py "${args[@]}"
+          python scripts/kitty_chronicles_generator.py validate-repository
+
+      - name: Open approval pull request
+        if: steps.mode.outputs.value == 'create-pr'
+        env:
+          GH_TOKEN: ${{ secrets.KITTY_GITHUB_TOKEN || github.token }}
+        shell: bash
+        run: |
+          branch="automation/kitty-chronicle-$(date -u +%Y%m%d)-${{ github.run_id }}"
+          title="$(jq -r .title "$RUNNER_TEMP/kitty-metadata.json")"
+          reference="$(jq -r .reference "$RUNNER_TEMP/kitty-metadata.json")"
+          story_file="$(jq -r .story_file "$RUNNER_TEMP/kitty-metadata.json")"
+          image_file="$(jq -r .image_file "$RUNNER_TEMP/kitty-metadata.json")"
+
           git config user.name "Kitty Chronicles Publisher"
-          git add _kittychronicles
-          git commit -m "publish: weekly Kitty Chronicle $today"
-          git push
+          git config user.email "noreply@github.com"
+          git switch -c "$branch"
+          git add _data/kitty_chronicles_passages.json _kittychronicles assets/images/family/kittychronicles/volume-2
+          git commit -m "propose: $title"
+          git push --set-upstream origin "$branch"
+
+          body="$(printf '%s\n'             '## Weekly Kitty Chronicles proposal'             ''             "- **Story:** $title"             "- **Passage:** $reference"             "- **Story file:** \`$story_file\`"             "- **Illustration:** \`$image_file\`"             ''             'The generator and repository validators passed before this pull request was opened.'             ''             '**Publishing guard:** this branch does not change the live site. The story becomes public only after you review and merge this pull request.')"
+
+          gh pr create             --repo "$GITHUB_REPOSITORY"             --base main             --head "$branch"             --title "Kitty Chronicles: $title"             --body "$body"
