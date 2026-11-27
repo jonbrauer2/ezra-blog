@@ -2,7 +2,7 @@
 layout: post
 title: "The Day the Donkey Carried a King!"
 date: 2026-11-27 00:00:00 -0500
-image: /ezra-blog/assets/images/family/kittychronicles/volume-2/the-day-the-donkey-carried-a-king.png
+image: /ezra-blog/assets/images/family/kittychronicles/volume-2/the-day-the-donkey-carried-a-king.png?v=original
 excerpt: "A borrowed donkey, a joyful parade, and a mischievous kitten help the children discover what makes a true King."
 volume: 2
 order: 7
@@ -10,7 +10,7 @@ scripture: "Luke 19:28–40; Matthew 21:1–11; John 12:12–15"
 published: true
 ---
 
-![Jesus rides a young donkey toward Jerusalem as Hadley, Grayson, Colton, Ella and Tumbles watch the joyful crowd.](/ezra-blog/assets/images/family/kittychronicles/volume-2/the-day-the-donkey-carried-a-king.png)
+![Jesus rides a young donkey toward Jerusalem as Hadley, Grayson, Colton, Ella and Tumbles watch the joyful crowd.](/ezra-blog/assets/images/family/kittychronicles/volume-2/the-day-the-donkey-carried-a-king.png?v=original)
 
 ## 🐕 A Rather Unusual Parade
 
