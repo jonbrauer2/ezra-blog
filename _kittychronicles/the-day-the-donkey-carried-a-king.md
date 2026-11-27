@@ -12,6 +12,10 @@ published: true
 
 ![Jesus rides a young donkey toward Jerusalem as Hadley, Grayson, Colton, Ella and Tumbles watch the joyful crowd.](/ezra-blog/assets/images/family/kittychronicles/volume-2/the-day-the-donkey-carried-a-king.png?v=original)
 
+<audio controls preload="none" src="/ezra-blog/assets/audio/family/kittychronicles/volume-2/the-day-the-donkey-carried-a-king.mp3" style="width:100%;margin:0.5em 0 1em;">Your browser doesn’t support inline audio. <a href="/ezra-blog/assets/audio/family/kittychronicles/volume-2/the-day-the-donkey-carried-a-king.mp3">Download the MP3</a>.</audio>
+
+<small>Read by George. <a href="https://elevenlabs.io/">ElevenLabs</a> text to speech.</small>
+
 ## 🐕 A Rather Unusual Parade
 
 “SQUIRREL!”
