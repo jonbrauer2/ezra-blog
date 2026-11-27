@@ -12,9 +12,9 @@ published: true
 
 ![Daniel looks up in a sunlit den as Hadley, Grayson, Colton, and Tumbles watch the resting lions.](/ezra-blog/assets/images/family/kittychronicles/volume-2/daniel-and-the-lions-den.jpg)
 
-<audio controls preload="none" src="/ezra-blog/assets/audio/family/kittychronicles/volume-2/daniel-and-the-lions-den.mp3" style="width:100%;margin:0.5em 0 1em;">Your browser doesn't support inline audio — <a href="/ezra-blog/assets/audio/family/kittychronicles/volume-2/daniel-and-the-lions-den.mp3">download the MP3</a>.</audio>
+<audio controls preload="none" src="/ezra-blog/assets/audio/family/kittychronicles/volume-2/daniel-and-the-lions-den.mp3?v=george" style="width:100%;margin:0.5em 0 1em;">Your browser doesn't support inline audio — <a href="/ezra-blog/assets/audio/family/kittychronicles/volume-2/daniel-and-the-lions-den.mp3?v=george">download the MP3</a>.</audio>
 
-<small>British English narration generated with Piper using voices trained on <a href="https://doi.org/10.7488/ds/2645">CSTR VCTK</a> and <a href="https://www.openslr.org/109/">Hi-Fi TTS</a> (<a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> datasets).</small>
+<small>Read by George. <a href="https://elevenlabs.io/">ElevenLabs</a> text to speech.</small>
 
 ## 🐱 A Very Large Kitty!
 
